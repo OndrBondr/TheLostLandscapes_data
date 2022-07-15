@@ -298,8 +298,8 @@ Monsters/Monster_kuncklehead diamonds=1000
 Monsters/Monster_sox diamonds=1000
 Monsters/Monster_pummel diamonds=1000
 Monsters/Monster_pongping diamonds=1000
-Monsters/Monster_meduza diamonds=10000
 Monsters/Monster_whimstlop diamonds=1000
+Monsters/Monster_meduza diamonds=10000
 -
 monster_rares:
 Monsters/Monster_mammott
