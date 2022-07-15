@@ -2,7 +2,6 @@
 EM
 monsters:
 Monsters/Monster_toejammer diamonds=10
-Monsters/Monster_stoopa food=10
 Monsters/Monster_potbelly diamonds=10
 Monsters/Monster_tweedle diamonds=10
 Monsters/Monster_flootfly diamonds=20
