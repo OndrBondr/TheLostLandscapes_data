@@ -2,12 +2,6 @@
 EM
 monsters:
 Monsters/Monster_toejammer
-Monsters/Monster_toejammer
-Monsters/Monster_toejammer
-Monsters/Monster_toejammer
-Monsters/Monster_toejammer
-Monsters/Monster_toejammer
-Monsters/Monster_toejammer
 Monsters/Monster_potbelly
 Monsters/Monster_tweedle
 Monsters/Monster_flootfly
