@@ -234,8 +234,8 @@ Decoration/Decoration_mors
 Organs
 monsters:
 Monsters/Monster_handmond coins=10000
-Monsters/Monster_oaktopus diamonds=100
 Monsters/Monster_whimstlop diamonds=150
+Monsters/Monster_oaktopus diamonds=100
 -
 monster_rares:
 Monsters/Monster_oaktopus_rare
