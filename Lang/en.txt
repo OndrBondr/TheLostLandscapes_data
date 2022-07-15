@@ -67,7 +67,7 @@ Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Dee
 
 Monsters/Monster_potbelly_young=Young Potbelly
 Monsters/Monster_potbelly_young_bio=Young Potbelly
-Monsters/Monster_toejammer_young=Young Toejammer
+Monsters/Monster_toejammer_young=Ugly Gay Ass
 Monsters/Monster_toejammer_young_bio=Young Toejammer
 Monsters/Monster_tweedle_young=Young Tweedle
 Monsters/Monster_tweedle_young_bio=Young Tweedle
