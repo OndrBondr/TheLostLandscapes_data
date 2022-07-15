@@ -5,7 +5,7 @@ Monsters/Monster_toejammer_bio=Testing web thing. Adult Toe Jammers have a great
 Monsters/Monster_toejammer_rare=Rare Toe Jammer
 Monsters/Monster_toejammer_rare_bio=Rare Toe Jammer
 
-Monsters/Monster_potbelly=Potbelly
+Monsters/Monster_potbelly=Poteble
 Monsters/Monster_potbelly_bio=The adult potbelly is a loud and extroverted creature, constantly babbling nonsense to everyone who can hear. Whilst other monsters would love to stay around and listen, eventually a potbelly may take off its pot and settle into the jabber, sometimes not even noticing the rooty tendrils engulfing it’s eager listener. Luckily, these days monsters have learned to stay away or gently remind the potbelly, and things go smooth from there.
 Monsters/Monster_tweedle=Tweedle
 Monsters/Monster_tweedle_bio=Adult Tweedles are known to migrate a lot from island to island, sometimes they travel to visit their friends while they also sometimes live on one once they get to understand it a lot with the help of their fellow monsters, a true adventuring bird we must say!!!
