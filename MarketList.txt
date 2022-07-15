@@ -291,15 +291,15 @@ Decoration/Decoration_mors
 ;
 Meduza
 monsters:
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_pongping
-Monsters/Monster_meduza
-Monsters/Monster_whimstlop
-Monsters/Monster_noggin
-Monsters/Monster_sox
-Monsters/Monster_pummel
-Monsters/Monster_kuncklehead
+Monsters/Monster_mammott diamonds=1000
+Monsters/Monster_noggin diamonds=1000
+Monsters/Monster_maw diamonds=1000
+Monsters/Monster_kuncklehead diamonds=1000
+Monsters/Monster_sox diamonds=1000
+Monsters/Monster_whimstlop diamonds=1000
+Monsters/Monster_pummel diamonds=1000
+Monsters/Monster_pongping diamonds=1000
+Monsters/Monster_meduza diamonds=10000
 -
 monster_rares:
 Monsters/Monster_mammott
