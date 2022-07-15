@@ -1,11 +1,11 @@
 
 EM
 monsters:
-Monsters/Monster_toejammer
+Monsters/Monster_toejammer diamonds=10
 Monsters/Monster_stoopa food=10
-Monsters/Monster_potbelly
-Monsters/Monster_tweedle
-Monsters/Monster_flootfly
+Monsters/Monster_potbelly diamonds=10
+Monsters/Monster_tweedle diamonds=10
+Monsters/Monster_flootfly diamonds=20
 Monsters/Monster_oaktopus
 Monsters/Monster_dandidoo
 Monsters/Monster_likho
