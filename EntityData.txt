@@ -16,6 +16,7 @@ Monsters/Monster_dandidoo diamonds=40 air@plant 28800 15 coins=1@80@coins=90 4 0
 Monsters/Monster_varrow diamonds=60 air@faerie 36000 20 coins=1@80@coins=150 6 0
 Monsters/Monster_stoopa diamonds=130 water@faerie@air@plant 79200 40 coins=1@28@coins=550 6 0
 
+
 Monsters/Rare/Monster_toejammer_rare diamonds=75 water 600 10 coins=2@120@coins=120 100 0
 Monsters/Rare/Monster_oaktopus_rare diamonds=80 water@plant 57600 30 coins=2@80@coins=180 100 0
 Monsters/Rare/Monster_varrow_rare diamonds=130 air@faerie 72000 40 coins=2@80@coins=300 100 0
