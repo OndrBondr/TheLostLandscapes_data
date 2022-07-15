@@ -1,0 +1,117 @@
+MonsterName Cost Elements TimeToBreed FoodNeeded CoinProduction@ProductionRate@MaxCoins LevelRequirement Limit
+
+Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 0 0
+Monsters/Monster_potbelly coins=400 plant 300 5 coins=1@120@coins=60 0 0
+Monsters/Monster_tweedle coins=400 air 300 5 coins=1@120@coins=60 0 0
+Monsters/Monster_flootfly coins=400 faerie 14400 10 coins=1@120@coins=90 6 0
+Monsters/Monster_wadee diamonds=60 water@faerie 36000 20 coins=1@80@coins=150 6 0
+Monsters/Monster_choral diamonds=80 water@plant@faerie 46800 30 coins=1@72@coins=200 6 0
+Monsters/Monster_likho diamonds=60 plant@faerie 36000 20 coins=1@80@coins=150 6 0
+Monsters/Monster_oaktopus diamonds=40 water@plant 28800 15 coins=1@80@coins=90 4 0
+Monsters/Monster_quibble diamonds=40 water@air 28800 15 coins=1@80@coins=90 4 0
+Monsters/Monster_spunge diamonds=70 water@air@plant 43200 25 coins=1@72@coins=260 4 0
+Monsters/Monster_dulsylvan diamonds=80 air@plant@faerie 46800 30 coins=1@72@coins=260 6 0
+Monsters/Monster_banno diamonds=80 air@water@faerie 46800 30 coins=1@72@coins=260 6 0
+Monsters/Monster_dandidoo diamonds=40 air@plant 28800 15 coins=1@80@coins=90 4 0
+Monsters/Monster_varrow diamonds=60 air@faerie 36000 20 coins=1@80@coins=150 6 0
+Monsters/Monster_stoopa diamonds=130 water@faerie@air@plant 79200 40 coins=1@28@coins=550 6 0
+
+Monsters/Rare/Monster_toejammer_rare diamonds=75 water 600 10 coins=2@120@coins=120 100 0
+Monsters/Rare/Monster_oaktopus_rare diamonds=80 water@plant 57600 30 coins=2@80@coins=180 100 0
+Monsters/Rare/Monster_varrow_rare diamonds=130 air@faerie 72000 40 coins=2@80@coins=300 100 0
+Monsters/Rare/Monster_spunge_rare diamonds=140 water@air@plant 86400 50 coins=2@72@coins=260 100 0
+Monsters/Rare/Monster_dulsylvan_rare diamonds=160 air@plant@faerie 93600 60 coins=2@72@coins=520 100 0
+Monsters/Rare/Monster_phangler_rare diamonds=1000 water@fire 72000 30 coins=2@80@coins=180 100 0
+
+Monsters/Monster_mammott coins=400 cold 300 5 coins=1@120@coins=60 0 0
+
+Monsters/Monster_noggin coins=400 earth 300 5 coins=1@120@coins=60 0 0
+
+Monsters/Monster_maw diamonds=40 cold@water 28800 15 coins=1@80@coins=90 4 0
+
+Monsters/Monster_pongping diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 6 0
+
+Monsters/Monster_meduza diamonds=1000 undead 0 100 coins=10@80@coins=1000 10 0
+
+Monsters/Monster_pummel diamonds=70 water@earth@plant 43200 25 coins=1@72@coins=260 4 0
+
+Monsters/Monster_kuncklehead diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 6 0
+
+Monsters/Monster_potbelly_young coins=400 plant 300 5 coins=1@120@coins=60 0 0
+Monsters/Monster_toejammer_young coins=400 water 300 5 coins=1@120@coins=60 0 0
+Monsters/Monster_tweedle_young coins=400 air 300 5 coins=1@120@coins=60 0 0
+Monsters/Monster_flootfly_young coins=400 faerie 14400 5 coins=1@120@coins=90 6 0
+
+Monsters/Special/Monster_melochness diamonds=100 water@faerie 1 10 coins=1@120@coins=90 100 0
+Monsters/Monster_percFrog diamonds=60 water@earth@faerie 10 0 coins=1@72@coins=1000 100 0
+
+Monsters/Monster_sox diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 0 0
+
+Monsters/Monster_hornacle diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
+Monsters/Monster_loodvigg diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
+Monsters/Monster_blasoom diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
+Monsters/Monster_torrt diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
+Monsters/Monster_scaratar diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
+Monsters/Monster_syncopite diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
+Monsters/Monster_attmoz diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
+Monsters/Monster_vhamp diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
+Monsters/Monster_furnoss diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
+Monsters/Monster_glaishur diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
+Monsters/Monster_light diamonds=3000 super-celestial 19 10000000 coins=4000@43200@coins=10000 100 0
+Monsters/Monster_bone diamonds=3000 super-celestial 19 10000000 coins=4000@43200@coins=10000 100 0
+
+Monsters/Monster_phangler diamonds=500 water@fire 36000 15 coins=1@80@coins=90 6 0
+Monsters/Monster_bridgit diamonds=750 faerie@earth@fire 36000 30 coins=1@72@coins=260 6 0
+Monsters/Monster_frondley diamonds=750 phsychic@faerie@light 36000 50 coins=1@72@coins=300 6 0
+
+
+Monsters/Monster_handmond coins=400 organ 14400 10 coins=1@120@coins=90 6 0
+Monsters/Monster_whimstlop coins=400 organ 14400 10 coins=1@120@coins=90 6 0
+
+
+Monsters/Knott_1 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1@43200@coins=10000,diamonds=2,food=8000,stars=2 0 0
+Monsters/Knott_2 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1@43200@coins=10000,diamonds=2,food=8000,stars=2 0 0
+Monsters/Knott_3 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1@43200@coins=10000,diamonds=2,food=8000,stars=2 0 0
+Monsters/Knott_4 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1@43200@coins=10000,diamonds=2,food=8000,stars=2 0 0
+Monsters/Knott_5 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1@43200@coins=10000,diamonds=2,food=8000,stars=2 0 0
+Monsters/Knott_6 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1@43200@coins=10000,diamonds=2,food=8000,stars=2 0 0
+Monsters/Knott_7 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1@43200@coins=10000,diamonds=2,food=8000,stars=2 0 0
+Monsters/Knott_8 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1@43200@coins=10000,diamonds=2,food=8000,stars=2 0 0
+Monsters/Knott_9 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1@43200@coins=10000,diamonds=2,food=8000,stars=2 0 0
+Monsters/Knott_10 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1@43200@coins=10000,diamonds=2,food=8000,stars=2 0 0
+
+Structures/Structure_breeding coins=500,diamonds=75 4 2
+Structures/Structure_breeding_city coins=500,coins=1000,diamonds=75,diamonds=100,diamonds=200 4 5
+Structures/Structure_bakery coins=500,coins=1000,coins=2000 3 3
+
+EM_path1 coins=50 0 0
+EM_path2 coins=25 0 0
+EM_path3 coins=25 0 0
+EM_path4 coins=50 0 0
+EM_path5 coins=175 0 0
+EM_path6 coins=175 0 0
+EM_path7 coins=175 0 0
+
+Decoration/Decoration_test coins=100 2 0
+Decoration/Decoration_test1 coins=100 2 0
+Decoration/Decoration_test2 coins=300 5 0
+Decoration/Decoration_test3 coins=200 5 0
+Decoration/Decoration_test4 coins=200 5 0
+Decoration/Decoration_test5 coins=200 5 0
+Decoration/Decoration_test6 coins=200 5 0
+Decoration/Decoration_test7 coins=200 5 0
+Decoration/Decoration_test8 coins=200 5 0
+Decoration/Decoration_test9 coins=200 5 0
+Decoration/Decoration_test10 coins=200 5 1
+Decoration/Decoration_test11 coins=200 5 0
+Decoration/Decoration_test12 coins=200 5 0
+
+Decoration/Decoration_knott coins=20000 0 0
+Decoration/Decoration_mors coins=15000 0 0
+
+Decoration/Obstacle_EM_1 coins=-100 25
+Decoration/Obstacle_EM_2 coins=-500 50
+Decoration/Obstacle_EM_3 coins=-1000 75
+Decoration/Obstacle_EM_4 coins=-100 25
+Decoration/Obstacle_EM_5 coins=-500 50
+Decoration/Obstacle_EM_6 coins=-1000 75
