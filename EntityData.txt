@@ -38,7 +38,7 @@ Monsters/Monster_pummel diamonds=70 water@earth@plant 43200 25 coins=1@72@coins=
 Monsters/Monster_kuncklehead diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 6 0
 
 Monsters/Monster_potbelly_young coins=400 plant 300 5 coins=1@120@coins=60 0 0
-Monsters/Monster_toejammer_young coins=400 water 300 5 coins=100@1@coins=600 0 0
+Monsters/Monster_toejammer_young coins=40000000 water@water@water@water@water@water@water 30000 5000 coins=1@120@coins=60 0 0
 Monsters/Monster_tweedle_young coins=400 air 300 5 coins=1@120@coins=60 0 0
 Monsters/Monster_flootfly_young coins=400 faerie 14400 5 coins=1@120@coins=90 6 0
 
