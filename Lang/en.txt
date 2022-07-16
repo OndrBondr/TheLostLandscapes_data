@@ -410,3 +410,4 @@ goal_placeBreeding=Buy and place a <color="green">Breeding Structure.
 goal_removeObstacles=Remove <color="green"><amount></color> Obstacles.
 goal_designerMode=Try out the <color="green">Path Designer Mode.
 goal_placeDeco=Buy and place <color="green">"<entityName>".
+goal_teleport=Teleport a <color="green"><entityName></color>
