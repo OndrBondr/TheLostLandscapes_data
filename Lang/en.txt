@@ -288,6 +288,7 @@ str_teleport_entityNotOnThisIsland=This Monster can't be placed on <islandName>.
 str_teleport_entityLevelNotEnough=To place this monster on <islandName> its level must be <color="yellow"><level></color> or higher. Your monster's level is <color="yellow"><monsterLevel></color>.\nYou can always return your monster back to Floating City and feed it untill the required level.
 str_teleport_unavailable=The Zeppelin is currently on <islandName>. You must send it here first.
 str_teleport_flying=The Zeppelin is currently flying to <islandName> wait untill it arrives or speed it up with diamonds.
+str_teleport_unavailable_monster=The Zeppelin is currently not on this island.
 
 str_popup_islandComingSoon=New and Exciting things coming soon!
 str_popup_islandAlreadyOn=You are already on this island.
