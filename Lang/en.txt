@@ -325,6 +325,9 @@ str_stars_poison=Poison's Mark
 str_stars_shadow=Shadowed Glare
 str_stars_plasma=Plasmic Ooze
 
+str_teleporter=Symphonic Zeppelin
+str_teleporter_target=The Zeppelin will arrive to <sialndName> in <time>.
+
 
 btn_shop=Market
 
@@ -381,6 +384,7 @@ btn_book=Collection
 btn_ship=Zeppelin
 btn_unlock=Unlock
 btn_lock=Lock
+btn_teleportSend=Send
 
 goal_breed_buy=Buy and place a <color="green"><entityName>
 goal_breed_an=Breed and place an <color="green"><entityName>
