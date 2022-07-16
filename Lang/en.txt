@@ -330,7 +330,7 @@ str_stars_plasma=Plasmic Ooze
 
 str_teleporter=Symphonic Zeppelin
 str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><amount> diamonds</color>?
-str_teleporter_target_map=The Zeppelin will arrive at <color="green"><islandName></color> in <time>.
+str_teleporter_target_map=The Zeppelin will arrive at <color="green"><islandName></color> in <time>
 str_teleporter_target_map_arrived=The Zeppelin has arrived at <color="green"><islandName></color>.
 str_popup_teleporter_moveToTarget=Would you like to go to <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Would you like to send the Zeppelin to <color="green"><islandName></color>?
