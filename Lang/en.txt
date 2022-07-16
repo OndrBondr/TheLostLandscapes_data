@@ -284,9 +284,9 @@ str_popup_breeding_repeat=You haven't bred monsters before. Breed something firs
 str_popup_breeding_repeatNoMonster=The monsters you have used to breed are no longer on the island.
 str_popup_shopLimit=The limit for this product has been exceeded.
 str_popup_TimedNotReady=This structure is still functioning. Please waint untill its function is complete or speed it up.
-str_teleport_entityNotOnThisIsland=This Monster can't be placed on <islandName>.
-str_teleport_entityLevelNotEnough=To place this monster on <islandName> its level must be <color="yellow"><level></color> or higher. Your monster's level is <color="yellow"><monsterLevel></color>.\nYou can always return your monster back to Floating City and feed it untill the required level.
-str_teleport_unavailable=The Zeppelin is currently on <islandName>. You must send it here first.
+str_teleport_entityNotOnThisIsland=This Monster can't be placed on <color="green"><islandName></color>.
+str_teleport_entityLevelNotEnough=To place this monster on <color="green"><islandName></color> its level must be <color="yellow"><level></color> or higher. Your monster's level is <color="yellow"><monsterLevel></color>.\nYou can always return your monster back to <color="green">Floating City</color> and feed it untill the required level.
+str_teleport_unavailable=The Zeppelin is currently at <color="green"><islandName></color>. You must send it here first.
 str_teleport_flying=The Zeppelin is currently flying to <color="green"><islandName></color>. Wait untill it arrives or speed it up with diamonds.
 str_teleport_unavailable_monster=The Zeppelin is currently not on this island.
 
