@@ -6,6 +6,6 @@ Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
 Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 4
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 4
 ;
-Organ 86400
+Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
 ;
