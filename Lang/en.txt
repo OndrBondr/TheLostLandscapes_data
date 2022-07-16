@@ -287,7 +287,7 @@ str_popup_TimedNotReady=This structure is still functioning. Please waint untill
 str_teleport_entityNotOnThisIsland=This Monster can't be placed on <islandName>.
 str_teleport_entityLevelNotEnough=To place this monster on <islandName> its level must be <color="yellow"><level></color> or higher. Your monster's level is <color="yellow"><monsterLevel></color>.\nYou can always return your monster back to Floating City and feed it untill the required level.
 str_teleport_unavailable=The Zeppelin is currently on <islandName>. You must send it here first.
-str_teleport_flying=The Zeppelin is currently flying to <islandName> wait untill it arrives or speed it up with diamonds.
+str_teleport_flying=The Zeppelin is currently flying to <color="green"><islandName></color>. Wait untill it arrives or speed it up with diamonds.
 str_teleport_unavailable_monster=The Zeppelin is currently not on this island.
 
 str_popup_islandComingSoon=New and Exciting things coming soon!
@@ -329,10 +329,10 @@ str_stars_shadow=Shadowed Glare
 str_stars_plasma=Plasmic Ooze
 
 str_teleporter=Symphonic Zeppelin
-str_teleporter_target=The Zeppelin will arrive to <islandName> in <time>.\nWould you like to speed it up for <color=#4EFFF5><amount> diamonds</color>?
-str_teleporter_target_map=The Zeppelin will arrive at <islandName> in <time>.
-str_teleporter_target_map_arrived=The Zeppelin has arrived at <islandName>.
-str_popup_teleporter_moveToTarget=Would you like to go to <islandName>?
+str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><amount> diamonds</color>?
+str_teleporter_target_map=The Zeppelin will arrive at <color="green"><islandName></color> in <time>.
+str_teleporter_target_map_arrived=The Zeppelin has arrived at <color="green"><islandName></color>.
+str_popup_teleporter_moveToTarget=Would you like to go to <color="green"><islandName></color>?
 
 btn_shop=Market
 
