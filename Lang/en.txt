@@ -285,7 +285,7 @@ str_popup_breeding_repeatNoMonster=The monsters you have used to breed are no lo
 str_popup_shopLimit=The limit for this product has been exceeded.
 str_popup_TimedNotReady=This structure is still functioning. Please waint untill its function is complete or speed it up.
 str_teleport_entityNotOnThisIsland=This Monster can't be placed on <islandName>.
-str_teleport_entityLevelNotEnough=To place this monster on <islandName> its level must be <color="yellow"><level></color> or higher. Your monster's level is <color="yellow"><monsterLevel></color>.\nYou can always return to Floating City and level your monster up.
+str_teleport_entityLevelNotEnough=To place this monster on <islandName> its level must be <color="yellow"><level></color> or higher. Your monster's level is <color="yellow"><monsterLevel></color>.\nYou can always return your monster back to Floating City and feed it untill the required level.
 
 str_popup_islandComingSoon=New and Exciting things coming soon!
 str_popup_islandAlreadyOn=You are already on this island.
