@@ -1,14 +1,14 @@
 
 City
-Monsters/Monster_toejammer_young=Monsters/Monster_toejammer_young
-Monsters/Monster_flootfly_young=Monsters/Monster_flootfly_young
-Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus_young
+Monsters/Monster_toejammer_young=Monsters/Monster_toejammer_young 1
+Monsters/Monster_flootfly_young=Monsters/Monster_flootfly_young 1
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus_young 1
 ;
 EM
-Monsters/Monster_toejammer_young=Monsters/Monster_toejammer
-Monsters/Monster_flootfly_young=Monsters/Monster_flootfly
-Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus
+Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
+Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 4
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 4
 ;
 Organ
-Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
 ;
