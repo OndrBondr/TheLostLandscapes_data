@@ -333,7 +333,6 @@ str_teleporter_target=The Zeppelin will arrive to <islandName> in <time>.\nWould
 str_teleporter_target_map=The Zeppelin will arrive at <islandName> in <time>.
 str_teleporter_target_map_arrived=The Zeppelin has arrived at <islandName>.
 
-
 btn_shop=Market
 
 btn_shop_monsters=Monsters
