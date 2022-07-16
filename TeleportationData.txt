@@ -1,7 +1,7 @@
 
-City 3600
+City 0
 ;
-EM 43200
+EM 3600
 Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
 Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 4
 Monsters/Monster_tweedle_young=Monsters/Monster_tweedle 4
