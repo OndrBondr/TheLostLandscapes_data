@@ -326,7 +326,7 @@ str_stars_shadow=Shadowed Glare
 str_stars_plasma=Plasmic Ooze
 
 str_teleporter=Symphonic Zeppelin
-str_teleporter_target=The Zeppelin will arrive to <sialndName> in <time>.
+str_teleporter_target=The Zeppelin will arrive to <islandName> in <time>.
 
 
 btn_shop=Market
