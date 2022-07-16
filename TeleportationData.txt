@@ -1,1 +1,14 @@
-City:
+
+City
+Monsters/Monster_toejammer_young=Monsters/Monster_toejammer_young
+Monsters/Monster_flootfly_young=Monsters/Monster_flootfly_young
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus_young
+;
+EM
+Monsters/Monster_toejammer_young=Monsters/Monster_toejammer
+Monsters/Monster_flootfly_young=Monsters/Monster_flootfly
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus
+;
+Organ
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus
+;
