@@ -4,6 +4,8 @@ City 3600
 EM 43200
 Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
 Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 4
+Monsters/Monster_tweedle_young=Monsters/Monster_tweedle 4
+Monsters/Monster_potbelly_young=Monsters/Monster_potbelly 4
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 4
 ;
 Organs 86400
