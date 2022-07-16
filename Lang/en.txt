@@ -332,6 +332,7 @@ str_teleporter=Symphonic Zeppelin
 str_teleporter_target=The Zeppelin will arrive to <islandName> in <time>.\nWould you like to speed it up for <color=#4EFFF5><amount> diamonds</color>?
 str_teleporter_target_map=The Zeppelin will arrive at <islandName> in <time>.
 str_teleporter_target_map_arrived=The Zeppelin has arrived at <islandName>.
+str_popup_teleporter_moveToTarget=Would you like to go to <islandName>?
 
 btn_shop=Market
 
