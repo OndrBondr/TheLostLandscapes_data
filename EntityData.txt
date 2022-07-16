@@ -82,7 +82,7 @@ Monsters/Knott_10 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food
 
 Structures/Structure_breeding coins=500,diamonds=75 4 2
 Structures/Structure_breeding_city coins=500,coins=1000,diamonds=75,diamonds=100,diamonds=200 4 5
-Structures/Structure_bakery coins=500,coins=1000,coins=2000 3 3
+Structures/Structure_bakery coins=500,coins=5000,coins=20000 3 3
 
 EM_path1 coins=50 0 0
 EM_path2 coins=25 0 0
