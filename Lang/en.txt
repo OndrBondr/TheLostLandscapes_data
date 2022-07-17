@@ -55,7 +55,7 @@ Monsters/Monster_varrow=Varrow
 Monsters/Monster_varrow_bio=Known for its penchant for hunting, the melodic “Yah-ha-ha!” of the Varow echoes throughout all corners of the Evergreen Swamp. It uses its call and prolonged noseharp to attempt to attract juvenile fwogs to its corner of the swamp, even though it might not work as often as it likes. In fact, its attempts more often scare its slippery prey away, leaving the Varow fwogless and alone. It’s a sad thing too, since it truly just wants new customers to sample their fresh home-made sweets!
 
 Monsters/Monster_varrow_rare=Rare Varrow
-Monsters/Monster_varrow_rare_bio=Rare Varrow bio
+Monsters/Monster_varrow_rare_bio=What do you find when you place a needle inside a nutshell, inside a berry, in a cloth, place it in a chest, and bury it at the bottom of the marsh's waters? A Rare Varow, that's what! These queer monsters have a penchance to anything puzzling and paradoxical- including themselves! While it's unknown how these odd monsters came into existence, they're here to stay, boasting their garments and trinkets from distant lands and giving everyone something to ponder every chance they get...
 
 Monsters/Monster_banno=Banno
 Monsters/Monster_banno_bio=Banno is a vocalist of the legendary Cancer Choir, for a long time he spent his time in the deep cold depths of the ocean. Sadly though, it was far too cold for his hot water-loving body! Instead of moving into a geyser of some sort, he decided to stay close to his friends, utilizing an endlessly boiling bucket to keep comfy. Whilst his boiling red abdomen may be concerning, there’s no need to worry- Banno states that it’s just his natural color showing after the cleaning of thousands of years of sea gunk.
