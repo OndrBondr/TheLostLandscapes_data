@@ -243,12 +243,12 @@ Decoration/Obstacle_EM_2=Medium Mushroom
 Decoration/Obstacle_EM_2_bio=It's a medium mushroom. Don't worry; removed mushrooms will be taken far away and gently replanted.
 Decoration/Obstacle_EM_3=Large Mushroom
 Decoration/Obstacle_EM_3_bio=It's a large mushroom. Don't worry; removed mushrooms will be taken far away and gently replanted.
-Decoration/Obstacle_EM_4=Small Rock
-Decoration/Obstacle_EM_4_bio=It's a small rock. Removed rocks will be taken away to wonderful new homes.
-Decoration/Obstacle_EM_5=Medium Rock
-Decoration/Obstacle_EM_5_bio=It's a medium rock. Removed rocks will be taken away to wonderful new homes.
-Decoration/Obstacle_EM_6=Large Rock
-Decoration/Obstacle_EM_6_bio=It's a large rock. Removed rocks will be taken away to wonderful new homes.
+Decoration/Obstacle_EM_4=Small Puff Shroom
+Decoration/Obstacle_EM_4_bio=It's a small puff shroom. Removed puff shrooms will be taken away to wonderful new homes.
+Decoration/Obstacle_EM_5=Medium Puff Shroom
+Decoration/Obstacle_EM_5_bio=It's a medium puff shroom. Removed puff shrooms will be taken away to wonderful new homes.
+Decoration/Obstacle_EM_6=Large Puff Shroom
+Decoration/Obstacle_EM_6_bio=It's a large puff shroom. Removed puff shrooms will be taken away to wonderful new homes.
 
 str_breeding=You've bred a\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
 str_lvl=Lvl:
