@@ -1,9 +1,9 @@
 ﻿-------
 Monsters/Monster_toejammer=Toe Jammer
-Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the water, they are also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they always know how to have a good time!!!"
+Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the wate. Also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they know how to have a good time!!!
 
 Monsters/Monster_toejammer_rare=Rare Toe Jammer
-Monsters/Monster_toejammer_rare_bio=Rare Toe Jammer bio
+Monsters/Monster_toejammer_rare_bio=While the common Toe Jammer is a well known partygoer, this rare variant is far more accustomed to stay at home experiences, especially of the snacking kind. With some handy snackholding pegs included, there's no adventure the Rare Toe Jammer can't handle- from the comfort of a couch that is.
 
 Monsters/Monster_potbelly=Potbelly
 Monsters/Monster_potbelly_bio=The adult potbelly is a loud and extroverted creature, constantly babbling nonsense to everyone who can hear. Whilst other monsters would love to stay around and listen, eventually a potbelly may take off its pot and settle into the jabber, sometimes not even noticing the rooty tendrils engulfing it’s eager listener. Luckily, these days monsters have learned to stay away or gently remind the potbelly, and things go smooth from there.
