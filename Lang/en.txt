@@ -36,7 +36,7 @@ Monsters/Monster_spunge_rare=Rare Spunge
 Monsters/Monster_spunge_rare_bio=Rare Spunge bio
 
 Monsters/Monster_percFrog=Amphibeat
-Monsters/Monster_percFrog_bio=Amphibeat is a frog. How did you even get this monster? Did you get the combo from my 20k special video? If not then idk..
+Monsters/Monster_percFrog_bio=Amphibeat is a frog. How did you even get this monster? Did you get the combo from my 20k special video? If not then idk..    Azu wuz here :3
 Monsters/Monster_phangler=Phangler
 Monsters/Monster_phangler_bio=It appears that the lukewarm waters around the marsh are quite the welcoming enviroment. Many monsters come up to the surface to enjoy them, including the Wadee, the Banno, and more! It appears some monsters also make the land journey at times! One such example is Phangler, who must have adventured all the way from the jungley shore, through the Evergreen Woods to get to the water. Phangler says its arguably the second-sweetest place in the world- and who can blame em?
 
@@ -47,7 +47,7 @@ Monsters/Monster_dulsylvan=Dulsylvan
 Monsters/Monster_dulsylvan_bio=The carved Dulsylvan, a creature of wood and weathering, held together by its solid core, may seem a tad bit rude on first encounter. Known to never speak, and always donning a scowl, Dulsylvan’s bad mood is naught more than circumstance, as it’s mouth has long been cemented in that shape. In truth, the true monster lives in the small creatures that reside upon the only truly life-filled part of the being, it’s lofty twigs. These creatures, sometimes referred to as Sylvlings, cover and open holes on their ailing ancestors branches to allow air through, and giving the Dulsylvan a means of communication with its neighbors. Once Dulsylvan mystically changes into a pine cone, the Sylvlings will begin to grow and change rapidly, into young Dulsylvans of their own!
 
 Monsters/Monster_dulsylvan_rare=Rare Dulsylvan
-Monsters/Monster_dulsylvan_rare_bio=Rare Dulsylvan bio
+Monsters/Monster_dulsylvan_rare_bio=During the late stages of a Dulsylvan’s time, it’s body begins to rapidly change. Old, solid wood morphs into a light airy shape, known as a sylvcone. The Dulsylvan’s body begins to ooze a sweet sap, that will feed its young Sylvlings after it has passed on, and it’s nose changes to a luscious green shade. While these latter days are considered to be short, they are known to be filled with joy, as the old Dulsylvan becomes able to move freely once more! Eventually though, it slows down, and the sap crystallizes the sylvcone and preserves it for eternity…
 
 Monsters/Monster_dandidoo=Dandidoo
 Monsters/Monster_dandidoo_bio=As the warm flows of the ocean carry oysters around the deeps, a gentle breeze carries Dandidoo across the monster world. Their migrations rely on airflow since nature wasn't kind enough to grant them wings. They can conduct the air through their bodies to store and burst it out in a powerful stream of tuned tones and semitones. That's why their singing resembles "doo"s and "dee"s.\nTheir plant element gave them a greenish hue and afro-styled hair reminiscent of a common dandelion.
