@@ -7,6 +7,9 @@ Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 4
 Monsters/Monster_tweedle_young=Monsters/Monster_tweedle 4
 Monsters/Monster_potbelly_young=Monsters/Monster_potbelly 4
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 4
+Monsters/Monster_quibble_young=Monsters/Monster_quibble 4
+Monsters/Monster_dandidoo_young=Monsters/Monster_dandidoo 4
+Monsters/Monster_spunge_young=Monsters/Monster_spunge 4
 ;
 Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
