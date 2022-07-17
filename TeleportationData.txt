@@ -10,4 +10,5 @@ Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 4
 ;
 Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
+Monsters/Monster_toejammer_young=Monsters/Monster_whimstlop 1
 ;
