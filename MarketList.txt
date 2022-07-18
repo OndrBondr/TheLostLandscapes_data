@@ -46,6 +46,7 @@ Decoration/Decoration_test9
 Decoration/Decoration_test10
 Decoration/Decoration_test11
 Decoration/Decoration_test12
+Decoration/Dog
 -
 structures:
 Structures/Structure_breeding
@@ -76,6 +77,7 @@ Decoration/Decoration_test7
 Decoration/Decoration_test9
 Decoration/Decoration_test10
 Decoration/Decoration_test12
+Decoration/Dog
 -
 composer:
 Monsters/Composer/Monster_toejammer_composer coins=10
@@ -170,6 +172,7 @@ Decoration/Decoration_test10
 Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
+Decoration/Dog
 ;
 Knottshurr
 monsters:
@@ -231,6 +234,7 @@ Decoration/Decoration_test10
 Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
+Decoration/Dog
 ;
 Organs
 monsters:
@@ -289,6 +293,7 @@ Decoration/Decoration_test10
 Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
+Decoration/Dog
 ;
 Meduza
 monsters:
@@ -371,4 +376,5 @@ Decoration/Decoration_test10
 Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
+Decoration/Dog
 ;
