@@ -120,7 +120,7 @@ Monsters/Monster_attmoz
 Monsters/Monster_vhamp
 Monsters/Monster_furnoss
 Monsters/Monster_glaishur
-Monsters/Monster_galvana
+Monsters/Monster_galvana diamonds=5
 Monsters/Monster_plixie
 Monsters/Monster_light 
 Monsters/Monster_bone
