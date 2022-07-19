@@ -59,8 +59,8 @@ Monsters/Monster_furnoss diamonds=3000 celestial 19 10000000 coins=4000@43200@co
 Monsters/Monster_glaishur diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
 Monsters/Monster_galvana diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
 Monsters/Monster_plixie diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 8 0
-Monsters/Monster_light diamonds=3000 super-celestial 19 10000000 coins=4000@43200@coins=10000 7 0
-Monsters/Monster_bone diamonds=3000 super-celestial 19 10000000 coins=4000@43200@coins=10000 7 0
+Monsters/Monster_light diamonds=3000 super-celestial 19 10000000 coins=4000@43200@coins=10000 100
+Monsters/Monster_bone diamonds=3000 super-celestial 19 10000000 coins=4000@43200@coins=10000 100 0
 
 Monsters/Monster_phangler diamonds=500 water@fire 36000 15 coins=1@80@coins=90 6 0
 Monsters/Monster_bridgit diamonds=750 faerie@earth@fire 36000 30 coins=1@72@coins=260 6 0
