@@ -10,6 +10,7 @@ Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 4
 Monsters/Monster_quibble_young=Monsters/Monster_quibble 4
 Monsters/Monster_dandidoo_young=Monsters/Monster_dandidoo 4
 Monsters/Monster_spunge_young=Monsters/Monster_spunge 4
+Monsters/Monster_galvana=Monsters/Monster_galvana 1
 ;
 Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
