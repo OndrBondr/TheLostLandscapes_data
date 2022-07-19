@@ -116,4 +116,4 @@ Decoration/Obstacle_EM_3 coins=-1000 75
 Decoration/Obstacle_EM_4 coins=-100 25
 Decoration/Obstacle_EM_5 coins=-500 50
 Decoration/Obstacle_EM_6 coins=-1000 75
-Decoration/Dog food=2000 10 20
+Decoration/Dog food=2000 20 0
