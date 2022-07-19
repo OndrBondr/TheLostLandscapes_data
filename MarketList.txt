@@ -1,10 +1,10 @@
 
 EM
 monsters:
-Monsters/Monster_toejammer diamonds=10
-Monsters/Monster_potbelly diamonds=10
-Monsters/Monster_tweedle diamonds=10
-Monsters/Monster_flootfly diamonds=20
+Monsters/Monster_toejammer diamonds=20
+Monsters/Monster_potbelly diamonds=20
+Monsters/Monster_tweedle diamonds=20
+Monsters/Monster_flootfly diamonds=25
 Monsters/Monster_oaktopus
 Monsters/Monster_dandidoo
 Monsters/Monster_likho
@@ -122,7 +122,7 @@ Monsters/Monster_furnoss
 Monsters/Monster_glaishur
 Monsters/Monster_galvana
 Monsters/Monster_plixie
-Monsters/Monster_light
+Monsters/Monster_light diamonds=20
 Monsters/Monster_bone
 -
 decorations:
