@@ -146,6 +146,7 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_breeding_city
 Structures/Structure_bakery
+Structures/Structure_amalgamator_city
 -
 deco_paths:
 EM_path1
@@ -207,6 +208,7 @@ Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
 structures:
+Structures/Structure_amalgamator
 Structures/Structure_bakery
 -
 deco_paths:
