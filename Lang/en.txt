@@ -74,6 +74,9 @@ Monsters/Monster_tweedle_young_bio=Young Tweedle bio
 Monsters/Monster_flootfly_young=Young Floot Fly
 Monsters/Monster_flootfly_young_bio=Young Floot Fly bio
 
+Monsters/Monster_oaktopus_young=Young Oaktopus
+Monsters/Monster_oaktopus_young_bio=Young Oaktopus bio
+
 Monsters/Knott_1=Knottshurr Tree
 Monsters/Knott_1_bio=This creature, despite not looking sylvan, is an ent. It's the next point in evolution of the Surr trees, conifers found across the island. Its bark is almost pertified and impenetrable by most of the vermins and predators. Yet a particular species of "Plantcarver nymph" have developed strong teeth that can gnaw away the stone bark and settle inside of the everblue. The tree's bark is extremely resonant from the inside. Allowing nymths to sing while inside and resonate a deep-throated, ear-piercing sound. The holes carved away by the nymphs resemble a face to scare away unwanted guests and attend on the yearly spooktackle decoration contest.
 Monsters/Knott_2=Bay
