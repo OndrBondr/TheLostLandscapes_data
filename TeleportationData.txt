@@ -33,7 +33,7 @@ Monsters/Monster_wadee= 0
 Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
 Monsters/Monster_plixie=Monsters/Monster_plixie 1
-Monsters/Monster_okatopus= 0
+Monsters/Monster_oaktopus= 0
 Monsters/Monster_handmond= 0
 Monsters/Monster_whimstlop= 0
 ;
