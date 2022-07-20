@@ -334,6 +334,16 @@ str_stars_poison=Poison's Mark
 str_stars_shadow=Shadowed Glare
 str_stars_plasma=Plasmic Ooze
 
+str_class_Natural=Natural
+str_class_Natural-r=Natural(rare)
+str_class_Magical=Magical
+str_class_Magical-r=Magical(rare)
+str_class_Supernatural=Supernatural
+str_class_Celestial=Celestial
+str_class_Celestial-s=Supercelestial
+str_class_Lost=Strayed
+str_class_Lost-r=Strayed(rare)
+
 str_teleporter=Symphonic Zeppelin
 str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><amount> diamonds</color>?
 str_teleporter_target_map=The Zeppelin will arrive at <color="green"><islandName></color> in <time>
