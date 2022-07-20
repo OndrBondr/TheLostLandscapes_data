@@ -10,12 +10,34 @@ Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 4
 Monsters/Monster_quibble_young=Monsters/Monster_quibble 4
 Monsters/Monster_dandidoo_young=Monsters/Monster_dandidoo 4
 Monsters/Monster_spunge_young=Monsters/Monster_spunge 4
+Monsters/Monster_toejammer= 0
+Monsters/Monster_flootfly= 0
+Monsters/Monster_tweedle= 0
+Monsters/Monster_potbelly= 0
+Monsters/Monster_oaktopus= 0
+Monsters/Monster_quibble= 0
+Monsters/Monster_dandidoo= 0
+Monsters/Monster_spunge= 0
+Monsters/Monster_likho= 0
+Monsters/Monster_banno= 0
+Monsters/Monster_bridgit= 0
+Monsters/Monster_choral= 0
+Monsters/Monster_dulsylvan= 0
+Monsters/Monster_frondley= 0
+Monsters/Monster_percFrog= 0
+Monsters/Monster_phangler= 0
+Monsters/Monster_stoopa= 0
+Monsters/Monster_varrow= 0
+Monsters/Monster_wadee= 0
 ;
 Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
 Monsters/Monster_plixie=Monsters/Monster_plixie 1
+Monsters/Monster_okatopus= 0
+Monsters/Monster_handmond= 0
+Monsters/Monster_whimstlop= 0
 ;
-Knottshurr 86400
+Knottshurr 0
 Knott_1= 1
 Knott_2= 1
 Knott_3= 1
