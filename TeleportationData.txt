@@ -15,3 +15,15 @@ Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
 Monsters/Monster_plixie=Monsters/Monster_plixie 1
 ;
+Knottshurr 86400
+Knott_1= 1
+Knott_2= 1
+Knott_3= 1
+Knott_4= 1
+Knott_5= 1
+Knott_6= 1
+Knott_7= 1
+Knott_8= 1
+Knott_9= 1
+Knott_10= 1
+;
