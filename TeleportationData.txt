@@ -13,5 +13,5 @@ Monsters/Monster_spunge_young=Monsters/Monster_spunge 4
 ;
 Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
-Monsters/Monster_toejammer_young=Monsters/Monster_whimstlop 1
+Monsters/Monster_plixie=Monsters/Monster_plixie 1
 ;
