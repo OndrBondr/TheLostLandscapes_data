@@ -1,6 +1,6 @@
 MonsterName Cost Elements TimeToBreed FoodNeeded CoinProduction@ProductionRate@MaxCoins Class LevelRequirement Limit
 
-Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 0 Natural 0
+Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 Natural 0 0
 Monsters/Monster_potbelly coins=400 plant 300 5 coins=1@120@coins=60 Natural 0 0
 Monsters/Monster_tweedle coins=400 air 300 5 coins=1@120@coins=60 Natural 0 0
 Monsters/Monster_flootfly coins=400 faerie 14400 10 coins=1@120@coins=90 Magical 6 0
