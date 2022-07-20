@@ -87,6 +87,7 @@ Structures/Structure_breeding coins=500,diamonds=75 4 2
 Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 5
 Structures/Structure_bakery coins=500,coins=10000,coins=20000 3 3
 Structures/Structure_amalgamator diamonds=100 0 1
+Structures/Structure_amalgamator_city coins=10000 0 1
 
 EM_path1 coins=50 0 0
 EM_path2 coins=25 0 0
