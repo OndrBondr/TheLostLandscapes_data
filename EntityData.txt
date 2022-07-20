@@ -37,10 +37,11 @@ Monsters/Monster_pummel diamonds=70 water@earth@plant 43200 25 coins=1@72@coins=
 
 Monsters/Monster_kuncklehead diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical 6 0
 
-Monsters/Monster_potbelly_young coins=400 plant 300 5 coins=1@120@coins=60 Natural 0 0
-Monsters/Monster_toejammer_young coins=400 water 300 5 coins=1@120@coins=60 Natural 0 0
-Monsters/Monster_tweedle_young coins=400 air 300 5 coins=1@120@coins=60 Natural 0 0
-Monsters/Monster_flootfly_young coins=400 faerie 14400 5 coins=1@120@coins=90 Natural 6 0
+Monsters/Monster_potbelly_young coins=400 plant 300 100 coins=1@120@coins=60 Natural 0 0
+Monsters/Monster_toejammer_young coins=400 water 300 100 coins=1@120@coins=60 Natural 0 0
+Monsters/Monster_tweedle_young coins=400 air 300 100 coins=1@120@coins=60 Natural 0 0
+Monsters/Monster_flootfly_young coins=400 faerie 14400 100 coins=1@120@coins=90 Magical 6 0
+Monsters/Monster_oaktopus_young diamonds=25 water@plant 28800 1000 coins=1@80@coins=100 Natural 4 0
 
 Monsters/Special/Monster_melochness diamonds=100 water@faerie 1 10 coins=1@120@coins=90 Magical 100 0
 Monsters/Monster_percFrog diamonds=60 water@earth@faerie 10 0 coins=1@72@coins=1000 Special 100 0
