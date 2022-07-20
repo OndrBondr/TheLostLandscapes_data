@@ -264,7 +264,7 @@ str_unlocked=You have unlocked:
 str_unlockedatLevel=Unlocked at level: 
 str_locked=???
 str_TeleportUnavailable=Not available on this island
-str_stats=Species:<species>\nClass:<class>\nRate:<rate>\nMax:<max>
+str_stats=Species: <species>\nClass: <class>\nRate: <rate>\nMax: <max>
 
 
 diamonds - <color=#4EFFF5>
