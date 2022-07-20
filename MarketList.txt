@@ -108,6 +108,7 @@ Monsters/Monster_potbelly_young
 Monsters/Monster_toejammer_young
 Monsters/Monster_tweedle_young
 Monsters/Monster_flootfly_young
+Monsters/Monster_oaktopus_young
 -
 monsters_celestials:
 Monsters/Monster_hornacle
