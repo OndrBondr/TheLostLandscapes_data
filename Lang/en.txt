@@ -261,7 +261,7 @@ Decoration/Dog_bio=Dog goD.
 str_breeding=You've bred a\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
 str_lvl=Lvl:
 str_lvlMax=MAX
-str_noEmpty=Don't leave this empty...
+str_noEmpty=Leave blank to shuffle...
 str_PlayerLvl=Level 
 str_unlocked=You have unlocked:
 str_unlockedatLevel=Unlocked at level: 
