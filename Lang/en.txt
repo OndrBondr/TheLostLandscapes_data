@@ -280,6 +280,11 @@ diamonds - <color=#4EFFF5>
 coins - <color="yellow">
 food - <color=#F318D1>
 
+str_currency_coins=Coins
+str_currency_diamonds=Diamonds
+str_currency_food=Food
+str_currency_stars=Starpower
+
 str_warning=Hold up!
 str_popup_sellEgg=Are you sure you want to sell this egg for <color="yellow"><amount> Coins?
 str_popup_speedUp=Are you sure you want to speed up the proccess for <color=#4EFFF5><amount> Diamonds?
