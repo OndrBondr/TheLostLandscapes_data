@@ -123,7 +123,7 @@ Decoration/Obstacle_EM_6 coins=-1000 75
 
 Decoration/PlacableObstacle/Obstacle_EM_1 diamonds=3 0 0
 Decoration/PlacableObstacle/Obstacle_EM_2 diamonds=6 0 0
-Decoration/PlacableObstacle/Obstacle_EM_3 diamonds=12 0 0
+Decoration/PlacableObstacle/Obstacle_EM_3 diamonds=9 0 0
 Decoration/PlacableObstacle/Obstacle_EM_4 diamonds=5 0 0
 Decoration/PlacableObstacle/Obstacle_EM_5 diamonds=10 0 0
 Decoration/PlacableObstacle/Obstacle_EM_6 diamonds=15 0 0
