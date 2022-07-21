@@ -395,6 +395,9 @@ btn_designerMode_change=Change
 btn_designerMode_save=Save
 designerMode_totalCost=Total cost:<color="yellow"> <amount> Coins
 designerMode_sellFor=Sell for:<color="yellow"> <amount> Coins
+
+obstacleMode_totalCost=Total cost: <col><amount> <Type>
+
 btn_compose=Compose
 btn_breed=Breed
 btn_speedup=Speed Up
