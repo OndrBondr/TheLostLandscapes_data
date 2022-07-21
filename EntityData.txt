@@ -121,11 +121,11 @@ Decoration/Obstacle_EM_4 coins=-100 25
 Decoration/Obstacle_EM_5 coins=-500 50
 Decoration/Obstacle_EM_6 coins=-1000 75
 
-Decoration/PlacableObstacle/Obstacle_EM_1 diamonds=5 0
-Decoration/PlacableObstacle/Obstacle_EM_2 diamonds=10 0
-Decoration/PlacableObstacle/Obstacle_EM_3 diamonds=15 0
-Decoration/PlacableObstacle/Obstacle_EM_4 diamonds=7 0
-Decoration/PlacableObstacle/Obstacle_EM_5 diamonds=14 0
-Decoration/PlacableObstacle/Obstacle_EM_6 diamonds=21 0
+Decoration/PlacableObstacle/Obstacle_EM_1 diamonds=5 0 0
+Decoration/PlacableObstacle/Obstacle_EM_2 diamonds=10 0 0
+Decoration/PlacableObstacle/Obstacle_EM_3 diamonds=15 0 0
+Decoration/PlacableObstacle/Obstacle_EM_4 diamonds=7 0 0
+Decoration/PlacableObstacle/Obstacle_EM_5 diamonds=14 0 0
+Decoration/PlacableObstacle/Obstacle_EM_6 diamonds=21 0 0
 
 Decoration/Dog food=2000 20 0
