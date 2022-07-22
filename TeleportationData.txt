@@ -31,7 +31,7 @@ Monsters/Monster_varrow= 0
 Monsters/Monster_wadee= 0
 ;
 Desert 43200
-Monsters/Monster_scaratar=Monsters/Monster_scaratar 7
+Monsters/Monster_scaratar=Monsters/Monster_scaratar 1
 ;
 Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
