@@ -30,6 +30,9 @@ Monsters/Monster_stoopa= 0
 Monsters/Monster_varrow= 0
 Monsters/Monster_wadee= 0
 ;
+Desert
+Monsters/Monster_scaratar=Monsters/Monster_scaratar 7
+;
 Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
 Monsters/Monster_plixie=Monsters/Monster_plixie 1
