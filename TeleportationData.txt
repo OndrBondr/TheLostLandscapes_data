@@ -30,7 +30,7 @@ Monsters/Monster_stoopa= 0
 Monsters/Monster_varrow= 0
 Monsters/Monster_wadee= 0
 ;
-Desert
+Desert 43200
 Monsters/Monster_scaratar=Monsters/Monster_scaratar 7
 ;
 Organs 86400
