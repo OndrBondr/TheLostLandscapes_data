@@ -32,6 +32,7 @@ Monsters/Monster_wadee= 0
 ;
 Desert 43200
 Monsters/Monster_scaratar=Monsters/Monster_scaratar 1
+Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 7
 ;
 Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
