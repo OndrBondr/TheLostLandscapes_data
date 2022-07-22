@@ -399,7 +399,7 @@ Decoration/Dog
 ;
 Desert
 monsters:
-Monsters/Monster_scaratar diamonds=10000
+Monsters/Monster_scaratar diamonds=3500
 -
 monster_rares:
 -
