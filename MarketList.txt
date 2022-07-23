@@ -318,6 +318,7 @@ Meduza
 monsters:
 Monsters/Monster_mammott diamonds=1000
 Monsters/Monster_noggin diamonds=1000
+Monsters/Monster_theremind diamonds=1000
 Monsters/Monster_maw diamonds=1000
 Monsters/Monster_kuncklehead diamonds=1000
 Monsters/Monster_sox diamonds=1000
