@@ -54,3 +54,13 @@ Monsters/Knott_8= 1
 Monsters/Knott_9= 1
 Monsters/Knott_10= 1
 ;
+Meduza 0
+Monsters/Monster_whimstlop= 0
+Monsters/Monster_theremind= 0
+Monsters/Monster_pongping= 0
+Monsters/Monster_meduza= 0
+Monsters/Monster_kuncklehead= 0
+Monsters/Monster_mammott= 0
+Monsters/Monster_maw= 0
+Monsters/Monster_noggin= 0
+;
