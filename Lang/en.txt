@@ -119,6 +119,9 @@ Monsters/Monster_meduza_bio=M'Duzza bio
 Monsters/Monster_noggin=Noggin
 Monsters/Monster_noggin_bio=Noggin bio
 
+Monsters/Monster_theremind=Theremind
+Monsters/Monster_theremind_bio=Theremind bio
+
 Monsters/Monster_sox=Sox
 Monsters/Monster_sox_bio=After having finally met the common class of monsters first-hand, Sox's life has been forever changed. Now, rather than playing solemn bluesy tunes in the vast nothingness of the Pocket Dimension, Sox is free to play its melodies for the entire Lost World! Publicity isn't easy, however, as it still sometimes needs to dispel rumors of a supposed 'true sound' the Sox makes.
 
