@@ -67,6 +67,7 @@ Monsters/Monster_phangler diamonds=500 water@fire 36000 15 coins=1@80@coins=90 N
 Monsters/Monster_bridgit diamonds=750 faerie@earth@fire 36000 30 coins=1@72@coins=260 Natural 6 0
 Monsters/Monster_frondley diamonds=750 phsychic@faerie@light 36000 50 coins=1@72@coins=300 Natural 6 0
 
+Monsters/Monster_theremind coins=400 psychic 14400 10 coins=1@120@coins=90 Magical 6 0
 
 Monsters/Monster_handmond coins=400 organ 14400 10 coins=1@120@coins=90 Lost 6 0
 Monsters/Monster_whimstlop coins=400 organ 14400 10 coins=1@120@coins=90 Lost 6 0
