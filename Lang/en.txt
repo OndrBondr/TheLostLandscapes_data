@@ -219,6 +219,16 @@ EM_path6_bio=These shavings off a Bihrrc tree have been left here for a while. S
 EM_path7=Overgrown Bubblerite Path
 EM_path7_bio=Over the long span of time since this path was last taken care of, the moss has grown all over, to the point where it’s hard to tell what color it ever originally was.
 
+Desert_path1=Desert path 1
+Desert_path1_bio=Desert path
+
+Desert_path2=Desert path 2
+Desert_path2_bio=Desert path
+
+Desert_path3=Desert path 3
+Desert_path3_bio=Desert path
+
+
 Decoration/Decoration_test=Kee-Tree
 Decoration/Decoration_test_bio=The Kee-Tree is a wooden amalgamation of wood and whimsy! While unable to play itself like the ancient Bass Machine, prophecies say that if played just right by the wind, the Kee-Tree can reveal a song not heard since the dawn of reality…
 Decoration/Decoration_test1=Talkie Radish
