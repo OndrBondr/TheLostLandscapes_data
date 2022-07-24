@@ -59,6 +59,8 @@ Monsters/Monster_kayna_young coins=400 fire 300 100 coins=1@120@coins=60 Natural
 
 Monsters/Monster_quibble_young diamonds=25 water@air 28800 1000 coins=1@80@coins=100 Natural 4 0
 
+Monsters/Monster_clackula_young coins=400 bone 14400 100 coins=1@120@coins=90 Magical 6 0
+
 Monsters/Special/Monster_melochness diamonds=100 water@faerie 1 10 coins=1@120@coins=90 Magical 100 0
 Monsters/Monster_percFrog diamonds=60 water@earth@faerie 10 0 coins=1@72@coins=1000 Special 100 0
 
