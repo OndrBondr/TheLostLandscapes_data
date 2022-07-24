@@ -86,6 +86,9 @@ Monsters/Monster_fluoress_bio=Fluoress bio
 Monsters/Monster_osstax_young=Young Osstax
 Monsters/Monster_osstax_young_bio=Young Osstax bio
 
+Monsters/Monster_osstax=Osstax
+Monsters/Monster_osstax_bio=Osstax bio
+
 Monsters/Monster_maw_young=Young Maw
 Monsters/Monster_maw_young_bio=Young Maw bio
 
