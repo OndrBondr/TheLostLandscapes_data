@@ -426,13 +426,9 @@ structures:
 
 -
 deco_paths:
-EM_path1
-EM_path2
-EM_path3
-EM_path4
-EM_path5
-EM_path6
-EM_path7
+Desert_path1
+Desert_path2
+Desert_path3
 -
 deco_trees:
 Decoration/Decoration_test
