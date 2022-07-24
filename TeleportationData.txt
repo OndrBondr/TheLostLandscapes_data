@@ -38,9 +38,11 @@ Monsters/Monster_flootfly= 0
 Organs 86400
 Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
 Monsters/Monster_plixie=Monsters/Monster_plixie 1
+Monsters/Monster_theremind_young=Monsters/Monster_theremind 10
 Monsters/Monster_oaktopus= 0
 Monsters/Monster_handmond= 0
 Monsters/Monster_whimstlop= 0
+Monsters/Monster_theremind= 0
 ;
 Knottshurr 0
 Monsters/Knott_1= 1
