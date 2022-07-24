@@ -111,6 +111,9 @@ Structures/Structure_amalgamator_city coins=10000 0 1
 Desert_path1 coins=100 0 0
 Desert_path2 coins=200 0 0
 Desert_path3 coins=300 0 0
+Desert_path4 coins=500 0 0
+Desert_path5 coins=500 0 0
+Desert_path6 coins=500 0 0
 
 EM_path1 coins=50 0 0
 EM_path2 coins=25 0 0
