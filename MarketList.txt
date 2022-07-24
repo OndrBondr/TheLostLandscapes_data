@@ -122,6 +122,7 @@ Monsters/Monster_potbelly_young
 Monsters/Monster_toejammer_young
 Monsters/Monster_tweedle_young
 Monsters/Monster_noggin_young
+Monsters/Monster_kayna_young
 Monsters/Monster_flootfly_young
 Monsters/Monster_theremind_young
 Monsters/Monster_fluoress_young
