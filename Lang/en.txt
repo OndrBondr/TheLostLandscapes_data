@@ -264,6 +264,15 @@ Desert_path2_bio=Desert path
 Desert_path3=Desert path 3
 Desert_path3_bio=Desert path
 
+Desert_path4=Desert path 4
+Desert_path4_bio=Desert path
+
+Desert_path5=Desert path 5
+Desert_path5_bio=Desert path
+
+Desert_path6=Desert path 6
+Desert_path6_bio=Desert path
+
 
 Decoration/Decoration_test=Kee-Tree
 Decoration/Decoration_test_bio=The Kee-Tree is a wooden amalgamation of wood and whimsy! While unable to play itself like the ancient Bass Machine, prophecies say that if played just right by the wind, the Kee-Tree can reveal a song not heard since the dawn of reality…
