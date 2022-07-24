@@ -429,6 +429,8 @@ deco_paths:
 Desert_path1
 Desert_path2
 Desert_path3
+EM_path5
+EM_path7
 -
 deco_trees:
 Decoration/Decoration_test
