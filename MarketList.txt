@@ -437,6 +437,9 @@ deco_paths:
 Desert_path1
 Desert_path2
 Desert_path3
+Desert_path4
+Desert_path5
+Desert_path6
 EM_path5
 EM_path7
 -
