@@ -104,6 +104,12 @@ Monsters/Monster_clackula_young_bio=Young Clackula bio
 Monsters/Monster_clackula=Clackula
 Monsters/Monster_clackula_bio=Clackula bio
 
+Monsters/Monster_rootitoot=Rootitoot
+Monsters/Monster_rootitoot_bio=Rootitoot bio
+
+Monsters/Monster_rootitoot_young=Rootitoot young
+Monsters/Monster_rootitoot_young_bio=Rootitoot young bio
+
 Monsters/Monster_oaktopus_young=Young Oaktopus
 Monsters/Monster_oaktopus_young_bio=While they may appear to be like leaves atop a tree, the bubbles adorning an Oaktopus sapling's crown is more akin to that of deep-sea waterfoam! While far-removed from the Living Ocean amidst the Lost World, Oaktopus youngsters still find a way to stay moist, even if it means rooting around in the local Fountain of Gob.
 
