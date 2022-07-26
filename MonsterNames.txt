@@ -319,16 +319,6 @@ TrippTrapp
 Trollimba
 Xylognome
 ;
-Monsters/Monster_frondley
-Areckal
-Ayrrol
-Ghould
-Jarrut
-Kentia
-Mazari
-Polleni
-Sago
-;
 Monsters/Monster_handmond
 Michle
 Andmond
