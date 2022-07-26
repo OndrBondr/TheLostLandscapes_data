@@ -1,4 +1,4 @@
-MonsterName Cost Elements TimeToBreed FoodNeeded CoinProduction@ProductionRate@MaxCoins Class LevelRequirement Limit
+MonsterName Cost Elements TimeToBreed FoodNeeded CoinProduction@ProductionRate@MaxCoins Class EggSprite,IconSprite LevelRequirement Limit
 
 Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
 Monsters/Monster_potbelly coins=400 plant 300 5 coins=1@120@coins=60 Natural potbelly,potbelly 0 0
