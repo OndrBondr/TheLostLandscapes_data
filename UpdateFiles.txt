@@ -1,6 +1,2 @@
-monster_test.assetbundle entity Monsters/Monster_Wadee
-test_element.assetbundle spries element test
-monster_test_egg.assetbundle spries egg test
-monster_test_icon.assetbundle spries egg test
-
-decoration_test.assetbundle entity Decorations/Decoration_Wadee
+monster_test entity Monsters/Monster_Wadee
+test_element spries elements
