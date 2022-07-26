@@ -395,6 +395,15 @@ Caac
 Biden
 Spungatillo
 J
+Brayzen
+Carpa
+Falanks
+Munculus
+Nuno
+Phrenn
+Piquedra
+Sephine
+Tachee
 ;
 Monsters/Knott_6
 Bebra Bleyash MatMat
