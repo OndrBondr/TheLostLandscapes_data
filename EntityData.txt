@@ -18,9 +18,9 @@ Monsters/Monster_stoopa diamonds=130 water@faerie@air@plant 79200 40 coins=1@28@
 
 Monsters/Monster_toejammer_rare diamonds=75 water 600 10 coins=2@120@coins=120 Natural-r toejammer,toejammer 0 0
 Monsters/Monster_oaktopus_rare diamonds=80 water@plant 57600 30 coins=2@80@coins=180 Natural-r oaktopus,oaktopus 0 0
-Monsters/Monster_varrow_rare diamonds=130 air@faerie 72000 40 coins=2@80@coins=300 Natural-r varrow,varrow 0 0
+Monsters/Monster_varrow_rare diamonds=130 air@faerie 72000 40 coins=2@80@coins=300 Magical-r varrow,varrow 0 0
 Monsters/Monster_spunge_rare diamonds=140 water@air@plant 86400 50 coins=2@72@coins=260 Natural-r spunge,spunge 0 0
-Monsters/Monster_dulsylvan_rare diamonds=160 air@plant@faerie 93600 60 coins=2@72@coins=520 Natural-r dulsylvan,dulsylvan 0 0
+Monsters/Monster_dulsylvan_rare diamonds=160 air@plant@faerie 93600 60 coins=2@72@coins=520 Magical-r dulsylvan,dulsylvan 0 0
 Monsters/Monster_phangler_rare diamonds=1000 water@fire 72000 30 coins=2@80@coins=180 Natural-r phangler,phangler 0 0
 
 Monsters/Monster_olga diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma olga,olga 0 0
