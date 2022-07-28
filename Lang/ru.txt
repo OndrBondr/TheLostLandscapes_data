@@ -333,18 +333,18 @@ Decoration/Obstacle_EM_6=Слоеный гриб
 Decoration/Obstacle_EM_6_bio=It's a puff shroom. Removed puff shrooms will be taken away to wonderful new homes.
 
  
-Decoration/PlacableObstacle/Obstacle_EM_1=Маленький гриб
-Decoration/PlacableObstacle/Obstacle_EM_1_bio=Bio
-Decoration/PlacableObstacle/Obstacle_EM_2=Средний гриб
-Decoration/PlacableObstacle/Obstacle_EM_2_bio=Bio
-Decoration/PlacableObstacle/Obstacle_EM_3=Большой гриб
-Decoration/PlacableObstacle/Obstacle_EM_3_bio=Bio
-Decoration/PlacableObstacle/Obstacle_EM_4=Пальчики дьявола
-Decoration/PlacableObstacle/Obstacle_EM_4_bio=Bio
-Decoration/PlacableObstacle/Obstacle_EM_5=Трюфель
-Decoration/PlacableObstacle/Obstacle_EM_5_bio=Bio
-Decoration/PlacableObstacle/Obstacle_EM_6=Слоеный гриб
-Decoration/PlacableObstacle/Obstacle_EM_6_bio=Bio
+Decoration/Obstacle_placable_EM_1=Маленький гриб
+Decoration/Obstacle_placable_EM_1_bio=Bio
+Decoration/Obstacle_placable_EM_2=Средний гриб
+Decoration/Obstacle_placable_EM_2_bio=Bio
+Decoration/Obstacle_placable_EM_3=Большой гриб
+Decoration/Obstacle_placable_EM_3_bio=Bio
+Decoration/Obstacle_placable_EM_4=Пальчики дьявола
+Decoration/Obstacle_placable_EM_4_bio=Bio
+Decoration/Obstacle_placable_EM_5=Трюфель
+Decoration/Obstacle_placable_EM_5_bio=Bio
+Decoration/Obstacle_placable_EM_6=Слоеный гриб
+Decoration/Obstacle_placable_EM_6_bio=Bio
 
 Decoration/Dog=Гончая
 Decoration/Dog_bio=Dog goD.
