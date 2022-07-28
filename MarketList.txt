@@ -53,7 +53,8 @@ Decoration/Obstacle_placable_EM_3
 Decoration/Obstacle_placable_EM_4
 Decoration/Obstacle_placable_EM_5
 Decoration/Obstacle_placable_EM_6
-Decoration/Dog
+Decoration/Decoration_knott
+Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_breeding
