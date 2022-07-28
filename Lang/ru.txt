@@ -62,7 +62,7 @@ Monsters/Monster_banno_bio=Banno is a vocalist of the legendary Cancer Choir, fo
 Monsters/Monster_frondley=Пальмуг
 Monsters/Monster_frondley_bio=The Frondley is an ammmmmmmmmmazing specimen! Its gelatinous physique and toes bring to mind some similar monsters, but they have evolved separately from our lemon-colored companions. Their otherworldly and serene hums echo throughout islands, always making sure a Frondley's presence is known. Some monsters go as far as to record these hums to lure themselves to sleep. In other activities, Frondley enjoys maintaining their kelpy hairdos, while always striving to find the perfect amount of hair for their bulbous craniums.
 
-Monsters/Special/Monster_melochness=Гармонесс
+Monsters/Special/Monster_melochness=Гармонесси
 Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit.
 
 Monsters/Monster_potbelly_young=Юный Брюшок
