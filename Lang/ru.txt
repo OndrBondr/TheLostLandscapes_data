@@ -83,7 +83,7 @@ Monsters/Monster_fluoress_young_bio=Young Fluoress bio
 Monsters/Monster_fluoress=Флуорес
 Monsters/Monster_fluoress_bio=Fluoress bio
 
-Monsters/Monster_osstax_young=Юныие Столпкости
+Monsters/Monster_osstax_young=Юныйе Столпкости
 Monsters/Monster_osstax_young_bio=Young Osstax bio
 
 Monsters/Monster_osstax=Столпкости
