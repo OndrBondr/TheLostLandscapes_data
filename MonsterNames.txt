@@ -306,6 +306,7 @@ Frogge
 Brikfut
 Jaboba
 Jopa
+Tyrone
 ;
 Monsters/Monster_bridgit,Monsters/Monster_bridgit_rare
 Grendelle
