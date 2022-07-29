@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 4074028036
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: monster_test
+      Dependencies: {}
+    Info_1:
+      Name: elements
+      Dependencies: {}
+    Info_2:
+      Name: em_audio
+      Dependencies: {}

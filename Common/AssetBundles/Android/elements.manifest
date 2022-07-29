@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2544441154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f76165f175080af1d16564c82cc5fe5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/ToUpdate/water-g.png
+Dependencies: []

@@ -1,0 +1,70 @@
+
+City 0
+;
+EM 3600
+Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
+Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 4
+Monsters/Monster_tweedle_young=Monsters/Monster_tweedle 4
+Monsters/Monster_potbelly_young=Monsters/Monster_potbelly 4
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 4
+Monsters/Monster_quibble_young=Monsters/Monster_quibble 4
+Monsters/Monster_dandidoo_young=Monsters/Monster_dandidoo 4
+Monsters/Monster_spunge_young=Monsters/Monster_spunge 4
+Monsters/Monster_toejammer= 0
+Monsters/Monster_flootfly= 0
+Monsters/Monster_tweedle= 0
+Monsters/Monster_potbelly= 0
+Monsters/Monster_oaktopus= 0
+Monsters/Monster_quibble= 0
+Monsters/Monster_dandidoo= 0
+Monsters/Monster_spunge= 0
+Monsters/Monster_likho= 0
+Monsters/Monster_banno= 0
+Monsters/Monster_bridgit= 0
+Monsters/Monster_choral= 0
+Monsters/Monster_dulsylvan= 0
+Monsters/Monster_frondley= 0
+Monsters/Monster_percFrog= 0
+Monsters/Monster_phangler= 0
+Monsters/Monster_stoopa= 0
+Monsters/Monster_varrow= 0
+Monsters/Monster_wadee= 0
+;
+Desert 43200
+Monsters/Monster_scaratar=Monsters/Monster_scaratar 1
+Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 7
+Monsters/Monster_rootitoot_young=Monsters/Monster_rootitoot 7
+Monsters/Monster_rootitoot= 0
+Monsters/Monster_flootfly= 0
+;
+Organs 86400
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
+Monsters/Monster_plixie=Monsters/Monster_plixie 1
+Monsters/Monster_theremind_young=Monsters/Monster_theremind 10
+Monsters/Monster_oaktopus= 0
+Monsters/Monster_handmond= 0
+Monsters/Monster_whimstlop= 0
+Monsters/Monster_theremind= 0
+;
+Knottshurr 0
+Monsters/Knott_1= 1
+Monsters/Knott_2= 1
+Monsters/Knott_3= 1
+Monsters/Knott_4= 1
+Monsters/Knott_5= 1
+Monsters/Knott_6= 1
+Monsters/Knott_7= 1
+Monsters/Knott_8= 1
+Monsters/Knott_9= 1
+Monsters/Knott_10= 1
+;
+Meduza 0
+Monsters/Monster_whimstlop= 0
+Monsters/Monster_theremind= 0
+Monsters/Monster_pongping= 0
+Monsters/Monster_meduza= 0
+Monsters/Monster_kuncklehead= 0
+Monsters/Monster_mammott= 0
+Monsters/Monster_maw= 0
+Monsters/Monster_noggin= 0
+;

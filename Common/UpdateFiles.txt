@@ -1,0 +1,5 @@
+0
+monster_test entity Monsters/Monster_olga
+elements sprites elements
+em_audio audio EM-disable
+
