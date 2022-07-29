@@ -467,4 +467,3 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 Decoration/Dog
-;
