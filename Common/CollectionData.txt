@@ -48,6 +48,8 @@ Monsters/Monster_furnoss
 Monsters/Monster_glaishur
 Monsters/Monster_plixie
 Monsters/Monster_galvana
+Monsters/Monster_light
+Monsters/Monster_bone
 ;
 Organs:
 Monsters/Monster_handmond
@@ -55,3 +57,4 @@ Monsters/Monster_oaktopus
 Monsters/Monster_theremind
 Monsters/Monster_whimstlop
 Monsters/Monster_plixie
+
