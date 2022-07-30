@@ -415,6 +415,7 @@ monsters:
 Monsters/Monster_scaratar diamonds=3500
 Monsters/Monster_flootfly diamonds=75
 Monsters/Monster_rootitoot diamonds=150
+Monsters/Monster_spurrit_desert diamonds=1000
 -
 monster_rares:
 -
