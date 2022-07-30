@@ -451,7 +451,8 @@ str_class_Celestial-s=Supercelestial
 str_class_Lost=Strayed
 str_class_Lost-r=Strayed(rare)
 str_class_Gamma=Gamma
-
+str_class_Seasonal=Seasonal
+str_class_Seasonal-r=Seasonal(rare)
 
 str_teleporter=Symphonic Zeppelin
 str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><amount> diamonds</color>?
