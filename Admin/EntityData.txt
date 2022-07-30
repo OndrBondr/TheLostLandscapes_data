@@ -66,7 +66,7 @@ Monsters/Monster_clackula_young coins=400 bone 14400 100 coins=1@120@coins=90 Ma
 Monsters/Monster_rootitoot_young diamonds=40 water@fire@plant 43200 25 coins=1@72@coins=260 Natural rootitoot,rootitoot_young 4 0
 Monsters/Monster_rootitoot diamonds=70 water@fire@plant 43200 25 coins=1@72@coins=260 Natural rootitoot,rootitoot 4 0
 
-Monsters/Monster_spunge_young diamonds=40 water@air@plant 43200 25 coins=1@72@coins=260 Natural spunge_young,spunge 4 0
+Monsters/Monster_spunge_young diamonds=40 water@air@plant 43200 25 coins=1@72@coins=260 Natural spunge,spunge_young 4 0
 
 Monsters/Special/Monster_melochness diamonds=100 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 100 0
 Monsters/Monster_percFrog diamonds=60 water@earth@faerie 10 0 coins=1@72@coins=1000 Magical percFrog,percFrog 100 0
