@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 539925357
+CRC: 2107463516
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c7949cfae96a293fd65bbcd07c0d1dd0
+    Hash: 15eb47b177ab176d4a0ddd316793ce12
   TypeTreeHash:
     serializedVersion: 2
-    Hash: bbfc9ea4eb46716792961c789fcbe506
+    Hash: 9cc003ca188c76ebbe14f7ecd6ecf6d4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -65,8 +65,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
 Assets:
-- Assets/ToUpdate/Monster_test.prefab
-- Assets/ToUpdate/icon.png
-- Assets/ToUpdate/egg.png
+- Assets/Resources/Monsters/Common/Monster_spurrit.prefab
 Dependencies: []

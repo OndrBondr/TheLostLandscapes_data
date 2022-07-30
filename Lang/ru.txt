@@ -1,4 +1,10 @@
 ﻿-------
+Monsters/Monster_spurrit=Духа
+Monsters/Monster_spurrit_bio=Spurrit bio
+
+Monsters/Monster_spurrit_desert=Духа
+Monsters/Monster_spurrit_desert_bio=Spurrit bio but the one on the desert
+
 Monsters/Monster_toejammer=Палезатор
 Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the wate. Also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they know how to have a good time!!!
 

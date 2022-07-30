@@ -1,5 +1,9 @@
 1
 monster_test entity Monsters/Monster_olga
+
+monster_spurrit entity Monsters/Monster_spurrit
+monster_spurrit_desert entity Monsters/Monster_spurrit_desert
+
 elements sprites elements
 em_audio audio EM-disable
 
