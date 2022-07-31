@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2548205712
+CRC: 409653775
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: af5905ad029d4d7b7850a0bfcd9ae1ca
+    Hash: ba8ab4fcb40e02e80d299da7a7b6719b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9cc003ca188c76ebbe14f7ecd6ecf6d4
@@ -68,5 +68,5 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Monsters/Common/Monster_spurrit_desert.prefab
+- Assets/Unreleased/Monster_spurrit_desert.prefab
 Dependencies: []

@@ -1,8 +1,10 @@
-2
+3
 monster_test entity Monsters/Monster_olga
 
 monster_spurrit entity Monsters/Monster_spurrit
 monster_spurrit_desert entity Monsters/Monster_spurrit_desert
+
+Structure_jukebox entity Structures/Structure_jukebox
 
 elements sprites elements
 em_audio audio EM-disable

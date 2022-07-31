@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2107463516
+CRC: 1253311983
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -68,5 +68,5 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Monsters/Common/Monster_spurrit.prefab
+- Assets/Unreleased/Monster_spurrit.prefab
 Dependencies: []

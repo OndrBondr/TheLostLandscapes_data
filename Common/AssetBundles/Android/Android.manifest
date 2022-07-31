@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 920747033
+CRC: 740652544
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,4 +7,16 @@ AssetBundleManifest:
       Dependencies: {}
     Info_1:
       Name: elements
+      Dependencies: {}
+    Info_2:
+      Name: em_audio
+      Dependencies: {}
+    Info_3:
+      Name: monster_spurrit
+      Dependencies: {}
+    Info_4:
+      Name: monster_spurrit_desert
+      Dependencies: {}
+    Info_5:
+      Name: structure_jukebox
       Dependencies: {}

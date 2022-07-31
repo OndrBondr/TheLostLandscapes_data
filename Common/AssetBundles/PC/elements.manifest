@@ -1,18 +1,22 @@
 ManifestFileVersion: 0
-CRC: 3399436675
+CRC: 380798377
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c40b91188a576b3396d35cb58dd3facc
+    Hash: 46d6d8fa52cf0aeeb4e23e20f0bf738c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+    Hash: 192e690a6ab30273b050a05752742228
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
 Assets:
+- Assets/Resources/Sprites/Elements/spurrit.png
 - Assets/ToUpdate/water-g.png
+- Assets/Resources/Sprites/Elements/light.png
 Dependencies: []

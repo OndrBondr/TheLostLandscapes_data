@@ -169,6 +169,7 @@ structures:
 Structures/Structure_breeding_city
 Structures/Structure_bakery
 Structures/Structure_amalgamator_city
+Structures/Structure_jukebox
 -
 deco_paths:
 EM_path1

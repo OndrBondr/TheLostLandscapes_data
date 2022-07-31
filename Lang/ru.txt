@@ -230,6 +230,9 @@ Structures/Structure_amalgamator_bio=Amalgamator bio
 Structures/Structure_amalgamator_city=Амальгаматор
 Structures/Structure_amalgamator_city_bio=Amalgamator bio
 
+Structures/Structure_jukebox=Проигрыватель
+Structures/Structure_jukebox_bio=Jukebox bio
+
 Monsters/Composer/Monster_potbelly_composer=Potbelly
 Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
 Monsters/Composer/Monster_toejammer_composer=Toe Jammer
