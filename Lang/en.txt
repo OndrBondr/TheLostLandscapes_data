@@ -81,10 +81,10 @@ Monsters/Monster_flootfly_young=Young Floot Fly
 Monsters/Monster_flootfly_young_bio=Young Floot Fly bio
 
 Monsters/Monster_theremind_young=Young Theremind
-Monsters/Monster_theremind_young_bio=Young Theremind bio
+Monsters/Monster_theremind_young_bio=A theremind's rubbery brain may cause some alarm to those inexperienced in monster biology. I mean, it's out in the open for all to see! However, rest assured, a theremind's noodle is well-protected by a thick outer skin, which protects it from all sorts of tumbles and falls. It's not like they walk often anyways, it's far more efficient to simply float about!
 
 Monsters/Monster_fluoress_young=Young Fluoress
-Monsters/Monster_fluoress_young_bio=Young Fluoress bio
+Monsters/Monster_fluoress_young_bio=The solemn tings of the Fluoress paralarvae make for a wonderful lullabye, so much so that they have the tendency of lulling themselves to sleep while playing! In any case, Fluoress were never known for their attention-keeping habits to begin with, as they most often spend their waking hours poking and prodding at the wide array of critters that call the Floating City their home.
 
 Monsters/Monster_fluoress=Fluoress
 Monsters/Monster_fluoress_bio=Fluoress bio
@@ -96,16 +96,16 @@ Monsters/Monster_osstax=Osstax
 Monsters/Monster_osstax_bio=Osstax bio
 
 Monsters/Monster_maw_young=Young Maw
-Monsters/Monster_maw_young_bio=Young Maw bio
+Monsters/Monster_maw_young_bio=It should come to no surprise that the young Maw is filled to the brim of pure water! Essentially acting as fuzzy water balloons, Maw pups quickly learn to manage their fluid intake and outtake through their highly-evolved... well, maws. While being slobbered on by a wandering Maw tongue may never be a pleasant experience to bystanders, the handlers have determined it more just means said maw wants to be your friend. aww.
 
 Monsters/Monster_noggin_young=Young Noggin
 Monsters/Monster_noggin_young_bio=Young Noggin bio
 
 Monsters/Monster_quibble_young=Young Quibble
-Monsters/Monster_quibble_young_bio=Young Quibble bio
+Monsters/Monster_quibble_young_bio=The endless enthusiasm of a Quibble hatchling is one unmatched by any other monster species. Collecting all sorts of colorful pebbles to make up its training keys, their creativity is bolstered by their endless asking of questions! Of course, the celestials are always glad to assist in answering all sorts of questions, though they still can't seem to discover the answer of where baby monsters come from...
 
 Monsters/Monster_clackula_young=Young Clackula
-Monsters/Monster_clackula_young_bio=Young Clackula bio
+Monsters/Monster_clackula_young_bio=While normally reserved and quiet, the hands of a Clackula tot are nothing short of a handful! The occasional snip of the sharper baby teeth of a Clackula is a frightening sensation to many, though their fellow monsterlings make sure to maintain their patience. After all, Clackulas are essentially learning table manners for 3!
 
 Monsters/Monster_clackula=Clackula
 Monsters/Monster_clackula_bio=Clackula bio
