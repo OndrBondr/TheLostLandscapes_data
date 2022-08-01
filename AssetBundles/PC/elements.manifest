@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 380798377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46d6d8fa52cf0aeeb4e23e20f0bf738c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 192e690a6ab30273b050a05752742228
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Sprites/Elements/spurrit.png
+- Assets/ToUpdate/water-g.png
+- Assets/Resources/Sprites/Elements/light.png
+Dependencies: []

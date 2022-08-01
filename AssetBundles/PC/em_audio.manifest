@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2145010663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e85b3e55c8c192cf0324bb4693518a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/ToUpdate/EM_Spunge_1.wav
+Dependencies: []

@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 214259989
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: monster_test
+      Dependencies: {}
+    Info_1:
+      Name: elements
+      Dependencies: {}
+    Info_2:
+      Name: em_audio
+      Dependencies: {}
+    Info_3:
+      Name: monster_spurrit
+      Dependencies: {}
+    Info_4:
+      Name: monster_spurrit_desert
+      Dependencies: {}
+    Info_5:
+      Name: structure_jukebox
+      Dependencies: {}
+    Info_6:
+      Name: monster_tweedle_young
+      Dependencies: {}
+    Info_7:
+      Name: monster_mammott_young
+      Dependencies: {}
