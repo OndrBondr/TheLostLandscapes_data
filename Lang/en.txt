@@ -230,7 +230,7 @@ Structures/Structure_amalgamator_city=Amalgamator
 Structures/Structure_amalgamator_city_bio=Amalgamator bio
 
 Structures/Structure_jukebox=Jukebox
-Structures/Structure_jukebox_bio=Jukebox bio
+Structures/Structure_jukebox_bio=Heralding from days long past, the Jukebox still sports memorabilia from musical connoisseurs hoping to jam out after the day is done. While a sparklier version appears to have been modeled for a distant haven, this older prototype found its way here, where it is adored by all the younglings. Since they can’t sing, they crowd around and happily listen, deriving inspiration and absorbing raw creativity from the fantastical frequencies emmitted from within.
 
 Monsters/Composer/Monster_potbelly_composer=Potbelly
 Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
