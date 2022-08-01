@@ -1,4 +1,4 @@
-5
+6
 monster_test entity Monsters/Monster_olga
 
 monster_spurrit entity Monsters/Monster_spurrit
