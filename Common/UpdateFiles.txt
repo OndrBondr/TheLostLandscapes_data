@@ -3,5 +3,8 @@ monster_test entity Monsters/Monster_olga
 elements sprites elements
 em_audio audio EM-disable
 
+Monster_mammott_young entity Monsters/Monster_mammott_young
+Monster_tweedle_young entity Monsters/Monster_tweedle_young
+
 Structure_jukebox entity Structures/Structure_jukebox
 
