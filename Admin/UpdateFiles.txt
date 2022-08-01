@@ -4,8 +4,8 @@ monster_test entity Monsters/Monster_olga
 monster_spurrit entity Monsters/Monster_spurrit
 monster_spurrit_desert entity Monsters/Monster_spurrit_desert
 
-Monster_mammott_young entity Monsters/Monster_mammott_young
-Monster_tweedle_young entity Monsters/Monster_tweedle_young
+monster_mammott_young entity Monsters/Monster_mammott_young
+monster_tweedle_young entity Monsters/Monster_tweedle_young
 
 Structure_jukebox entity Structures/Structure_jukebox
 
