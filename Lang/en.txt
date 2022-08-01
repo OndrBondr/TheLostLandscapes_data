@@ -119,6 +119,9 @@ Monsters/Monster_rootitoot_young_bio=Young Rootitoot bio
 Monsters/Monster_spunge_young=Young Spunge
 Monsters/Monster_spunge_young_bio=Young Spunge bio
 
+Monsters/Monster_dandidoo_young=Young Dandidoo
+Monsters/Monster_dandidoo_young_bio=Young Dandidoo bio
+
 Monsters/Monster_oaktopus_young=Young Oaktopus
 Monsters/Monster_oaktopus_young_bio=While they may appear to be like leaves atop a tree, the bubbles adorning an Oaktopus sapling's crown is more akin to that of deep-sea waterfoam! While far-removed from the Living Ocean amidst the Lost World, Oaktopus youngsters still find a way to stay moist, even if it means rooting around in the local Fountain of Gob.
 
