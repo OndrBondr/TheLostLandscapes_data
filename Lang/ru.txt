@@ -1,6 +1,6 @@
 ﻿-------
 Monsters/Monster_maulch=Мульча
-Monsters/Monster_maulch=Maulch bio
+Monsters/Monster_maulch_bio=Maulch bio
 
 Monsters/Monster_spurrit=Духа
 Monsters/Monster_spurrit_bio=Spurrit bio
