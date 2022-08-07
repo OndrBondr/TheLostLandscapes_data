@@ -1,6 +1,8 @@
 ﻿-------
 Monsters/Monster_maulch=Мульча
 Monsters/Monster_maulch_bio=Maulch bio
+Monsters/Monster_maulch_awake=Мульча
+Monsters/Monster_maulch_awake_bio=Maulch bio awakened
 
 Monsters/Monster_spurrit=Духа
 Monsters/Monster_spurrit_bio=Spurrit bio
