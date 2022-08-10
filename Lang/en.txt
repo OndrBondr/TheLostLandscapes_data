@@ -543,6 +543,8 @@ btn_inf_bio=Bio
 btn_inf_stats=Stats
 btn_inf_islands=Islands
 btn_zap=Zap
+btn_inventory=Inventory
+btn_wakeUp=Wake up
 
 goal_breed_buy=Buy and place a <color="green"><entityName>
 goal_breed_an=Breed and place an <color="green"><entityName>
