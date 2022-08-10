@@ -6,7 +6,7 @@ Monsters/Monster_toejammer 5
 Monsters/Monster_flootfly 4
 Monsters/Monster_oaktopus 4
 Monsters/Monster_dandidoo 4
-Monsters/Monster_lihko 3
+Monsters/Monster_likho 3
 Monsters/Monster_wadee 3
 Monsters/Monster_varrow 3
 Monsters/Monster_quibble 4
@@ -17,7 +17,7 @@ Monsters/Monster_banno 2
 Monsters/Monster_stoopa 1
 Monsters/Monster_bridgit 1
 Monsters/Monster_phangler 1
-Monsters/Monster_frondey 1
+Monsters/Monster_frondley 1
 ;
 Maulch Organs
 Monsters/Monster_oaktopus 3
