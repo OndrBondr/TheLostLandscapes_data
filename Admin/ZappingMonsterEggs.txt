@@ -19,3 +19,7 @@ Monsters/Monster_bridgit 1
 Monsters/Monster_phangler 1
 Monsters/Monster_frondey 1
 ;
+Maulch Organs
+Monsters/Monster_oaktopus 3
+;
+
