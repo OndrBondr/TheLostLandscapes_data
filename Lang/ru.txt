@@ -544,6 +544,7 @@ btn_teleportSend=Отправить
 btn_inf_bio=Описание
 btn_inf_stats=Статистика
 btn_inf_islands=Острова
+btn_zap=Засунуть
 
 goal_breed_buy=Купите и разместите <color="green"><entityName>
 goal_breed_an=Разведите и поместите <color="green"><entityName>
