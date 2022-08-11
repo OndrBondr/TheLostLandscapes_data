@@ -1,4 +1,9 @@
--------
+﻿-------
+Monsters/Monster_maulch=Maulch
+Monsters/Monster_maulch_bio=Maulch bio
+Monsters/Monster_maulch_awake=Maulch
+Monsters/Monster_maulch_awake_bio=Maulch bio awakened
+
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Spurrit bio
 
@@ -152,24 +157,36 @@ Monsters/Monster_handmond_bio=Handmond bio
 
 Monsters/Monster_whimstlop=Perlhepito
 Monsters/Monster_whimstlop_bio=As maquinações internas do Perlhepito são um enigma. O que é visto do lado de fora desse monstro passivo é apenas uma armadura com um talvez "capacete" ampliado pelo uso excessivo de armaduras descartadas em sua juventude. Seus aspectos orgânicos estão sob seu revestimento metálico, com as únicas partes visíveis sendo um olho singular (ele perdeu o outro) e duas pernas semelhantes a galhos (surpreendentemente fortes, dado o peso de levantar sua armadura). Dependendo de seu ambiente, um Perlhepito pode vestir uma armadura de um material diferente para atender às suas necessidades atuais. Às vezes eles trabalham como sopradores de folhas em meio período, expelindo grande parte da sujeira e caca que seus outros amigos monstros fazem.
+Monsters/Monster_whimstlop_meduza=Perlhepito
+Monsters/Monster_whimstlop_meduza_bio=As maquinações internas do Perlhepito são um enigma. O que é visto do lado de fora desse monstro passivo é apenas uma armadura com um talvez "capacete" ampliado pelo uso excessivo de armaduras descartadas em sua juventude. Seus aspectos orgânicos estão sob seu revestimento metálico, com as únicas partes visíveis sendo um olho singular (ele perdeu o outro) e duas pernas semelhantes a galhos (surpreendentemente fortes, dado o peso de levantar sua armadura). Dependendo de seu ambiente, um Perlhepito pode vestir uma armadura de um material diferente para atender às suas necessidades atuais. Às vezes eles trabalham como sopradores de folhas em meio período, expelindo grande parte da sujeira e caca que seus outros amigos monstros fazem.
 
 Monsters/Monster_mammott=Mamutinho
 Monsters/Monster_mammott_bio=Mammott bio
+Monsters/Monster_mammott_meduza=Mamutinho
+Monsters/Monster_mammott_meduza_bio=Mammott bio
 
 Monsters/Monster_maw=Bocarra
 Monsters/Monster_maw_bio=Maw bio
+Monsters/Monster_maw_meduza=Bocarra
+Monsters/Monster_maw_meduza_bio=Maw bio
 
 Monsters/Monster_pongping=PongPing
 Monsters/Monster_pongping_bio=PongPing bio
+Monsters/Monster_pongping_meduza=PongPing
+Monsters/Monster_pongping_meduza_bio=PongPing bio
 
 Monsters/Monster_meduza=Mê'Duzza
 Monsters/Monster_meduza_bio=M'Duzza bio
 
 Monsters/Monster_noggin=Cabeça-Dura
 Monsters/Monster_noggin_bio=Noggin bio
+Monsters/Monster_noggin_meduza=Cabeça-Dura
+Monsters/Monster_noggin_meduza_bio=Noggin bio
 
 Monsters/Monster_theremind=Teremente
 Monsters/Monster_theremind_bio=Theremind bio
+Monsters/Monster_theremind_meduza=Teremente
+Monsters/Monster_theremind_meduza_bio=Theremind bio
 
 Monsters/Monster_kayna_young=Lavareda Bebê
 Monsters/Monster_kayna_young_bio=Young Kayna Bio
@@ -179,12 +196,18 @@ Monsters/Monster_kayna_bio=Kayna Bio
 
 Monsters/Monster_sox=Rapossax
 Monsters/Monster_sox_bio=Depois de finalmente conhecer a classe comum de monstros em primeira mão, a vida de Rapossax mudou para sempre. Agora, em vez de tocar melodias solenes de jazz no vasto vazio da ilha etérea o Rapossax está livre para tocar suas melodias para todo o Mundo Perdido! A publicidade não é fácil, pois às vezes Rapossax precisa dissipar os rumores de um suposto 'som verdadeiro' que ele faz. Que som é esse?
+Monsters/Monster_sox_meduza=Rapossax
+Monsters/Monster_sox_meduza_bio=Depois de finalmente conhecer a classe comum de monstros em primeira mão, a vida de Rapossax mudou para sempre. Agora, em vez de tocar melodias solenes de jazz no vasto vazio da ilha etérea o Rapossax está livre para tocar suas melodias para todo o Mundo Perdido! A publicidade não é fácil, pois às vezes Rapossax precisa dissipar os rumores de um suposto 'som verdadeiro' que ele faz. Que som é esse?
 
 Monsters/Monster_pummel=Maraca
 Monsters/Monster_pummel_bio=While the plantlike corks Pummels seal their mouths with are hardly ever removed, it is believed that its mass makes up 70% of a Pummel's true scale! Now, even so, it's a touchy subject to ask on... you wouldn't want to be flung by the seismic thump of a grumpy pummel!
+Monsters/Monster_pummel_meduza=Maraca
+Monsters/Monster_pummel_meduza_bio=While the plantlike corks Pummels seal their mouths with are hardly ever removed, it is believed that its mass makes up 70% of a Pummel's true scale! Now, even so, it's a touchy subject to ask on... you wouldn't want to be flung by the seismic thump of a grumpy pummel!
 
 Monsters/Monster_kuncklehead=Cabeçuda
 Monsters/Monster_kuncklehead_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
+Monsters/Monster_kuncklehead_meduza=Cabeçuda
+Monsters/Monster_kuncklehead_meduza_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
 
 Monsters/Monster_hornacle=Cornecraca
 Monsters/Monster_hornacle_bio=Hornacle bio
@@ -529,6 +552,9 @@ btn_teleportSend=Enviar
 btn_inf_bio=Bio
 btn_inf_stats=Status
 btn_inf_islands=Ilhas
+btn_zap=Zap
+btn_inventory=Inventory
+btn_wakeUp=Wake up
 
 goal_breed_buy=Compre e posicione um(a) <color="green"><entityName>
 goal_breed_an=Procrie e posicione um(a) <color="green"><entityName>

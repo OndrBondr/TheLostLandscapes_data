@@ -163,6 +163,8 @@ Monsters/Monster_handmond_bio=Handmond bio
 
 Monsters/Monster_whimstlop=Whimstlop
 Monsters/Monster_whimstlop_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
+Monsters/Monster_whimstlop_meduza=Whimstlop
+Monsters/Monster_whimstlop_meduza_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
 
 Monsters/Monster_mammott=Mammott
 Monsters/Monster_mammott_bio=Mammott bio
