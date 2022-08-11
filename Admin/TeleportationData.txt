@@ -69,6 +69,7 @@ Monsters/Monster_kuncklehead= 0
 Monsters/Monster_mammott= 0
 Monsters/Monster_maw= 0
 Monsters/Monster_noggin= 0
+Monsters/Monster_pummel= 0
 Monsters/Monster_whimstlop_meduza= 0
 Monsters/Monster_theremind_meduza= 0
 Monsters/Monster_pongping_meduza= 0
@@ -76,4 +77,5 @@ Monsters/Monster_kuncklehead_meduza= 0
 Monsters/Monster_mammott_meduza= 0
 Monsters/Monster_maw_meduza= 0
 Monsters/Monster_noggin_meduza= 0
+Monsters/Monster_pummel_meduza= 0
 ;
