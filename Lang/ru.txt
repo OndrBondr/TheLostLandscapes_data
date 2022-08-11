@@ -157,25 +157,37 @@ Monsters/Monster_handmond_bio=Handmond bio
 Monsters/Monster_whimstlop=Свистель
 Monsters/Monster_whimstlop_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
 
-Monsters/Monster_mammott=Маммунт
+Monsters/Monster_mammott=Мамунт
 Monsters/Monster_mammott_bio=Mammott bio
-Monsters/Monster_mammott_young=Юный Маммунт
+Monsters/Monster_mammott_meduza=Мамунт
+Monsters/Monster_mammott_meduza_bio=Mammott bio
+
+Monsters/Monster_mammott_young=Юный Мамунт
 Monsters/Monster_mammott_young_bio=Young Mammott bio
 
 Monsters/Monster_maw=Устолос
 Monsters/Monster_maw_bio=Maw bio
+Monsters/Monster_maw_meduza=Устолос
+Monsters/Monster_maw_meduza_bio=Maw bio
 
 Monsters/Monster_pongping=ПонгПинг
 Monsters/Monster_pongping_bio=PongPing bio
+Monsters/Monster_pongping_meduza=ПонгПинг
+Monsters/Monster_pongping_meduza_bio=PongPing bio
+
 
 Monsters/Monster_meduza=Медузза Визгона
 Monsters/Monster_meduza_bio=M'Duzza bio
 
 Monsters/Monster_noggin=Барабамень
 Monsters/Monster_noggin_bio=Noggin bio
+Monsters/Monster_noggin_meduza=Барабамень
+Monsters/Monster_noggin_meduza_bio=Noggin bio
 
 Monsters/Monster_theremind=Терменум
 Monsters/Monster_theremind_bio=Theremind bio
+Monsters/Monster_theremind_meduza=Терменум
+Monsters/Monster_theremind_meduza_bio=Theremind bio
 
 Monsters/Monster_kayna_young=Юная Лаватёка
 Monsters/Monster_kayna_young_bio=Young Kayna Bio
@@ -185,12 +197,18 @@ Monsters/Monster_kayna_bio=Kayna Bio
 
 Monsters/Monster_sox=Лисакс
 Monsters/Monster_sox_bio=After having finally met the common class of monsters first-hand, Sox's life has been forever changed. Now, rather than playing solemn bluesy tunes in the vast nothingness of the Pocket Dimension, Sox is free to play its melodies for the entire Lost World! Publicity isn't easy, however, as it still sometimes needs to dispel rumors of a supposed 'true sound' the Sox makes.
+Monsters/Monster_sox_meduza=Лисакс
+Monsters/Monster_sox_meduza_bio=After having finally met the common class of monsters first-hand, Sox's life has been forever changed. Now, rather than playing solemn bluesy tunes in the vast nothingness of the Pocket Dimension, Sox is free to play its melodies for the entire Lost World! Publicity isn't easy, however, as it still sometimes needs to dispel rumors of a supposed 'true sound' the Sox makes.
 
 Monsters/Monster_pummel=Маракастук
 Monsters/Monster_pummel_bio=While the plantlike corks Pummels seal their mouths with are hardly ever removed, it is believed that its mass makes up 70% of a Pummel's true scale! Now, even so, it's a touchy subject to ask on... you wouldn't want to be flung by the seismic thump of a grumpy pummel!
+Monsters/Monster_pummel_meduza=Маракастук
+Monsters/Monster_pummel_meduza_bio=While the plantlike corks Pummels seal their mouths with are hardly ever removed, it is believed that its mass makes up 70% of a Pummel's true scale! Now, even so, it's a touchy subject to ask on... you wouldn't want to be flung by the seismic thump of a grumpy pummel!
 
 Monsters/Monster_kuncklehead=Тыдыщ
 Monsters/Monster_kuncklehead_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
+Monsters/Monster_kuncklehead_meduza=Тыдыщ
+Monsters/Monster_kuncklehead_meduza_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
 
 Monsters/Monster_hornacle=Трубяпцы
 Monsters/Monster_hornacle_bio=Hornacle bio

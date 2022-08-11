@@ -86,11 +86,11 @@ Monsters/Monster_whimstlop
 Monsters/Monster_plixie
 ;
 Meduza:
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_pongping
+Monsters/Monster_mammott_meduza
+Monsters/Monster_maw_meduza
+Monsters/Monster_pongping_meduza
+Monsters/Monster_whimstlop_meduza
+Monsters/Monster_noggin_meduza
+Monsters/Monster_kuncklehead_meduza
 Monsters/Monster_meduza
-Monsters/Monster_whimstlop
-Monsters/Monster_noggin
-Monsters/Monster_kuncklehead
 

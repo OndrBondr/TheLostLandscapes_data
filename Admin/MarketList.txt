@@ -333,38 +333,18 @@ Decoration/Dog
 ;
 Meduza
 monsters:
-Monsters/Monster_mammott diamonds=1000
-Monsters/Monster_noggin diamonds=1000
-Monsters/Monster_theremind diamonds=1000
-Monsters/Monster_maw diamonds=1000
-Monsters/Monster_kuncklehead diamonds=1000
-Monsters/Monster_sox diamonds=1000
-Monsters/Monster_pummel diamonds=1000
-Monsters/Monster_pongping diamonds=1000
-Monsters/Monster_whimstlop diamonds=1000
+Monsters/Monster_mammott_meduza diamonds=1000
+Monsters/Monster_noggin_meduza diamonds=1000
+Monsters/Monster_theremind_meduza diamonds=1000
+Monsters/Monster_maw_meduza diamonds=1000
+Monsters/Monster_kuncklehead_meduza diamonds=1000
+Monsters/Monster_sox_meduza diamonds=1000
+Monsters/Monster_pummel_meduza diamonds=1000
+Monsters/Monster_pongping_meduza diamonds=1000
+Monsters/Monster_whimstlop_meduza diamonds=1000
 Monsters/Monster_meduza diamonds=10000
 -
 monster_rares:
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_mammott
-Monsters/Monster_maw
-Monsters/Monster_mammott
-Monsters/Monster_maw
 -
 decorations:
 Decoration/Decoration_test

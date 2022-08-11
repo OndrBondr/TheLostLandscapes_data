@@ -25,18 +25,24 @@ Monsters/Monster_phangler_rare diamonds=1000 water@fire 72000 30 coins=2@80@coin
 
 Monsters/Monster_olga diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma olga,olga 0 0
 
+Monsters/Monster_mammott_meduza coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 Monsters/Monster_mammott coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 
+Monsters/Monster_noggin_meduza coins=400 earth 300 5 coins=1@120@coins=60 Natural noggin,noggin 0 0
 Monsters/Monster_noggin coins=400 earth 300 5 coins=1@120@coins=60 Natural noggin,noggin 0 0
 
+Monsters/Monster_maw_meduza diamonds=40 cold@water 28800 15 coins=1@80@coins=90 Natural maw,maw 4 0
 Monsters/Monster_maw diamonds=40 cold@water 28800 15 coins=1@80@coins=90 Natural maw,maw 4 0
 
+Monsters/Monster_pongping_meduza diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural pongping,pongping 6 0
 Monsters/Monster_pongping diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural pongping,pongping 6 0
 
 Monsters/Monster_meduza diamonds=1000 undead 0 100 coins=10@80@coins=1000 Supernatural meduza,meduza 10 0
 
+Monsters/Monster_pummel_meduza diamonds=70 water@earth@plant 43200 25 coins=1@72@coins=260 Natural pummel,pummel 4 0
 Monsters/Monster_pummel diamonds=70 water@earth@plant 43200 25 coins=1@72@coins=260 Natural pummel,pummel 4 0
 
+Monsters/Monster_kuncklehead_meduza diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical kuncklehead,kuncklehead 6 0
 Monsters/Monster_kuncklehead diamonds=550 faerie@light 36000 50 coins=1@72@coins=200 Magical kuncklehead,kuncklehead 6 0
 
 Monsters/Monster_potbelly_young coins=400 plant 300 100 coins=1@120@coins=60 Natural potbelly,potbelly_young 0 0
