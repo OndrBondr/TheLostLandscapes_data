@@ -58,6 +58,7 @@ Decoration/Decoration_mors
 -
 structures:
 Structures/Structure_breeding
+Structures/Structure_bass
 Structures/Structure_bakery
 -
 deco_paths:
