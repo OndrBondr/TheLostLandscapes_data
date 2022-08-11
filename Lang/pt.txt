@@ -429,6 +429,7 @@ str_teleport_entityLevelNotEnough=Para colocar esse monstro em <color="green"><i
 str_teleport_unavailable=O Zepelim está <color="green"><islandName></color> no momento. Você tem que trazê-lo até aqui primeiro.
 str_teleport_flying=O Zepelim está voando até <color="green"><islandName></color>. Espere até que ele chegue ao seu destino ou o acelero com diamantes
 str_teleport_unavailable_monster=O Zepelim não está nessa ilha.
+str_popup_shopUnavailbable=<type> are unavailable on this island.
 
 str_popup_islandComingSoon=Coisas novas e legais chegando no futuro!
 str_popup_islandAlreadyOn=Você já está nessa ilha.
