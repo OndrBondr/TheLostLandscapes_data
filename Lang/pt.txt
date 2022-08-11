@@ -480,6 +480,9 @@ str_class_Lost-r=Isolado(Raro)
 str_class_Gamma=Gama
 str_class_Seasonal=Sazonal
 str_class_Seasonal-r=Sazonal(Raro)
+str_class_Ethereal=Ethereal
+str_class_Ethereal-r=Ethereal(rare)
+
 
 str_teleporter=Zepelim Sinfônico
 str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><amount> diamantes</color>?
