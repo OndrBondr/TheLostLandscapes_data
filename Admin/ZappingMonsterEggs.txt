@@ -21,5 +21,5 @@ Monsters/Monster_frondley 1
 ;
 Maulch City
 Structures/Structure_bakery 2
-Decpration/Decoration_test1 2
+Decoration/Decoration_test1 2
 
