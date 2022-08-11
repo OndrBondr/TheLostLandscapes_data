@@ -22,4 +22,10 @@ Monsters/Monster_frondley 1
 Maulch Organs
 Monsters/Monster_oaktopus 3
 ;
+Mammott EM
+Monsters/Monster_stoopa 1
+Monsters/Monster_bridgit 1
+Monsters/Monster_phangler 1
+Monsters/Monster_frondley 1
+;
 

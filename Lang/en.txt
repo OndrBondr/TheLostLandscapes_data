@@ -4,6 +4,10 @@ Monsters/Monster_maulch_bio=Maulch bio
 Monsters/Monster_maulch_awake=Maulch
 Monsters/Monster_maulch_awake_bio=Maulch bio awakened
 
+
+Monsters/Monster_mammott_awake=Mammott
+Monsters/Monster_mammott_awake_bio=Mammott bio awakened
+
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Spurrit bio
 
