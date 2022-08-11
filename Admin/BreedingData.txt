@@ -1,18 +1,23 @@
 
 EM:
 Monsters/Monster_toejammer 85
+Monsters/Monster_toejammer_rare 85 _rare
 Monsters/Monster_potbelly 85
 Monsters/Monster_tweedle 85
 Monsters/Monster_flootfly 70
 Monsters/Monster_oaktopus 70
+Monsters/Monster_oaktopus_rare 70 _rare
 Monsters/Monster_quibble 70
 Monsters/Monster_dandidoo 70
 Monsters/Monster_wadee 25
 Monsters/Monster_likho 25
 Monsters/Monster_varrow 25
+Monsters/Monster_varrow_rare 25 _rare
 Monsters/Monster_spunge 40
+Monsters/Monster_spunge_rare 40 _rare
 Monsters/Monster_choral 20
 Monsters/Monster_dulsylvan 20
+Monsters/Monster_dulsylvan_rare 20 _rare
 Monsters/Monster_banno 20
 Monsters/Monster_stoopa 10
 
