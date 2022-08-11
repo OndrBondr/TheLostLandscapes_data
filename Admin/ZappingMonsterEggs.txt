@@ -19,6 +19,7 @@ Monsters/Monster_bridgit 1
 Monsters/Monster_phangler 1
 Monsters/Monster_frondley 1
 ;
-Maulch Organs
-Monsters/Monster_oaktopus 3
+Maulch City
+Structures/Structure_bakery 2
+Decpration/Decoration_test1 2
 
