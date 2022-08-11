@@ -344,8 +344,6 @@ Monsters/Monster_pongping_meduza diamonds=1000
 Monsters/Monster_whimstlop_meduza diamonds=1000
 Monsters/Monster_meduza diamonds=10000
 -
-monster_rares:
--
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1
