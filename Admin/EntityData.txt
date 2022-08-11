@@ -84,6 +84,7 @@ Monsters/Special/Monster_melochness diamonds=100 water@faerie 1 10 coins=1@120@c
 Monsters/Monster_percFrog diamonds=60 water@earth@faerie 10 0 coins=1@72@coins=1000 Magical percFrog,percFrog 100 0
 
 Monsters/Monster_sox diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 Ethereal sox,sox 0 0
+Monsters/Monster_sox_meduza diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 Ethereal sox,sox 0 0
 
 Monsters/Monster_hornacle diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial hornacle,hornacle 8 0
 Monsters/Monster_loodvigg diamonds=3000 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial loodvigg,loodvigg 8 0
