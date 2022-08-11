@@ -18,6 +18,7 @@ Monsters/Monster_stoopa
 Monsters/Monster_bridgit
 Monsters/Monster_phangler
 Monsters/Monster_frondley
+Monsters/Monster_maulch
 ;
 City:
 Monsters/Monster_potbelly_young

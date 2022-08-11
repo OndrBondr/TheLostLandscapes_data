@@ -470,6 +470,8 @@ str_class_Lost-r=Заблудший(редкий)
 str_class_Gamma=Гамма
 str_class_Seasonal=Сезонный
 str_class_Seasonal-r=Сезонный(редкий)
+str_class_Ethereal=Этериальный 
+str_class_Ethereal-r=Этериальный(редкий)
 
 
 str_teleporter=Симфонический Цеппелин

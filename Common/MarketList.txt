@@ -19,6 +19,7 @@ Monsters/Monster_stoopa
 Monsters/Monster_bridgit
 Monsters/Monster_phangler
 Monsters/Monster_frondley
+Monsters/Monster_maulch
 -
 monster_secret:
 Monsters/Monster_percFrog

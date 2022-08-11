@@ -24,6 +24,7 @@ Monsters/Monster_bridgit
 Monsters/Monster_phangler
 Monsters/Monster_phangler_rare
 Monsters/Monster_frondley
+Monsters/Monster_maulch
 ;
 City:
 Monsters/Monster_potbelly_young

@@ -105,11 +105,15 @@ Monsters/Knott_2 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=
 Monsters/Knott_3 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_3 0 0
 Monsters/Knott_4 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_4 0 0
 Monsters/Knott_5 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_5 0 0
-Monsters/Knott_6 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost  ,Knott_6 0 0
+Monsters/Knott_6 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_6 0 0
 Monsters/Knott_7 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_7 0 0
 Monsters/Knott_8 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_8 0 0
 Monsters/Knott_9 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_9 0 0
 Monsters/Knott_10 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_10 0 0
+
+
+Monsters/Monster_maulch diamonds=2000 electricity 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Supernatural ,Maulch 0 3
+
 
 Structures/Structure_breeding coins=500,diamonds=75 4 2
 Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 5
