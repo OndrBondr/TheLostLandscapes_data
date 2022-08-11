@@ -1,7 +1,7 @@
 ﻿-------
-Monsters/Monster_maulch=Maulch
+Monsters/Monster_maulch=Composto
 Monsters/Monster_maulch_bio=Maulch bio
-Monsters/Monster_maulch_awake=Maulch
+Monsters/Monster_maulch_awake=Composto
 Monsters/Monster_maulch_awake_bio=Maulch bio awakened
 
 Monsters/Monster_spurrit=Spurrit
@@ -14,7 +14,7 @@ Monsters/Monster_toejammer=Dedo Enrroscado
 Monsters/Monster_toejammer_bio=Os Dedo Enrroscados adultos têm uma personalidade muito borbulhante e são ótimos nadadores quando vivem na água, eles também são conhecidos por serem convidados para muitas festas e piqueniques com os seus amigos Mosca-da-Flauta, eles realmente sabem como se divertir!
 
 Monsters/Monster_toejammer_rare=Dedo Enrroscado Raro
-Monsters/Monster_toejammer_rare_bio=While the common Toe Jammer is a well known partygoer, this rare variant is far more accustomed to stay at home experiences, especially of the snacking kind. With some handy snackholding pegs included, there's no adventure the Rare Toe Jammer can't handle- from the comfort of a couch that is.
+Monsters/Monster_toejammer_rare_bio=Enquanto o Dedo Enroscado comum é um festeiro conhecido, sua variante rara está muito mais acostumada a ficar em casa, especialmente para comer. Sempre com deliciosos salgadinhos incluídos, não há aventura que o Dedo Enroscado Raro não possa suportar no conforto de seu sofá.
 
 Monsters/Monster_potbelly=Planta-Pança
 Monsters/Monster_potbelly_bio=A Planta-Pança é uma criatura barulhenta e extrovertida, constantemente tagalerando coisas sem sentido para todos que as podem ouvir. As vezes no meio de um conversa entre vários monstros, uma Planta-Pança qualquer se retira de seu pote e se estabelecer na tagarelice, às vezes nem mesmo percebebendo que os seus tentáculos enraizados engolfando seu ouvinte ansioso, felizmente, hoje em dia os monstros aprenderam a ficar longe ou a lembrar gentilmente a Planta-Pança de se afastar um pouco, e as coisas vão bem a partir daí.
@@ -28,7 +28,7 @@ Monsters/Monster_choral=Choralle
 Monsters/Monster_choral_bio=An? Esta parece ser uma árvore comum, porém sintam-se enganados, este é o tímido e protegido membro do Coro do Cancer, Corallê! Esses pequenos mestres das peripécias naturais usam um disfarce parecido com uma árvore para se proteger, geralmente se escondendo de monstros maiores que normalmente não querem fazer mal, na verdade eles só querem dizer olá! Mas sendo a espécie introvertida que são, os Corallês tapeiam o monstros com seu disfarce se alguém chega muito perto, e logo após perceberem os monstros pensam pra sí mesmos: "Fui tapeado!". Pode se parecer algo rude, mas é apenas instinto, pelo qual não podemos culpá-los.
 Monsters/Monster_likho=Boco
 Monsters/Monster_likho_bio=Se você ver um Boco, saiba que acabou de encontrar um cara maneiro! Bocos são pequenos arbustos secos, rolando por aí e colhendo todos os tipos de plantas e geralmente presenteando outras, mesmo que elas não gostem tanto quanto o presenteador. Mas não só isso, quando para, prepara uma... Canção "maravilhosa" para seus companheiros, que geralmente resulta em seu público gritando "FAZ ISSO PARAR!" Não sei do que se trata... E prefiro não saber!
-Monsters/Monster_oaktopus=Oaktopus
+Monsters/Monster_oaktopus=Carvalho-Polvo
 Monsters/Monster_oaktopus_bio=Carvalho-Polvos estão cheios de conhecimentos para compartilhar com o mundo, sobre o mundo! Eles quase sempre têm uma resposta para algumas das perguntas mais ardentes da vida, tais como: "Por que o céu é azul?", "Por que a água é molhada?", E a mais pergunta notável, "E maionese? É um instrumento?" (Essa resposta é inconclusiva, não existe um monstro de maionese). Às vezes, eles até dizem afirmações bizarras de ilhas que antes eram carregadas por criaturas gigantescas em todo o mundo dos monstros. Geralmente pode-se ver um Carvalho-polvo lendo um bom livro ou nadando em uma fonte termal local.
 
 Monsters/Monster_oaktopus_rare=Carvalho-Polvo Raro
@@ -41,12 +41,12 @@ Monsters/Monster_quibble_bio=A Picuinha pode parecer um monstro gracioso por for
 Monsters/Monster_stoopa=Stoopa
 Monsters/Monster_stoopa_bio=Não se sabe muito sobre o pântano enevoado no coração de Evergreen Woods, mas há boatos de um estranho monstro que vigia e conduz a canção dos monstros que ali residem. E olhe só, ele está aqui! Stupa é ainda mais especializada em reciclagem do que o Tambor-Tronco, coletando qualquer coisa na natureza para tocar na sua parte na canção, mesmo que tenha que fazer algumas exceções em sua regra de "tudo natural"... send elas suas panelas de potes contidos em seu... pilão? Ainda se sabe muito pouco sobre ela, e Stupa prefere manter as coisas assim. Enquanto isso, este monstro misterioso maneja seu estranho cajado e guarda os segredos do Pântano.
 Monsters/Monster_bridgit=Pontista
-Monsters/Monster_bridgit_bio=While the marsh is a special haven for Faerie elementals, I bet you didn’t expect this one here! Believe it or not, a special gene deep within the mind of this crystalline connoisseur’s mind calls all Bridg-its to seek out marshy depths. While these days, most that find such a place go through a very unique and dramatic change to suit their environment, this odd specimen feels itself already, and is content as it is! A Gold Star for Great Body Image goes to our Evergreen Marsh Bridg-it!
+Monsters/Monster_bridgit_bio=Embora o pântano seja um refúgio especial para os elementais de fadas, aposto que você não esperava esse aqui! Acredite ou não, um gene especial no fundo da mente desta conhecedora cristalina chama todas as Pontistas para procurar as profundezas pantanosas. Enquanto hoje em dia, a maioria dos que encontram um lugar assim, passam por uma mudança muito original e dramática para se adequar ao seu ambiente, essa criatura não mudou nadinha, pois estranhamente está acostumada com seu jeito atual! E o prêmio Met Alaga para uma ótima imagem corporal vai para a Pontista Perêne! 
 Monsters/Monster_spunge=Esponjo
 Monsters/Monster_spunge_bio=Esponjos adultos são assoviadores muito talentosos, eles conseguem soprar tão forte que às vezes eles acabam mandando seus colegas monstruosos para ilhas bem distantes! Apenas lembre-se de se esconder quando eles sopram suas velas de aniversário.
 
 Monsters/Monster_spunge_rare=Esponjo Raro
-Monsters/Monster_spunge_rare_bio=The dry-eyed Rare Spunge is a fascinating example of the adaptations that environment based mutations can bring about. Seeming to stem from particularly composed waters, mutations through this wacky spunge have changed almost everything about this Spunge, from its color to the amount of each organ it has. Some even suspect it may have a second mouth inside of its body. Ew. Just Ew. 
+Monsters/Monster_spunge_rare_bio=O Esponjo Raro de olhos secos é um exemplo fascinante das adaptações que as mutações baseadas no ambiente podem trazer. Parecendo originar-se de águas particularmente poluídas, as mutações através deste Esponjo maluco mudaram quase tudo nele, desde sua cor até a quantidade de cada órgão que ele possui. Alguns até suspeitam que possa ter uma segunda boca dentro de seu corpo. Pô cara, que nojo!
 
 Monsters/Monster_percFrog=Sapatida
 Monsters/Monster_percFrog_bio=Amphibeat is a frog. How did you even get this monster? Did you get the combo from my 20k special video? If not then idk..    Azu wuz here :3
@@ -83,7 +83,7 @@ Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Dee
 Monsters/Monster_potbelly_young=Planta-Pança Bebê
 Monsters/Monster_potbelly_young_bio=Young Potbelly bio
 Monsters/Monster_toejammer_young=Dedo-Enrroscado Bebê
-Monsters/Monster_toejammer_young_bio=Effervescent and bubbly, tropical-demeanored Young Toe Jammers are always pleasant playmates for the other monsters. At times, situations can get a little sticky when a tossed ball finds itself lodged in the gelatinous body of this tot, but that's no match for some well executed laughter therapy.
+Monsters/Monster_toejammer_young_bio=Efervescentes e borbulhantes, os Jovens Dedinhos com seu comportamento tropical são sempre companheiros agradáveis ​​para os outros monstros. Às vezes, a situação pode complicar quando uma bola chutada atinge o corpo gelatinoso desse pequeno, mas isso não é páreo para uma sessão de piadocas bem executada.
 Monsters/Monster_tweedle_young=Pintinho Piu Bebê
 Monsters/Monster_tweedle_young_bio=Young Tweedle bio
 Monsters/Monster_flootfly_young=Mosca-da-Faulta Bebê
@@ -132,7 +132,8 @@ Monsters/Monster_oaktopus_young=Caravalho-Polvo Bebê
 Monsters/Monster_oaktopus_young_bio=While they may appear to be like leaves atop a tree, the bubbles adorning an Oaktopus sapling's crown is more akin to that of deep-sea waterfoam! While far-removed from the Living Ocean amidst the Lost World, Oaktopus youngsters still find a way to stay moist, even if it means rooting around in the local Fountain of Gob.
 
 Monsters/Knott_1=Árvore Nãocerteza
-Monsters/Knott_1_bio=This creature, despite not looking sylvan, is an ent. It's the next point in evolution of the Surr trees, conifers found across the island. Its bark is almost pertified and impenetrable by most of the vermins and predators. Yet a particular species of "Plantcarver nymph" have developed strong teeth that can gnaw away the stone bark and settle inside of the everblue. The tree's bark is extremely resonant from the inside. Allowing nymths to sing while inside and resonate a deep-throated, ear-piercing sound. The holes carved away by the nymphs resemble a face to scare away unwanted guests and attend on the yearly spooktackle decoration contest.
+Monsters/Knott_1_bio=
+Esta criatura, apesar de não parecer silvestre, é uma árvore ancestral. Um ponto na evolução das árvores Nãocerteza, coníferas e encontradas em toda a ilha. Sua casca é quase petrificada e impenetrável pela maioria dos vermes e predadores. No entanto, uma espécie particular de "Ninfa Cavaplanta" desenvolveu dentes fortes que podem roer a casca dura e se estabelecer dentro do vazio azulado. A casca da árvore é extremamente ressonante por dentro. Permitindo que as Ninfas cantem enquanto estão dentro que ressoam um som profundo e penetrante. Os buracos esculpidos pelas ninfas lembram um rosto, fazem isso para espantar convidados indesejados e participar do concurso anual de decoração fantasmagórica.
 Monsters/Knott_2=Boqueirão
 Monsters/Knott_2_bio=Bay bio
 Monsters/Knott_3=Vaso Haulma
@@ -200,14 +201,15 @@ Monsters/Monster_sox_meduza=Rapossax
 Monsters/Monster_sox_meduza_bio=Depois de finalmente conhecer a classe comum de monstros em primeira mão, a vida de Rapossax mudou para sempre. Agora, em vez de tocar melodias solenes de jazz no vasto vazio da ilha etérea o Rapossax está livre para tocar suas melodias para todo o Mundo Perdido! A publicidade não é fácil, pois às vezes Rapossax precisa dissipar os rumores de um suposto 'som verdadeiro' que ele faz. Que som é esse?
 
 Monsters/Monster_pummel=Maraca
-Monsters/Monster_pummel_bio=While the plantlike corks Pummels seal their mouths with are hardly ever removed, it is believed that its mass makes up 70% of a Pummel's true scale! Now, even so, it's a touchy subject to ask on... you wouldn't want to be flung by the seismic thump of a grumpy pummel!
+Monsters/Monster_pummel_bio=Enquanto as rolhas de fibra vegetal que os Maracas vedam suas bocas quase nunca são removidas, acredita-se que sua massa componha 70% da verdadeira escala dele mesmo! Agora, mesmo assim, é um assunto delicado de se perguntar... E tenho certeza que você não gostaria de ser arremessado pelo baque sísmico de um Maraca mal-humorado! 
 Monsters/Monster_pummel_meduza=Maraca
-Monsters/Monster_pummel_meduza_bio=While the plantlike corks Pummels seal their mouths with are hardly ever removed, it is believed that its mass makes up 70% of a Pummel's true scale! Now, even so, it's a touchy subject to ask on... you wouldn't want to be flung by the seismic thump of a grumpy pummel!
+Monsters/Monster_pummel_meduza_bio=Enquanto as rolhas de fibra vegetal que os Maracas vedam suas bocas quase nunca são removidas, acredita-se que sua massa componha 70% da verdadeira escala dele mesmo! Agora, mesmo assim, é um assunto delicado de se perguntar... E tenho certeza que você não gostaria de ser arremessado pelo baque sísmico de um Maraca mal-humorado! 
+
 
 Monsters/Monster_kuncklehead=Cabeçuda
-Monsters/Monster_kuncklehead_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
+Monsters/Monster_kuncklehead_bio=Os punhos robustos de uma Cabeçuda adulta podem ser intimidantes, mas garantem aos treinadores de monstros que nunca usariam tal força para cortar cabeças. Na verdade, descobrimos que a maioria das cabeçudas passa seus dias jogando A Lenda de Zeltzin com seus colegas monstros. Quem saberia que uma criatura com o nome de Cabeçuda seria um contador de histórias tão experiente!
 Monsters/Monster_kuncklehead_meduza=Cabeçuda
-Monsters/Monster_kuncklehead_meduza_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
+Monsters/Monster_kuncklehead_meduza_bio=Os punhos robustos de uma Cabeçuda adulta podem ser intimidantes, mas garantem aos treinadores de monstros que nunca usariam tal força para cortar cabeças. Na verdade, descobrimos que a maioria das cabeçudas passa seus dias jogando A Lenda de Zeltzin com seus colegas monstros. Quem saberia que uma criatura com o nome de Cabeçuda seria um contador de histórias tão experiente!
 
 Monsters/Monster_hornacle=Cornecraca
 Monsters/Monster_hornacle_bio=Hornacle bio
@@ -230,7 +232,8 @@ Monsters/Monster_furnoss_bio=Furnoss bio
 Monsters/Monster_glaishur=Geleirinho
 Monsters/Monster_glaishur_bio=Glaishur bio
 Monsters/Monster_galvana=Galvana
-Monsters/Monster_galvana_bio=Yearly, the celestial cycle repeats itself anew, and the final monster of the cycle is the glowing Galvana. Powerful and pristine, this thunderous celestial guides its perfect pantheon, whilst also composing complex crescendos! Now known to even posses the spark of life within its galvanizing orb, Galvana is a popular and much revered celestial from the City to the frontiers of the farthest realms… 
+Monsters/Monster_galvana_bio=Ano após ano, o ciclo celestial se repete novamente, e o monstro final do ciclo é a majestade Galvana. Poderosa e pura, esta estrondosa celestial guia seu panteão perfeito, enquanto também compõe progressões complexas! Agora conhecida por possuir a centelha da vida dentro de seu orbe galvanizador, Galvana é uma celestial famosíssima e muito reverenciada da cidade até as fronteiras dos reinos mais distantes… 
+
 Monsters/Monster_plixie=Pluende
 Monsters/Monster_plixie_bio=Plixie bio
 Monsters/Monster_light=Loqueturna
@@ -344,7 +347,7 @@ Decoration/Decoration_test10_bio=Eles o chamam de amigo substituo. Monstros soli
 Decoration/Decoration_test11=Ipê Cardíaco
 Decoration/Decoration_test11_bio=Ok... Eu já vi várias coisas nojentas vindas da Terra dos Orgãos mas isso aqui supera tudo. Tipo, o que diabos no mundo monstro de Galvana é isso!? Isso é só... UGH! Eu tenho que usar o banheiro, eu acho que vou vomitar...
 Decoration/Decoration_test12=O Rei
-Decoration/Decoration_test12_bio=Nobody knows what "The King" is, but everyone collectively agrees that they should stay away from it. It elicits heebee-jeebees to anyone brave enough to look at it in the eye.
+Decoration/Decoration_test12_bio=Ninguém sabe o que "O Rei" é, mais todo mundo coletivamente concorda em ficar longe dele. Ele provoca ansiedade a todos que são bravo o suficiente para o olhar bem no fundo dos olhos.
 
 Decoration/Decoration_knott=Monte Nãocerteza
 Decoration/Decoration_knott_bio=Mount Knottshurr bio
@@ -352,17 +355,17 @@ Decoration/Decoration_mors=Mountain dos Bocados
 Decoration/Decoration_mors_bio=Mountain Morsel bio
  
 Decoration/Obstacle_EM_1=Cogumelo Pequeno
-Decoration/Obstacle_EM_1_bio=It's a small mushroom. Don't worry; removed mushrooms will be taken far away and gently replanted.
+Decoration/Obstacle_EM_1_bio=É um cogumelo pequeno. Não se preocupe; cogumelos removidos serão gentilmente levados para bem longe e replantados.
 Decoration/Obstacle_EM_2=Cogumelo Médio
-Decoration/Obstacle_EM_2_bio=It's a medium mushroom. Don't worry; removed mushrooms will be taken far away and gently replanted.
+Decoration/Obstacle_EM_2_bio=É um cogumelo médio. Não se preocupe; cogumelos removidos serão gentilmente levados para bem longe e replantados.
 Decoration/Obstacle_EM_3=Cogumelo Grande
-Decoration/Obstacle_EM_3_bio=It's a large mushroom. Don't worry; removed mushrooms will be taken far away and gently replanted.
+Decoration/Obstacle_EM_3_bio=É um cogumelo grande. Não se preocupe; cogumelos removidos serão gentilmente levados para bem longe e replantados.
 Decoration/Obstacle_EM_4=Dedos do Diabo
 Decoration/Obstacle_EM_4_bio=Devil's Fingers bio
 Decoration/Obstacle_EM_5=Trufa
-Decoration/Obstacle_EM_5_bio=It's a truffle. Removed truffles will be taken away to wonderful new homes.
+Decoration/Obstacle_EM_5_bio=É uma trufa. Truafas removidas serão levadas para um ótimo novo lar.
 Decoration/Obstacle_EM_6=Puffgumelo
-Decoration/Obstacle_EM_6_bio=It's a puff shroom. Removed puff shrooms will be taken away to wonderful new homes.
+Decoration/Obstacle_EM_6_bio=É um puffgumelo. Puffgumelos removida serão levados para um ótimo novo lar.
 
  
 Decoration/Obstacle_placable_EM_1=Cogumelo Pequeno
@@ -405,7 +408,7 @@ str_currency_stars=PoderEstelar
 str_warning=Calma lá!
 str_popup_sellEgg=Você tem certeza que quer vender isso por <color="yellow"><amount> Moedas??
 str_popup_speedUp=Você tem certeza que quer acelerar o processo por <color=#4EFFF5><amount> Diamantes?
-str_popup_notEnough_diamonds=You don't have enough <color=#4EFFF5>Diamonds.
+str_popup_notEnough_diamonds=Você não tem <color=#4EFFF5>Diamantes</color> o suficiente.
 str_popup_notEnough_coins=Você não tem <color="yellow">Moedas o suficiente.
 str_popup_notEnough_food=Você não tem  <color=#F318D1>Food.
 str_popup_notEnough_stars=Você não tem  <color=#FFA400>PoderEstelar</color> o suficiente.
@@ -480,12 +483,12 @@ str_class_Lost-r=Isolado(Raro)
 str_class_Gamma=Gama
 str_class_Seasonal=Sazonal
 str_class_Seasonal-r=Sazonal(Raro)
-str_class_Ethereal=Ethereal
+str_class_Ethereal=Etéreo
 str_class_Ethereal-r=Ethereal(rare)
 
 
 str_teleporter=Zepelim Sinfônico
-str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><amount> diamantes</color>?
+str_teleporter_target=O Zepelim chegará até <color="green"><islandName></color> em <time>\nGostaria de acelerar o processo por <color=#4EFFF5><amount> diamantes</color>?
 str_teleporter_target_map=O Zepelim chegará até <color="green"><islandName></color> em <time>
 str_teleporter_target_map_arrived=O Zepelim chegou em <color="green"><islandName></color>.
 str_popup_teleporter_moveToTarget=Você gostaria de ir para <color="green"><islandName></color>?
