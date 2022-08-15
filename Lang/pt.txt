@@ -266,7 +266,7 @@ Structures/Structure_amalgamator_city=Amalgamador
 Structures/Structure_amalgamator_city_bio=Amalgamator bio
 
 Structures/Structure_jukebox=Jukebox
-Structures/Structure_jukebox_bio=Heralding from days long past, the Jukebox still sports memorabilia from musical connoisseurs hoping to jam out after the day is done. While a sparklier version appears to have been modeled for a distant haven, this older prototype found its way here, where it is adored by all the younglings. Since they can’t sing, they crowd around and happily listen, deriving inspiration and absorbing raw creativity from the fantastical frequencies emmitted from within.
+Structures/Structure_jukebox_bio=Anunciando dias passados, a Jukebox ainda ostenta recordações de conhecedores musicais que esperam tocar depois que o dia terminar. Enquanto uma versão mais brilhante parece ter sido modelada para um paraíso distante, este protótipo mais antigo chegou até aqui, onde é adorado por todos os jovens. Como eles não podem cantar, eles se aglomeram e ouvem alegremente, inspirando-se e absorvendo a criatividade bruta das frequências fantásticas emitidas de dentro.
 
 
 Monsters/Composer/Monster_potbelly_composer=Potbelly
