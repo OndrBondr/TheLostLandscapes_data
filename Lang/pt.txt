@@ -89,6 +89,12 @@ Monsters/Monster_tweedle_young_bio=Young Tweedle bio
 Monsters/Monster_flootfly_young=Mosca-da-Faulta Bebê
 Monsters/Monster_flootfly_young_bio=Young Floot Fly bio
 
+Monsters/Monster_mammott_young=Mamutinho Bebê
+Monsters/Monster_mammott_young_bio=Young Mammott bio
+
+Monsters/Monster_dandidoo_young=Dandidão Bebê
+Monsters/Monster_dandidoo_young_bio=Young Dandidoo bio
+
 Monsters/Monster_theremind_young=Teremente Bebê
 Monsters/Monster_theremind_young_bio=Young Theremind bio
 
@@ -129,7 +135,7 @@ Monsters/Monster_spunge_young=Esponjo Bebê
 Monsters/Monster_spunge_young_bio=Young Spunge bio
 
 Monsters/Monster_oaktopus_young=Caravalho-Polvo Bebê
-Monsters/Monster_oaktopus_young_bio=While they may appear to be like leaves atop a tree, the bubbles adorning an Oaktopus sapling's crown is more akin to that of deep-sea waterfoam! While far-removed from the Living Ocean amidst the Lost World, Oaktopus youngsters still find a way to stay moist, even if it means rooting around in the local Fountain of Gob.
+Monsters/Monster_oaktopus_young_bio=Embora pareçam folhas no topo de uma árvore, as bolhas que adornam a coroa de uma muda de carvalho são mais parecidas com a espuma de água do fundo do mar! Embora distantes do Oceano Vivo em meio ao Mundo Perdido, os jovens Carvalho-Polvos ainda encontram uma maneira de se manterem úmidos, mesmo que isso signifique fuçar na Fonte do Matraca local.
 
 Monsters/Knott_1=Árvore Nãocerteza
 Monsters/Knott_1_bio=
@@ -495,7 +501,7 @@ str_teleporter_target_map_arrived=O Zepelim chegou em <color="green"><islandName
 str_popup_teleporter_moveToTarget=Você gostaria de ir para <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Você quer enviar o Zepelim para <color="green"><islandName></color>?
 
-btn_shop=Market
+btn_shop=Loja
 
 btn_shop_monsters=Monstros
 btn_shop_decorations=Decorações
@@ -522,7 +528,7 @@ btn_cancel=Cancelar
 btn_save=Salvar
 btn_close=Fechar
 btn_back=Voltar
-btn_buy=Vender
+btn_buy=Comprar
 btn_designerMode_randFlip=Virar Aleatório
 btn_designerMode_erase=Apagar
 btn_designerMode_paint=Pintar
