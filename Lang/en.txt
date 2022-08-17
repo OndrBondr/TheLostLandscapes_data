@@ -12,7 +12,7 @@ Monsters/Monster_spurrit_desert=Spurrit
 Monsters/Monster_spurrit_desert_bio=Spurrit bio but the one on the desert
 
 Monsters/Monster_toejammer=Toe Jammer
-Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the wate. Also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they know how to have a good time!!!
+Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the water. Also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they know how to have a good time!!!
 
 Monsters/Monster_toejammer_rare=Rare Toe Jammer
 Monsters/Monster_toejammer_rare_bio=While the common Toe Jammer is a well known partygoer, this rare variant is far more accustomed to stay at home experiences, especially of the snacking kind. With some handy snackholding pegs included, there's no adventure the Rare Toe Jammer can't handle- from the comfort of a couch that is.
@@ -494,6 +494,7 @@ str_class_Ethereal=Ethereal
 str_class_Ethereal-r=Ethereal(rare)
 
 str_teleporter=Symphonic Zeppelin
+str_teleporter2=Zeppelin
 str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><amount> diamonds</color>?
 str_teleporter_target_map=The Zeppelin will arrive at <color="green"><islandName></color> in <time>
 str_teleporter_target_map_arrived=The Zeppelin has arrived at <color="green"><islandName></color>.
