@@ -32,10 +32,10 @@ Monsters/Monster_oaktopus=Carvalho-Polvo
 Monsters/Monster_oaktopus_bio=Carvalho-Polvos estão cheios de conhecimentos para compartilhar com o mundo, sobre o mundo! Eles quase sempre têm uma resposta para algumas das perguntas mais ardentes da vida, tais como: "Por que o céu é azul?", "Por que a água é molhada?", E a mais pergunta notável, "E maionese? É um instrumento?" (Essa resposta é inconclusiva, não existe um monstro de maionese). Às vezes, eles até dizem afirmações bizarras de ilhas que antes eram carregadas por criaturas gigantescas em todo o mundo dos monstros. Geralmente pode-se ver um Carvalho-polvo lendo um bom livro ou nadando em uma fonte termal local.
 
 Monsters/Monster_oaktopus_rare=Carvalho-Polvo Raro
-Monsters/Monster_oaktopus_rare_bio=Sporting a pair of handy appendages, Rare Oaktopus has taken up a long time dream of being a Chemist! This wooden wizard travels the realm searching for new ingredients, from the blood of a slumbering giant to the sap of a sugary paradise. Most recently, the Rare Oaktopus has discovered that if mixed in proper proportion to other ingridients, the water of a distant marsh had hallucinogenic effects when sipped; Fascinating! 
+Monsters/Monster_oaktopus_rare_bio=Ostentando um bocado de tentáculos úteis, Carvalho Polvo Raro assumiu um sonho de longa data de ser um químico! Este mago de madeira viaja pelo reino em busca de novos ingredientes, desde o sangue de um gigante adormecido até a seiva de um paraíso açucarado. Mais recentemente, o Carvalho Polvo Raro descobriu que: Se misturada em proporção adequada a outros ingredientes, a água de um pântano distante tinha efeitos alucinógenos quando solvida; Fascinante!
 
 Monsters/Monster_wadee=Vódi
-Monsters/Monster_wadee_bio=Deep below the murkiest of murky depths lies an underwater land lost to time. Many monsters have resided here, and in recent times, many from this region have adventured to the surface. If one takes a swim at the foggy center of the Evergreen Woods’ bog pools then you might hear the soggy "why" like sounds of a Wadee, one such explorer. While it was a beautiful fish in the deep, exposure to the surface has fundamentally changed it, causing its gills to shrink, it’s flippers to turn to hands, and it’s body to swell slightly. While seeming minor, these changes mean that the Wadee can no longer make the long underwater trek back home. The Wadee takes it kindly though, and uses its glowing pads to help guide other underwater travelers, and is a friend to many above and below the surface. Deep inside though, Wadee misses the sights of its home coral reef and the sounds of the Cancer Choir’s melodious tunes…
+Monsters/Monster_wadee_bio=Nas profundezas mais sombrias das turvas encontra-se uma terra perdida no tempo. Muitos monstros residiram aqui e, nos últimos tempos, muitos desta região se aventuraram na superfície. Se alguém quiser dar um mergulho no centro enevoado dos Gigantescos lagos do Pântano Perene, poderá ouvir o "Uai" encharcado de um Vódi. Embora fosse um belo peixe-bolha nas profundezas, a exposição à superfície o mudou fundamentalmente, fazendo com que suas brânquias encolhessem, suas nadadeiras se transformassem em mãos e seu corpo inchasse levemente. Embora pareçam mínimas, essas mudanças significam que o pobre Vódi não pode mais fazer a longa jornada subaquática de volta para seu doce lar, porém não sabemos se as águas do Pântano Perene são Doces ou salgadas, então vamos chamar somente de Lar. O Vódi aceita isso com gentileza e usa suas dobrinhas brilhantes para ajudar a guiar outros viajantes subaquáticos, e é um grande amigo de muitos acima e abaixo da superfície. Porém, Vódi sente falta das vistas de seu recife e dos sons das melodias do grande Pântano. 
 Monsters/Monster_quibble=Picuinha
 Monsters/Monster_quibble_bio=A Picuinha pode parecer um monstro gracioso por fora, mas isso é apenas fingimento. As duas cabeças brigam constantemente, geralmente tendo opiniões opostas sobre as últimas tendências ou algum outro assunto trivial. Uma vez, a Picuinha da esquerda queria pedir batatas fritas, mas a Picuinha da direita estava ansiosa para tomar um milk-shake... O caos continuou. Mas no final, elas sempre se reconciliam, como verdadeiros irmãos. Sim, elas acabaram pedindo batatas fritas mergulhadas em um milk-shake. Um trato mais que feito.
 Monsters/Monster_stoopa=Stoopa
@@ -61,10 +61,10 @@ Monsters/Monster_dulsylvan=Dulsilvestre
 Monsters/Monster_dulsylvan_bio=O entalhado Dulsilvestre é uma criatura de madeira e intemperismo, mantido unido por seu núcleo sólido, é um monstro que pode parecer meio grosseiro a primeira vista. Conhecido por nunca falar e ser sempre carrancudo, o mau humor de Dulsilvestre nada mais é do que algo causado pelo fato de que sua boca está bem travada nessa sua forma atual. Na verdade, o verdadeiro monstro vive nas pequenas criaturas que residem na única parte verdadeiramente cheia de vida desse ser, que são os seus galhos elevados. Essas criaturinhas, que as vezes são chamadas de Silvinhos, destampam e tapam os buracos abertos em seus galhos ancestrais enfermos para permitir a passagem do ar, dando ao Dulsilvestre um meio de comunicação com seus vizinhos. Uma vez que Dulsivan misticamente se transforma em uma pinha, os Silvinhos começarão a crescer e se transformar rapidamente em jovens Dulsilvestres!
 
 Monsters/Monster_dulsylvan_rare=Dulsilvestre Raro
-Monsters/Monster_dulsylvan_rare_bio=During the late stages of a Dulsylvan’s time, it’s body begins to rapidly change. Old, solid wood morphs into a light airy shape, known as a sylvcone. The Dulsylvan’s body begins to ooze a sweet sap, that will feed its young Sylvlings after it has passed on, and it’s nose changes to a luscious green shade. While these latter days are considered to be short, they are known to be filled with joy, as the old Dulsylvan becomes able to move freely once more! Eventually though, it slows down, and the sap crystallizes the sylvcone and preserves it for eternity…
+Monsters/Monster_dulsylvan_rare_bio=Durante os últimos estágios da vida de um Dulsilvestre, seu corpo começa a mudar rapidamente. A madeira antiga e sólida se transforma em uma forma leve e arejada, conhecida como Silpinha. O corpo do Dulsilvestre começa a exalar uma seiva doce, que alimentará seus jovens Silvinhos depois que ele falecer, e seu nariz muda para um tom verde delicioso. Embora esses últimos dias sejam considerados curtos, eles são conhecidos por serem cheios de alegria, pois o velho Dulsilvestre se torna capaz de se mover livremente mais uma vez! Eventualmente, porém, diminui a velocidade, e a seiva cristaliza a Silpinha e a preserva para a eternidade...
 
 Monsters/Monster_dandidoo=Dandidoo
-Monsters/Monster_dandidoo_bio=As the warm flows of the ocean carry oysters around the deeps, a gentle breeze carries Dandidoo across the monster world. Their migrations rely on airflow since nature wasn't kind enough to grant them wings. They can conduct the air through their bodies to store and burst it out in a powerful stream of tuned tones and semitones. That's why their singing resembles "doo"s and "dee"s.\nTheir plant element gave them a greenish hue and afro-styled hair reminiscent of a common dandelion.
+Monsters/Monster_dandidoo_bio=Enquanto os fluxos quentinhos do oceano carregam ostras pelas profundezas, uma brisa suave carrega o Esbelto Dandidão pelo mundo dos monstros. Suas migrações dependem do fluxo de ar, já que a natureza não foi tão gentil o suficiente para conceder-lhes asas, pobrezinho. Eles podem conduzir o ar através de seus corpos verdinhos para armazená-lo e explorá-lo em um poderoso fluxo de tons e semitons afinados. É por isso que seu canto se assemelha a "doo"s e "dee"s. Seu elemental de Planta deu-lhes uma tonalidade esverdeada e cabelos estilo afro que lembram um dente-de-leão comum, será que é fácil confundir os dois? Provavelmente sim.
 Monsters/Monster_varrow=Berimvoa
 Monsters/Monster_varrow_bio=Conhecida por sua propensão à caça, o melódico “Iah-há-há!” da Berimvoa ecoa por todos os cantos do Pântano Perene. Ela usa seu sua voz e seu "berimbau de nariz" longo para tentar atrair Dons Sapo jovens para seu cantinho no pântano, mesmo que isso não funcione com a frequência que ela gostaria. Na verdade, suas tentativas assustam suas presas escorregadias na maioria das vezes, deixando a Berimvoa triste e sozinha. É uma coisa triste sabe, já que ela realmente quer que novos clientes provem seus doces caseiros frescos!
 
@@ -77,8 +77,8 @@ Monsters/Monster_banno_bio=Um vocalista do lendário Coro do Cancer, por muito t
 Monsters/Monster_frondley=Frondley
 Monsters/Monster_frondley_bio=O Folhamável é ummmmmmmmmm espécime incrível! Seu físico gelatinoso e dedos nos quais podem se assimilar à certo monstro, no qual certamente monstro evoluiu separadamente do nosso companheiro de cor amarela. Seus zumbidos sobrenaturais e serenos ecoam pelas ilhas, sempre afirmado que um Folhamável está presente lá. Alguns monstros vão até longas distancias só para gravar seu zumbido, para que depois eles possam se colocar para dormir escutando esse som calmo. Em outras atividades, Folhamáveis adoram manter seu penteado "tipo-alga", enquanto sempre se esforçam para encontrar a quantidade perfeita de cabelo para seus crânios bulbosos.
 
-Monsters/Special/Monster_melochness=Meloch-Ness
-Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit.
+Monsters/Special/Monster_melochness=Melódi-Ness
+Monsters/Special/Monster_melochness_bio=Nascidos das poças encantadas nos bosques profundos, Melódi-Nessis são criaturas colossais e curiosas. Como a maioria dos habitantes da Floresta das Fadas, a existência desse monstro é grandemente lincada a Neblina Flora. Enquanto não sabemos exatamente oque faz, a neblina aparenta amplificar as melódicas melodias de Melódi-Ness e levá-las para longe. Sua melodia encantada pode ser ouvida por toda floresta à fora enquanto é carregada pela Neblina Flora. Na verdade, isso foi a primeira coisa que os monstros naturais ouviram quando adentraram aos Bosques Profundos. Também é dito que Melódi-Ness compartilha um ancestral em comum com Piu-Flau e Coelhinho-do-Ninho.
 
 Monsters/Monster_potbelly_young=Planta-Pança Bebê
 Monsters/Monster_potbelly_young_bio=Young Potbelly bio
@@ -88,6 +88,12 @@ Monsters/Monster_tweedle_young=Pintinho Piu Bebê
 Monsters/Monster_tweedle_young_bio=Young Tweedle bio
 Monsters/Monster_flootfly_young=Mosca-da-Faulta Bebê
 Monsters/Monster_flootfly_young_bio=Young Floot Fly bio
+
+Monsters/Monster_mammott_young=Mamutinho Bebê
+Monsters/Monster_mammott_young_bio=Young Mammott bio
+
+Monsters/Monster_dandidoo_young=Dandidão Bebê
+Monsters/Monster_dandidoo_young_bio=Young Dandidoo bio
 
 Monsters/Monster_theremind_young=Teremente Bebê
 Monsters/Monster_theremind_young_bio=Young Theremind bio
@@ -129,7 +135,7 @@ Monsters/Monster_spunge_young=Esponjo Bebê
 Monsters/Monster_spunge_young_bio=Young Spunge bio
 
 Monsters/Monster_oaktopus_young=Caravalho-Polvo Bebê
-Monsters/Monster_oaktopus_young_bio=While they may appear to be like leaves atop a tree, the bubbles adorning an Oaktopus sapling's crown is more akin to that of deep-sea waterfoam! While far-removed from the Living Ocean amidst the Lost World, Oaktopus youngsters still find a way to stay moist, even if it means rooting around in the local Fountain of Gob.
+Monsters/Monster_oaktopus_young_bio=Embora pareçam folhas no topo de uma árvore, as bolhas que adornam a coroa de uma muda de carvalho são mais parecidas com a espuma de água do fundo do mar! Embora distantes do Oceano Vivo em meio ao Mundo Perdido, os jovens Carvalho-Polvos ainda encontram uma maneira de se manterem úmidos, mesmo que isso signifique fuçar na Fonte do Matraca local.
 
 Monsters/Knott_1=Árvore Nãocerteza
 Monsters/Knott_1_bio=
@@ -259,6 +265,10 @@ Structures/Structure_amalgamator_bio=Amalgamator bio
 Structures/Structure_amalgamator_city=Amalgamador
 Structures/Structure_amalgamator_city_bio=Amalgamator bio
 
+Structures/Structure_jukebox=Jukebox
+Structures/Structure_jukebox_bio=Anunciando dias passados, a Jukebox ainda ostenta recordações de conhecedores musicais que esperam tocar depois que o dia terminar. Enquanto uma versão mais brilhante parece ter sido modelada para um paraíso distante, este protótipo mais antigo chegou até aqui, onde é adorado por todos os jovens. Como eles não podem cantar, eles se aglomeram e ouvem alegremente, inspirando-se e absorvendo a criatividade bruta das frequências fantásticas emitidas de dentro.
+
+
 Monsters/Composer/Monster_potbelly_composer=Potbelly
 Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
 Monsters/Composer/Monster_toejammer_composer=Toe Jammer
@@ -323,7 +333,7 @@ Desert_path6_bio=Desert path
 
 
 Decoration/Decoration_test=Notárvore
-Decoration/Decoration_test_bio=The Kee-Tree is a wooden amalgamation of wood and whimsy! While unable to play itself like the ancient Bass Machine, prophecies say that if played just right by the wind, the Kee-Tree can reveal a song not heard since the dawn of reality…
+Decoration/Decoration_test_bio=A Notárvore é um amálgamo de madeiras e capricho! Embora incapaz de produzir uma melodia como a velha máquina de baixo, as profecias dizem que, se tocado pelo vento, a Notárvore pode revelar uma música não ouvida desde o início da realidade…
 Decoration/Decoration_test1=Rabanete Tagarela
 Decoration/Decoration_test1_bio=Talkie Radish bio
 Decoration/Decoration_test2=Seivárvore
@@ -331,17 +341,17 @@ Decoration/Decoration_test2_bio=Saptree bio
 Decoration/Decoration_test3=Haulmárvore
 Decoration/Decoration_test3_bio=Souxls Tree bio
 Decoration/Decoration_test4=Fonte do Matraca
-Decoration/Decoration_test4_bio=This enchanted statue provides an infinite source of fresh water for monsters. This is a wonderful thing, as these days much of the water is contaminated.
+Decoration/Decoration_test4_bio=Esta fonte encantada fornecia uma enorme quantidade de água fresca para os monstros. Isso é uma coisa maravilhosa, pois hoje em dia grande parte da água está contaminada. 
 Decoration/Decoration_test5=Florossea
 Decoration/Decoration_test5_bio=Funny Flora bio
 Decoration/Decoration_test6=Tulipa Malabarista
-Decoration/Decoration_test6_bio=At first glance, this can be easily mistaken for a Monster. But it's just a plant that can juggle anything, mostly eyeballs.
+Decoration/Decoration_test6_bio=À primeira vista, isso pode ser facilmente confundido com um Monstro. Mas é apenas uma planta que pode fazer malabarismo com qualquer coisa, principalmente com globos oculares. 
 Decoration/Decoration_test7=Balde de Juncos
-Decoration/Decoration_test7_bio=Looks like someone plucked some Cattails from the Evergreen Marsh and put them in a bucket of water to keep them alive! Neat-o!
+Decoration/Decoration_test7_bio=Parece que alguém arrancou alguns juncos do Pântano Perene e as colocou em um balde de água para mantê-las vivas! Muito Massa! 
 Decoration/Decoration_test8=Ávore de Bagas Embrocadas
-Decoration/Decoration_test8_bio=Capsize Berry Trees are well-loved throughout the lost landscapes for their delicious berries. They're so delicious in fact, monsters don't often realize the magical side-effect of the berries, where they float up into the air and fall down right on their heads!
+Decoration/Decoration_test8_bio=As árvores de bagas Embrocadas são muito apreciadas nas paisagens perdidas pelos seus deliciosos frutos silvestres. Na verdade, eles são tão deliciosos que os monstros nem sempre percebem o efeito colateral mágico das bagas, onde eles flutuam no ar e caem de cabeça para baixo!
 Decoration/Decoration_test9=Partes Reserva
-Decoration/Decoration_test9_bio=It's a jar of spare parts! What's it for? Who knows? Are they spare parts for Blipsqueak? Are they spare parts for Handmond just in case its organs fail? Are they even spare parts at all!?
+Decoration/Decoration_test9_bio=IÉ um pote de partes reserva! Para que serve isto? Quem sabe? São partes de reservas para o Blipirralho? São partes reservas para Morgão caso seus órgãos falhem? Eles são mesmo partes reservas!? Eu preciso de uma água urgente.
 Decoration/Decoration_test10=Baluni
 Decoration/Decoration_test10_bio=Eles o chamam de amigo substituo. Monstros solitários vêm até o Baluni a qualquer momento para compartilhas suas histórias com ele. Nosso "amigo" costumava voar livremente por aí, explorando o mundo monstros, mas eles acabou ficando preso entre duas pedras sem nada para fazer além de se balançar serenamente de um lado para o outro. Ninguém sabe quem fez o Baluni, mas os rumores dizem que se assemelha levemente à sua criação. Quem sabe, talvez nós iremos o conhecer algum dia.
 Decoration/Decoration_test11=Ipê Cardíaco
@@ -402,7 +412,7 @@ food - <color=#F318D1>
 
 str_currency_coins=Moedas
 str_currency_diamonds=Diamantes
-str_currency_food=Comida
+str_currency_food=Agrados
 str_currency_stars=PoderEstelar
 
 str_warning=Calma lá!
@@ -495,7 +505,7 @@ str_teleporter_target_map_arrived=O Zepelim chegou em <color="green"><islandName
 str_popup_teleporter_moveToTarget=Você gostaria de ir para <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Você quer enviar o Zepelim para <color="green"><islandName></color>?
 
-btn_shop=Market
+btn_shop=Loja
 
 btn_shop_monsters=Monstros
 btn_shop_decorations=Decorações
@@ -522,7 +532,7 @@ btn_cancel=Cancelar
 btn_save=Salvar
 btn_close=Fechar
 btn_back=Voltar
-btn_buy=Vender
+btn_buy=Comprar
 btn_designerMode_randFlip=Virar Aleatório
 btn_designerMode_erase=Apagar
 btn_designerMode_paint=Pintar

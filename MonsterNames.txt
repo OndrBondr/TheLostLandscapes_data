@@ -298,6 +298,7 @@ Durrt
 Drump
 Glomp
 Mwump
+DirtMaulch
 ;
 Monsters/Monster_percFrog
 PercFrog
