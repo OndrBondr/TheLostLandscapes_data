@@ -499,6 +499,7 @@ str_class_Ethereal-r=Ethereal(rare)
 
 
 str_teleporter=Zepelim Sinfônico
+str_teleporter2=Zepelim
 str_teleporter_target=O Zepelim chegará até <color="green"><islandName></color> em <time>\nGostaria de acelerar o processo por <color=#4EFFF5><amount> diamantes</color>?
 str_teleporter_target_map=O Zepelim chegará até <color="green"><islandName></color> em <time>
 str_teleporter_target_map_arrived=O Zepelim chegou em <color="green"><islandName></color>.

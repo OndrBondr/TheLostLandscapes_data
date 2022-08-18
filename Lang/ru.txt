@@ -493,12 +493,13 @@ str_class_Ethereal=Этериальный
 str_class_Ethereal-r=Этериальный(редкий)
 
 
-str_teleporter=Симфонический Цеппелин
-str_teleporter_target=Цеппелин прибудет к <color="green"><islandName></color> за <time>\nХотели б вы ускорить его за <color=#4EFFF5><amount> diamonds</color>?
-str_teleporter_target_map=Цеппелин прибудет к <color="green"><islandName></color> за <time>
-str_teleporter_target_map_arrived=Цеппелин прибыл на <color="green"><islandName></color>.
-str_popup_teleporter_moveToTarget=Хотели бы вы пойти на <color="green"><islandName></color>?
-str_popup_teleporter_confirm_sending=Хотели бы вы отправить Цеппелин на <color="green"><islandName></color>?
+str_teleporter=Дирижабль Симфони
+str_teleporter2=Дирижабль
+str_teleporter_target=Дирижабль прибудет на <color="green"><islandName></color> за <time>\nХотели б вы ускорить его за <color=#4EFFF5><amount> diamonds</color>?
+str_teleporter_target_map=Дирижабль прибудет к <color="green"><islandName></color> за <time>
+str_teleporter_target_map_arrived=Дирижабль прибыл на <color="green"><islandName></color>.
+str_popup_teleporter_moveToTarget=Хотели бы вы отправится на <color="green"><islandName></color>?
+str_popup_teleporter_confirm_sending=Хотели бы вы отправить Дирижабль на <color="green"><islandName></color>?
 
 btn_shop=Магазин
 
