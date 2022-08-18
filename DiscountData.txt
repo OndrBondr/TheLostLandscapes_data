@@ -1,0 +1,34 @@
+
+ID=Monsters/Monster_flootfly
+IsIslandSpecific=true
+Islands=EM
+HasCostOvrwrite=true
+IsCostOvrwritePersentage=false
+CostOverwrite=1,diamonds
+HasDeadline=true
+Deadline=8/31/2022 12:00:00 AM
+;
+ID=Monsters/Monster_flootfly_young
+IsIslandSpecific=true
+Islands=City
+HasCostOvrwrite=true
+IsCostOvrwritePersentage=false
+CostOverwrite=1,coins
+HasDeadline=true
+Deadline=8/31/2022 12:00:00 AM
+;
+ID=Monsters/Monster_oaktopus
+IsIslandSpecific=false
+HasCostOvrwrite=true
+IsCostOvrwritePersentage=true
+CostOverwrite=50
+HasDeadline=true
+Deadline=8/31/2022 12:00:00 AM
+;
+ID=Monsters/Monster_oaktopus_rare
+IsIslandSpecific=true
+Islands=EM,Organs
+HasCostOvrwrite=false
+HasDeadline=true
+Deadline=8/27/2022 12:00:00 AM
+
