@@ -502,6 +502,7 @@ str_popup_teleporter_moveToTarget=Would you like to go to <color="green"><island
 str_popup_teleporter_confirm_sending=Would you like to send the Zeppelin to <color="green"><islandName></color>?
 
 btn_shop=Market
+btn_mailbox=Mailbox
 
 btn_shop_monsters=Monsters
 btn_shop_decorations=Decorations
