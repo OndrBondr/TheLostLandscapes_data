@@ -1,5 +1,6 @@
 
 ID=Monsters/Monster_flootfly
+MarketSorterID=Monsters
 IsIslandSpecific=true
 Islands=EM
 HasCostOvrwrite=true
@@ -10,6 +11,7 @@ HasDeadline=true
 Deadline=8/31/2022 12:00:00 AM
 ;
 ID=Monsters/Monster_flootfly_young
+MarketSorterID=Monsters
 IsIslandSpecific=true
 Islands=City
 HasCostOvrwrite=true
@@ -20,6 +22,7 @@ HasDeadline=true
 Deadline=8/31/2022 12:00:00 AM
 ;
 ID=Monsters/Monster_oaktopus
+MarketSorterID=Monsters
 IsIslandSpecific=false
 HasCostOvrwrite=true
 IsCostOvrwritePercentage=true
@@ -29,6 +32,7 @@ HasDeadline=true
 Deadline=8/31/2022 12:00:00 AM
 ;
 ID=Monsters/Monster_oaktopus_rare
+MarketSorterID=Monsters
 IsIslandSpecific=true
 Islands=EM
 HasCostOvrwrite=false
@@ -37,6 +41,7 @@ Deadline=8/20/2022 12:00:00 AM
 BreedingOverwrite=Monsters/Monster_oaktopus_rare=Monsters/Monster_choral+Monsters/Monster_banno 4
 ;
 ID=Monsters/Monster_oaktopus_rare
+MarketSorterID=Monsters
 IsIslandSpecific=true
 Islands=Organs
 HasCostOvrwrite=true
