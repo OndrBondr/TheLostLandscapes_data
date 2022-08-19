@@ -10,17 +10,6 @@ CostOverwrite=1,diamonds
 HasDeadline=true
 Deadline=8/31/2022 12:00:00 AM
 ;
-ID=Monsters/Monster_flootfly
-MarketSortersID=monsters
-IsIslandSpecific=true
-Islands=Desert
-HasCostOvrwrite=true
-IsCostOvrwritePercentage=false
-ShowOldCost=true
-CostOverwrite=1,food
-HasDeadline=true
-Deadline=8/19/2022 4:19:00 AM
-;
 ID=Monsters/Monster_flootfly_young
 MarketSortersID=monsters
 IsIslandSpecific=true
