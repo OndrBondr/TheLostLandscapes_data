@@ -34,5 +34,4 @@ Islands=EM,Organs
 HasCostOvrwrite=false
 HasDeadline=true
 Deadline=8/20/2022 12:00:00 AM
-BreedingOverwrite=Monsters/Monster_oaktopus_rare=Monsters/Monster_choral+Monsters/Monster_banno 4
-
+BreedingOverwrite=Monsters/Monster_oaktopus_rare@Monsters/Monster_choral+Monsters/Monster_banno 4
