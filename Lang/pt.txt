@@ -415,6 +415,10 @@ str_currency_diamonds=Diamantes
 str_currency_food=Agrados
 str_currency_stars=PoderEstelar
 
+
+str_limitedTime=Available for a limited time
+str_limitedTimeTimer=Available for:\n<time>
+
 str_warning=Calma lá!
 str_popup_sellEgg=Você tem certeza que quer vender isso por <color="yellow"><amount> Moedas??
 str_popup_speedUp=Você tem certeza que quer acelerar o processo por <color=#4EFFF5><amount> Diamantes?

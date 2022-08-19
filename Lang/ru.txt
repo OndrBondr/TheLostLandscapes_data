@@ -410,6 +410,10 @@ str_currency_diamonds=Бриллианты
 str_currency_food=Еда
 str_currency_stars=Звездность
 
+
+str_limitedTime=Доступно в течение ограниченного времени
+str_limitedTimeTimer=<time>
+
 str_warning=Погодите!
 str_popup_sellEgg=Вы уверены, что хотите продать это яйцо за <color="yellow"><amount> монет?
 str_popup_speedUp=Вы уверены, что хотите ускорить процесс за<color=#4EFFF5><amount> бриллиантов?

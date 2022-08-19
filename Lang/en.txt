@@ -411,6 +411,10 @@ str_currency_diamonds=Diamonds
 str_currency_food=Food
 str_currency_stars=Starpower
 
+
+str_limitedTime=Available for a limited time
+str_limitedTimeTimer=Available for:\n<time>
+
 str_warning=Hold up!
 str_popup_sellEgg=Are you sure you want to sell this egg for <color="yellow"><amount> Coins?
 str_popup_speedUp=Are you sure you want to speed up the proccess for <color=#4EFFF5><amount> Diamonds?
