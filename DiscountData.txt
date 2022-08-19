@@ -19,7 +19,7 @@ IsCostOvrwritePercentage=false
 ShowOldCost=true
 CostOverwrite=1,food
 HasDeadline=true
-Deadline=8/19/2022 7:45:00 PM
+Deadline=8/19/2022 8:00:00 PM
 ;
 ID=Monsters/Monster_flootfly_young
 MarketSortersID=monsters
