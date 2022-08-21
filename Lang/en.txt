@@ -1,14 +1,14 @@
 ﻿-------
 Monsters/Monster_maulch=Maulch
 Monsters/Monster_maulch_bio=Maulch bio
-Monsters/Monster_maulch_awake=Maulch
+Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
 Monsters/Monster_maulch_awake_bio=Maulch bio awakened
 
 
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Spurrit bio
 
-Monsters/Monster_spurrit_desert=Spurrit
+Monsters/Monster_spurrit_desert=<ref>Monsters/Monster_spurrit
 Monsters/Monster_spurrit_desert_bio=Spurrit bio but the one on the desert
 
 Monsters/Monster_toejammer=Toe Jammer
@@ -168,7 +168,7 @@ Monsters/Monster_whimstlop_meduza_bio=The inner machinations of the Whimstlop ar
 
 Monsters/Monster_mammott=Mammott
 Monsters/Monster_mammott_bio=Mammott bio
-Monsters/Monster_mammott_meduza=Mammott
+Monsters/Monster_mammott_meduza=<ref>Monsters/Monster_mammott
 Monsters/Monster_mammott_meduza_bio=Mammott bio
 
 Monsters/Monster_mammott_young=Young Mammott
@@ -176,12 +176,12 @@ Monsters/Monster_mammott_young_bio=Young Mammott bio
 
 Monsters/Monster_maw=Maw
 Monsters/Monster_maw_bio=Maw bio
-Monsters/Monster_maw_meduza=Maw
+Monsters/Monster_maw_meduza=<ref>Monsters/Monster_maw
 Monsters/Monster_maw_meduza_bio=Maw bio
 
 Monsters/Monster_pongping=PongPing
 Monsters/Monster_pongping_bio=PongPing bio
-Monsters/Monster_pongping_meduza=PongPing
+Monsters/Monster_pongping_meduza=<ref>Monsters/Monster_pongping
 Monsters/Monster_pongping_meduza_bio=PongPing bio
 
 Monsters/Monster_meduza=M'Duzza
@@ -189,28 +189,28 @@ Monsters/Monster_meduza_bio=M'Duzza bio
 
 Monsters/Monster_noggin=Noggin
 Monsters/Monster_noggin_bio=Noggin bio
-Monsters/Monster_noggin_meduza=Noggin
+Monsters/Monster_noggin_meduza=<ref>Monsters/Monster_noggin
 Monsters/Monster_noggin_meduza_bio=Noggin bio
 
 Monsters/Monster_theremind=Theremind
 Monsters/Monster_theremind_bio=Theremind bio
-Monsters/Monster_theremind_meduza=Theremind
+Monsters/Monster_theremind_meduza=<ref>Monsters/Monster_theremind
 Monsters/Monster_theremind_meduza_bio=Theremind bio
 
 Monsters/Monster_sox=Sox
 Monsters/Monster_sox_bio=After having finally met the common class of monsters first-hand, Sox's life has been forever changed. Now, rather than playing solemn bluesy tunes in the vast nothingness of the Pocket Dimension, Sox is free to play its melodies for the entire Lost World! Publicity isn't easy, however, as it still sometimes needs to dispel rumors of a supposed 'true sound' the Sox makes.
-Monsters/Monster_sox_meduza=Sox
-Monsters/Monster_sox_meduza_bio=After having finally met the common class of monsters first-hand, Sox's life has been forever changed. Now, rather than playing solemn bluesy tunes in the vast nothingness of the Pocket Dimension, Sox is free to play its melodies for the entire Lost World! Publicity isn't easy, however, as it still sometimes needs to dispel rumors of a supposed 'true sound' the Sox makes.
+Monsters/Monster_sox_meduza=<ref>Monsters/Monster_sox
+Monsters/Monster_sox_meduza_bio=Ded sox bio
 
 Monsters/Monster_pummel=Pummel
 Monsters/Monster_pummel_bio=While the plantlike corks Pummels seal their mouths with are hardly ever removed, it is believed that its mass makes up 70% of a Pummel's true scale! Now, even so, it's a touchy subject to ask on... you wouldn't want to be flung by the seismic thump of a grumpy pummel!
-Monsters/Monster_pummel_meduza=Pummel
-Monsters/Monster_pummel_meduza_bio=While the plantlike corks Pummels seal their mouths with are hardly ever removed, it is believed that its mass makes up 70% of a Pummel's true scale! Now, even so, it's a touchy subject to ask on... you wouldn't want to be flung by the seismic thump of a grumpy pummel!
+Monsters/Monster_pummel_meduza=<ref>Monsters/Monster_pummel
+Monsters/Monster_pummel_meduza_bio=Ded pummel bio
 
 Monsters/Monster_kuncklehead=Knucklehead
 Monsters/Monster_kuncklehead_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
-Monsters/Monster_kuncklehead_meduza=Knucklehead
-Monsters/Monster_kuncklehead_meduza_bio=The burly mitts of a matured Knucklehead may be intimidating, but it assures the handlers it would never use such strength for ill-intentioned activities. In fact, we find that most Knuckleheads spend their days playing Critters and Catacombs with their monster cohorts. Who would know that a creature with the name Knucklehead would be such an experienced storyteller!
+Monsters/Monster_kuncklehead_meduza=<ref>Monsters/Monster_kuncklehead
+Monsters/Monster_kuncklehead_meduza_bio=Ded knuckles bio
 
 Monsters/Monster_hornacle=Hornacle
 Monsters/Monster_hornacle_bio=Hornacle bio
@@ -247,8 +247,8 @@ Monsters/Monster_olga_bio=Olgaropipe bio
 Structures/Structure_breeding=Breeding Structure
 Structures/Structure_breeding_bio=Breeding Structure bio
 
-Structures/Structure_breeding_city=Breeding Structure
-Structures/Structure_breeding_city_bio=Breeding Structure bio
+Structures/Structure_breeding_city=<ref>Structures/Structure_breeding
+Structures/Structure_breeding_city_bio=<ref>Breeding Structure bio
 
 Structures/Structure_bakery=Bakery
 Structures/Structure_bakery_bio=Bakery bio
@@ -256,8 +256,8 @@ Structures/Structure_bakery_bio=Bakery bio
 Structures/Structure_amalgamator=Amalgamator
 Structures/Structure_amalgamator_bio=Amalgamator bio
 
-Structures/Structure_amalgamator_city=Amalgamator
-Structures/Structure_amalgamator_city_bio=Amalgamator bio
+Structures/Structure_amalgamator_city=Bebe food maker
+Structures/Structure_amalgamator_city_bio=Bebe food maker bio
 
 Structures/Structure_jukebox=Jukebox
 Structures/Structure_jukebox_bio=Heralding from days long past, the Jukebox still sports memorabilia from musical connoisseurs hoping to jam out after the day is done. While a sparklier version appears to have been modeled for a distant haven, this older prototype found its way here, where it is adored by all the younglings. Since they can’t sing, they crowd around and happily listen, deriving inspiration and absorbing raw creativity from the fantastical frequencies emmitted from within.
@@ -310,22 +310,16 @@ EM_path7=Overgrown Bubblerite Path
 EM_path7_bio=Over the long span of time since this path was last taken care of, the moss has grown all over, to the point where it’s hard to tell what color it ever originally was.
 
 Desert_path1=Desert path 1
-Desert_path1_bio=Desert path
 
 Desert_path2=Desert path 2
-Desert_path2_bio=Desert path
 
 Desert_path3=Desert path 3
-Desert_path3_bio=Desert path
 
 Desert_path4=Desert path 4
-Desert_path4_bio=Desert path
 
 Desert_path5=Desert path 5
-Desert_path5_bio=Desert path
 
 Desert_path6=Desert path 6
-Desert_path6_bio=Desert path
 
 
 Decoration/Decoration_test=Kee-Tree
@@ -360,37 +354,41 @@ Decoration/Decoration_knott_bio=Mount Knottshurr bio
 Decoration/Decoration_mors=Mountain Morsel
 Decoration/Decoration_mors_bio=Mountain Morsel bio
  
-Decoration/Obstacle_EM_1=Small Mushroom
-Decoration/Obstacle_EM_1_bio=It's a small mushroom. Don't worry; removed mushrooms will be taken far away and gently replanted.
-Decoration/Obstacle_EM_2=Medium Mushroom
-Decoration/Obstacle_EM_2_bio=It's a medium mushroom. Don't worry; removed mushrooms will be taken far away and gently replanted.
-Decoration/Obstacle_EM_3=Large Mushroom
-Decoration/Obstacle_EM_3_bio=It's a large mushroom. Don't worry; removed mushrooms will be taken far away and gently replanted.
-Decoration/Obstacle_EM_4=Devil's Fingers
-Decoration/Obstacle_EM_4_bio=Devil's Fingers bio
-Decoration/Obstacle_EM_5=Truffle
-Decoration/Obstacle_EM_5_bio=It's a truffle. Removed truffles will be taken away to wonderful new homes.
-Decoration/Obstacle_EM_6=Puff Shroom
-Decoration/Obstacle_EM_6_bio=It's a puff shroom. Removed puff shrooms will be taken away to wonderful new homes.
 
- 
-Decoration/Obstacle_placable_EM_1=Small Mushroom
-Decoration/Obstacle_placable_EM_1_bio=Bio
-Decoration/Obstacle_placable_EM_2=Medium Mushroom
-Decoration/Obstacle_placable_EM_2_bio=Bio
-Decoration/Obstacle_placable_EM_3=Large Mushroom
-Decoration/Obstacle_placable_EM_3_bio=Bio
-Decoration/Obstacle_placable_EM_4=Devil's Fingers
-Decoration/Obstacle_placable_EM_4_bio=Bio
-Decoration/Obstacle_placable_EM_5=Truffle
-Decoration/Obstacle_placable_EM_5_bio=Bio
-Decoration/Obstacle_placable_EM_6=Puff Shroom
-Decoration/Obstacle_placable_EM_6_bio=Bio
+ObstacleMushroomsbio=Removed fungi will be taken far away to wonderful new homes.
+
+Decoration/Obstacle_EM_1=Small Mushroom
+Decoration/Obstacle_EM_1_bio=It's a Small Mushroom. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_2=Medium Mushroom
+Decoration/Obstacle_EM_2_bio=It's a Medium Mushroom. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_3=Large Mushroom
+Decoration/Obstacle_EM_3_bio=It's a Large Mushroom. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_4=Devil's Fingers
+Decoration/Obstacle_EM_4_bio=Those are Devil's Fingers. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_5=Truffle
+Decoration/Obstacle_EM_5_bio=It's a truffle. <ref>ObstacleMushroomsbio
+Decoration/Obstacle_EM_6=Puff Shroom
+Decoration/Obstacle_EM_6_bio=It's a puff shroom. <ref>ObstacleMushroomsbio
+
+ObstaclePlacableShroom_bio=Remember how we said mushrooms and fungi that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's mushrooms and fungi and this marsh is their new home! Mushroom recycling is awesome.
+
+Decoration/Obstacle_placable_EM_1=<ref>Decoration/Obstacle_EM_1
+Decoration/Obstacle_placable_EM_1_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_2=<ref>Decoration/Obstacle_EM_2
+Decoration/Obstacle_placable_EM_2_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_3=<ref>Decoration/Obstacle_EM_3
+Decoration/Obstacle_placable_EM_3_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_4=<ref>Decoration/Obstacle_EM_4
+Decoration/Obstacle_placable_EM_4_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_5=<ref>Decoration/Obstacle_EM_5
+Decoration/Obstacle_placable_EM_5_bio=<ref>ObstaclePlacableShroom_bio
+Decoration/Obstacle_placable_EM_6=<ref>Decoration/Obstacle_EM_6
+Decoration/Obstacle_placable_EM_6_bio=<ref>ObstaclePlacableShroom_bio
 
 ObstacleCommonRocks_bio=Removed rocks will be taken far away to wonderful new homes.
 ObstacleCommonTrees_bio=Don't worry; removed trees will be taken far away and gently replanted.
 
-Decoration/Obstacle_Candy_1=Small Rock. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_1=Small Rock.
 Decoration/Obstacle_Candy_1_bio=It's a Small Rock. <ref>ObstacleCommonRocks_bio
 Decoration/Obstacle_Candy_2=Medium Rock
 Decoration/Obstacle_Candy_2_bio=It's a Medium Rock. <ref>ObstacleCommonRocks_bio
@@ -405,24 +403,24 @@ Decoration/Obstacle_Candy_6_bio=It's a Big Tree. <ref>ObstacleCommonTrees_bio
 
 ObstaclePlacableCommon_bio=Remember how we said that trees and rocks that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's trees and rocks and your islands are their new homes! Recycling is awesome.
 
-Decoration/Obstacle_placable_Candy_1=Small Rock
+Decoration/Obstacle_placable_Candy_1=<ref>Decoration/Obstacle_Candy_1
 Decoration/Obstacle_placable_Candy_1_bio=<ref>ObstaclePlacableCommon_bio
-Decoration/Obstacle_placable_Candy_2=Medium Rock
+Decoration/Obstacle_placable_Candy_2=<ref>Decoration/Obstacle_Candy_2
 Decoration/Obstacle_placable_Candy_2_bio=<ref>ObstaclePlacableCommon_bio
-Decoration/Obstacle_placable_Candy_3=Big Rock
+Decoration/Obstacle_placable_Candy_3=<ref>Decoration/Obstacle_Candy_3
 Decoration/Obstacle_placable_Candy_3_bio=<ref>ObstaclePlacableCommon_bio
-Decoration/Obstacle_placable_Candy_4=Small Tree
+Decoration/Obstacle_placable_Candy_4=<ref>Decoration/Obstacle_Candy_4
 Decoration/Obstacle_placable_Candy_4_bio=<ref>ObstaclePlacableCommon_bio
-Decoration/Obstacle_placable_Candy_5=Medium Tree
+Decoration/Obstacle_placable_Candy_5=<ref>Decoration/Obstacle_Candy_5
 Decoration/Obstacle_placable_Candy_5_bio=<ref>ObstaclePlacableCommon_bio
-Decoration/Obstacle_placable_Candy_6=Big Tree
+Decoration/Obstacle_placable_Candy_6=<ref>Decoration/Obstacle_Candy_6
 Decoration/Obstacle_placable_Candy_6_bio=<ref>ObstaclePlacableCommon_bio
  
 
 Decoration/Dog=Dog
 Decoration/Dog_bio=Dog goD.
 
-str_breeding=You've bred a\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
+str_breeding=You've bred:\n<color="green">ENTITY_NAME</color>\n What would you like to do with it?
 str_lvl=Lvl:
 str_lvlMax=MAX
 str_noEmpty=Leave blank to shuffle...
