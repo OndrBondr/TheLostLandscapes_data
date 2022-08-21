@@ -181,19 +181,19 @@ Decoration/Obstacle_placable_EM_4 diamonds=5 0 0
 Decoration/Obstacle_placable_EM_5 diamonds=10 0 0
 Decoration/Obstacle_placable_EM_6 diamonds=15 0 0
 
-Decoration/Obstacle_Candy_1 coins=-100 25
-Decoration/Obstacle_Candy_2 coins=-500 50
-Decoration/Obstacle_Candy_3 coins=-1000 75
-Decoration/Obstacle_Candy_4 coins=-100 25
-Decoration/Obstacle_Candy_5 coins=-500 50
-Decoration/Obstacle_Candy_6 coins=-1000 75
+Decoration/Obstacle_Candy_1 coins=-4000 25
+Decoration/Obstacle_Candy_2 coins=-25000 50
+Decoration/Obstacle_Candy_3 coins=-33000 75
+Decoration/Obstacle_Candy_4 coins=-9000 25
+Decoration/Obstacle_Candy_5 coins=-100000 50
+Decoration/Obstacle_Candy_6 coins=-110000 75
 
-Decoration/Obstacle_placable_Candy_1 diamonds=3 0 0
-Decoration/Obstacle_placable_Candy_2 diamonds=6 0 0
-Decoration/Obstacle_placable_Candy_3 diamonds=9 0 0
-Decoration/Obstacle_placable_Candy_4 diamonds=5 0 0
-Decoration/Obstacle_placable_Candy_5 diamonds=10 0 0
-Decoration/Obstacle_placable_Candy_6 diamonds=15 0 0
+Decoration/Obstacle_placable_Candy_1 diamonds=1 0 0
+Decoration/Obstacle_placable_Candy_2 diamonds=2 0 0
+Decoration/Obstacle_placable_Candy_3 diamonds=3 0 0
+Decoration/Obstacle_placable_Candy_4 diamonds=2 0 0
+Decoration/Obstacle_placable_Candy_5 diamonds=5 0 0
+Decoration/Obstacle_placable_Candy_6 diamonds=10 0 0
 
 
 Decoration/Dog food=2000 20 0
