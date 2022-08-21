@@ -387,6 +387,35 @@ Decoration/Obstacle_placable_EM_5_bio=Bio
 Decoration/Obstacle_placable_EM_6=Puff Shroom
 Decoration/Obstacle_placable_EM_6_bio=Bio
 
+Decoration/Obstacle_Candy_1=Small Rock
+Decoration/Obstacle_Candy_1_bio=It's a Small Rock. Removed rocks will be taken far away to wonderful new homes.	
+Decoration/Obstacle_Candy_2=Medium Rock
+Decoration/Obstacle_Candy_2_bio=It's a Medium Rock. Removed rocks will be taken far away to wonderful new homes.	
+Decoration/Obstacle_Candy_3=Big Rock
+Decoration/Obstacle_Candy_3_bio=It's a Big Rock. Removed rocks will be taken far away to wonderful new homes.	
+Decoration/Obstacle_Candy_4=Small Tree
+Decoration/Obstacle_Candy_4_bio=It's a Small Tree. Don't worry; removed trees will be taken far away and gently replanted.	
+Decoration/Obstacle_Candy_5=Medium Tree
+Decoration/Obstacle_Candy_5_bio=It's a Medium Tree. Don't worry; removed trees will be taken far away and gently replanted.	
+Decoration/Obstacle_Candy_6=Big Tree
+Decoration/Obstacle_Candy_6_bio=It's a Big Tree. Don't worry; removed trees will be taken far away and gently replanted.	
+
+ObstaclePlacableCommon_bio=Remember how we said that trees and rocks that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's trees and rocks and your islands are their new homes! Recycling is awesome.
+
+Decoration/Obstacle_placable_Candy_1=Small Rock
+Decoration/Obstacle_placable_Candy_1_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_2=Medium Rock
+Decoration/Obstacle_placable_Candy_2_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_3=Big Rock
+Decoration/Obstacle_placable_Candy_3_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_4=Small Tree
+Decoration/Obstacle_placable_Candy_4_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_5=Medium Tree
+Decoration/Obstacle_placable_Candy_5_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_6=Big Tree
+Decoration/Obstacle_placable_Candy_6_bio-ObstaclePlacableCommon_bio
+ 
+
 Decoration/Dog=Dog
 Decoration/Dog_bio=Dog goD.
 
