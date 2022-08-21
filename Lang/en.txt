@@ -403,17 +403,17 @@ Decoration/Obstacle_Candy_6_bio=It's a Big Tree. Don't worry; removed trees will
 ObstaclePlacableCommon_bio=Remember how we said that trees and rocks that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's trees and rocks and your islands are their new homes! Recycling is awesome.
 
 Decoration/Obstacle_placable_Candy_1=Small Rock
-Decoration/Obstacle_placable_Candy_1_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_1_bio=@=ObstaclePlacableCommon_bio
 Decoration/Obstacle_placable_Candy_2=Medium Rock
-Decoration/Obstacle_placable_Candy_2_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_2_bio=@=ObstaclePlacableCommon_bio
 Decoration/Obstacle_placable_Candy_3=Big Rock
-Decoration/Obstacle_placable_Candy_3_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_3_bio=@=ObstaclePlacableCommon_bio
 Decoration/Obstacle_placable_Candy_4=Small Tree
-Decoration/Obstacle_placable_Candy_4_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_4_bio=@=ObstaclePlacableCommon_bio
 Decoration/Obstacle_placable_Candy_5=Medium Tree
-Decoration/Obstacle_placable_Candy_5_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_5_bio=@=ObstaclePlacableCommon_bio
 Decoration/Obstacle_placable_Candy_6=Big Tree
-Decoration/Obstacle_placable_Candy_6_bio-ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_6_bio=@=ObstaclePlacableCommon_bio
  
 
 Decoration/Dog=Dog
