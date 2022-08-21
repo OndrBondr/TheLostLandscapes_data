@@ -248,7 +248,7 @@ Structures/Structure_breeding=Breeding Structure
 Structures/Structure_breeding_bio=Breeding Structure bio
 
 Structures/Structure_breeding_city=<ref>Structures/Structure_breeding
-Structures/Structure_breeding_city_bio=<ref>Breeding Structure bio
+Structures/Structure_breeding_city_bio=<ref>Structures/Structure_breeding_bio
 
 Structures/Structure_bakery=Bakery
 Structures/Structure_bakery_bio=Bakery bio
