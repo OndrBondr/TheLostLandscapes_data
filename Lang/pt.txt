@@ -292,6 +292,55 @@ Monsters/Composer/Monster_oaktopus_composer_bio=Oaktopus bio
 Monsters/Composer/Monster_spunge_composer=Spunge
 Monsters/Composer/Monster_spunge_composer_bio=Spunge bio
 
+Monsters/Monster_toejammer_undof=<ref>Monsters/Monster_toejammer
+Monsters/Monster_toejammer_undof_bio=While Toe Jammers may appear fragile, these rubbery Water elementals are very tough. Toe Jammers sing of liquid wonders: deep sea leviathans, crashing surf, flooded basements, and bubble tea!
+
+Monsters/Monster_kanya_undof=<ref>Monsters/Monster_kayna
+Monsters/Monster_kanya_undof_bio=The ancient Kayna was long thought lost to an enigmatic event in monster antiquity. A solitary specimen encased in amber was rescued on Tribal Island. It's true, but only recently did a new generation of these beings begin to appear, beckoned by the mysterious call of Relics resonating deep within the world's volcanic core. Now this feisty Fire Elemental is ready to play its part in restoring the glory of its powerful Element in the Monster World.
+
+Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
+Monsters/Monster_noggin_undof_bio=Noggins are basically musical rocks. Deeply in tune with the Earth, their simple rhythms echo an Island’s pulse. The sensation of reverberation produced by a Noggin motivates all other monsters.
+
+Monsters/Monster_fwog_undof=Fwog
+Monsters/Monster_fwog_undof_bio=Emerging from its muddy birthplace, the Fwog sings passionately in the hope of attracting a companion. Its hypnotic call fills the air, stirring the most primal feelings of excitement in all Monsters.
+
+Monsters/Monster_thrumble_undof=Thrumble
+Monsters/Monster_toejammer_undof_bio=Wide-mouthed and keen snackers, Thrumbles are prone to swallowing treats whole. Their elongated gullets can squash and stretch to provide said treats with ample time to be pulverized by the reverberations of this happy-go-lucky hummer's signature thrumming. When thrumming on an empty stomach, bubbling pockets of air can expand and prompt a sudden flurry of giggles!
+
+Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
+Monsters/Monster_phangler_undof_bio=Phanglers are destined for a life in the limelight! These Natural-born crooners live to perform, and their dulcet tones are frequently employees at all manner of shindigs. Don't get caught without live entertainment at your Anniversary Month party: book Phangler today!
+
+Monsters/Monster_stogg_undof=Stogg
+Monsters/Monster_stogg_undof_bio=As avid rock collectors, Stoggs relish digging into the earth with their powerful forelegs to find shiny new minerals. Unfortunately, this absentminded monster also enjoys burying their treasure, often forgetting the location soon after.
+
+Monsters/Monster_gumtromp=Gumtromp
+Monsters/Monster_gumtromp_bio=Bio
+
+Monsters/Monster_keytrus=Keytrus
+Monsters/Monster_keytrus_bio=Keytrus bio
+
+Monsters/Monster_koodahcane=Koodahcane
+Monsters/Monster_koodahcane_bio=Koodahcane bio
+
+Monsters/Monster_marshflamo=Marshflamo
+Monsters/Monster_marshflamo_bio=Marshflamo bio
+
+Monsters/Monster_brasscuit=Brasscuit
+Monsters/Monster_brasscuit_bio=Choccosour bio
+
+Monsters/Monster_gobstomper=Gobstomper
+Monsters/Monster_gobstomper_bio=Jawbreaker bio
+
+Monsters/Monster_claramel=Claramel
+Monsters/Monster_claramel_bio=Claramel bio
+
+Monsters/Monster_sprinklate=Sprinklate
+Monsters/Monster_sprinklate_bio=Cakehorn bio
+
+Monsters/Monster_jamboree_undof=Jam boree
+Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
+
+
 EM_path1=Caminho de Pedras Encharcadas
 EM_path1_bio=These stones are soaked! Maybe some thirsty monster created a mess while taking a drink here?
 
