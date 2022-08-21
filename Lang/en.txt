@@ -464,6 +464,9 @@ str_island_Meduza_bio=M'Duzza's Crypt bio
 str_island_Desert=Noramba Desert
 str_island_Desert_bio=Noramba Desert bio
 
+str_island_Candy=Candy Island
+str_island_Candy_bio=Candy Island bio
+
 str_stars_light=Luminous Beacon
 str_stars_psychic=Subconscious Spiral
 str_stars_bone=Osseous Cross
