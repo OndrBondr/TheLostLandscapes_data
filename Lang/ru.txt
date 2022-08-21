@@ -386,6 +386,37 @@ Decoration/Obstacle_placable_EM_5_bio=Bio
 Decoration/Obstacle_placable_EM_6=Слоеный гриб
 Decoration/Obstacle_placable_EM_6_bio=Bio
 
+ObstacleCommonRocks_bio=Removed rocks will be taken far away to wonderful new homes.
+ObstacleCommonTrees_bio=Don't worry; removed trees will be taken far away and gently replanted.
+
+Decoration/Obstacle_Candy_1=Small Rock. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_1_bio=It's a Small Rock. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_2=Medium Rock
+Decoration/Obstacle_Candy_2_bio=It's a Medium Rock. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_3=Big Rock
+Decoration/Obstacle_Candy_3_bio=It's a Big Rock. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_4=Small Tree
+Decoration/Obstacle_Candy_4_bio=It's a Small Tree. <ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Candy_5=Medium Tree
+Decoration/Obstacle_Candy_5_bio=It's a Medium Tree. <ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Candy_6=Big Tree
+Decoration/Obstacle_Candy_6_bio=It's a Big Tree. <ref>ObstacleCommonTrees_bio
+
+ObstaclePlacableCommon_bio=Remember how we said that trees and rocks that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's trees and rocks and your islands are their new homes! Recycling is awesome.
+
+Decoration/Obstacle_placable_Candy_1=Small Rock
+Decoration/Obstacle_placable_Candy_1_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_2=Medium Rock
+Decoration/Obstacle_placable_Candy_2_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_3=Big Rock
+Decoration/Obstacle_placable_Candy_3_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_4=Small Tree
+Decoration/Obstacle_placable_Candy_4_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_5=Medium Tree
+Decoration/Obstacle_placable_Candy_5_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_placable_Candy_6=Big Tree
+Decoration/Obstacle_placable_Candy_6_bio=<ref>ObstaclePlacableCommon_bio
+
 Decoration/Dog=Гончая
 Decoration/Dog_bio=Это самый хороший мальчик в мире. Лучше этого пса нигде не найти. Он умеет выполнять множество разных команд, пойдёт за вами куда-угодно, очень воспитан, много еды не просит, всегда будет предан любому монстру и человеку, помогает по хозяйству, хорошо готовит, читает сказки на ночь (тем не менее он остаётся молчалив) и профессионально водит машину. Гончая создавал невероятные творения, такие как "Джаконда Мона Лиза", "Чёрный квадрат", "3 Медведя" и другие, он спроектировал и сам построил статую Свободы и Эйфелеву башню. Гончая неоднократно прослеживался во многих исторических событиях. Он ветеран 2 мировой и очень гордится этим званием. Он написал первую книгу, открывал Олимпийские игры и был в них судьей. Да что уж там Олимпийские игры, Гончая основал сам Рим! Он изобрёл колесо и объяснил людям как делать инструменты. И самое главное, благодаря Гончей люди добыли огонь. Все говорят, то что человек приручил волка, но это не так! На самом деле Гончая приручил человека и внушил что его родственники ему не враги. Поговаривают что из-за него и случился тот самый большой взрыв когда он случайно чихнул. У этого пса очень богатая история. И знаете, на вашем месте я бы его боялся...
 
