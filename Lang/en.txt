@@ -1,8 +1,15 @@
 ﻿-------
+WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Instead of sending them to the nursery, zap the monster eggs you've bred on your other islands, and they'll transform into the electrical energy required to take up this Wublin.
+
 Monsters/Monster_maulch=Maulch
 Monsters/Monster_maulch_bio=Maulch bio
 Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
 Monsters/Monster_maulch_awake_bio=Maulch bio awakened
+
+Monsters/Monster_fleechwurm_undof=Fleechwurm
+Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
+Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm_undof
+Monsters/Monster_fleechwurm_undof_awake_bio=In addition to using them to play music, some Monsters take advantage of their unique features and body shapes, and use them for other purposes. In the case of the Fleechwurm, its resonant body cavity can generate a series of whistles that have an unusual hypnotic effect on other Wublins. They can be used to coax others into doing unglamorous chores for it, or to lovingly preen its leaf-like limbs. Some Wublins are more resistant than others, and playfully admonish the Fleechwurm so it doesn't become too mischievous.
 
 
 Monsters/Monster_spurrit=Spurrit
