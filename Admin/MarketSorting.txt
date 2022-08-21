@@ -35,3 +35,9 @@ decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_ot
 structures:structures
 composer:composer
 ;
+Candy
+monsters:monsters=btn_shop_monsters
+decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_obstacles=btn_shop_deco_obstacles,deco_other=btn_shop_deco_other
+structures:structures
+composer:composer
+;
