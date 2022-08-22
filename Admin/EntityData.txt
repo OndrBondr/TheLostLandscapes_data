@@ -130,7 +130,7 @@ Monsters/Monster_fleechwurm_undof coins=100000 electricity 0 10000000 coins=2000
 
 Monsters/Monster_toejammer_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural toejammer-o,toejammer-o 0 0
 Monsters/Monster_kanya_undof coins=22500 fire-o 25200 5 coins=5@60@coins=45 Natural kayna-o,kayna-o 0 0
-Monsters/Monster_noggin_undof coins=300 earth-o 5 5 coins=4@60@coins=18 Natural noggin_o,noggin_o 0 0
+Monsters/Monster_noggin_undof coins=300 earth-o 5 5 coins=4@60@coins=18 Natural noggin-o,noggin-o 0 0
 Monsters/Monster_fwog_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural fwog-o,fwog-o 0 0
 Monsters/Monster_thrumble_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=24 Natural thrumble-o,thrumble-o 0 0
 Monsters/Monster_phangler_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural phangler-o,phangler-o 0 0
