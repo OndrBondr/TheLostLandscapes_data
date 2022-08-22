@@ -1,0 +1,7 @@
+
+Castle Candy
+Structures/Structure_castle_undof2 10
+;
+Castle Candy
+Monsters/Monster_potbelly 5
+
