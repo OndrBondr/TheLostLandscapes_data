@@ -263,6 +263,21 @@ Structures/Structure_breeding_undof_bio=This peculiar structure has been in use 
 Structures/Structure_castle_undof=Castle
 Structures/Structure_castle_undof_bio=Castle
 
+Structures/Structure_castle_undof2=Castle2
+Structures/Structure_castle_undof2_bio=Castle
+
+Structures/Structure_castle_undof3=Castle3
+Structures/Structure_castle_undof3_bio=Castle
+
+Structures/Structure_castle_undof4=Castle4
+Structures/Structure_castle_undof4_bio=Castle
+
+Structures/Structure_castle_undof5=Castle5
+Structures/Structure_castle_undof5_bio=Castle
+
+Structures/Structure_castle_undof6=Castle6
+Structures/Structure_castle_undof6_bio=Castle
+
 Structures/Structure_bakery=Bakery
 Structures/Structure_bakery_bio=Bakery bio
 

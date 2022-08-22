@@ -1,6 +1,11 @@
 
 Castle Candy
+Structures/Structure_castle_undof 10
 Structures/Structure_castle_undof2 10
+Structures/Structure_castle_undof3 10
+Structures/Structure_castle_undof4 10
+Structures/Structure_castle_undof5 10
+Structures/Structure_castle_undof6 10
 ;
 Castle Candy
 Monsters/Monster_potbelly 5
