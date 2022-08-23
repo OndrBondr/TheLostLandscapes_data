@@ -259,7 +259,7 @@ Structures/Structure_breeding_city_bio=<ref>Structures/Structure_breeding_bio
 
 Structures/Structure_breeding_undof=<ref>Structures/Structure_breeding
 Structures/Structure_breeding_undof_bio=This peculiar structure has been in use since the golden age of the Monster World, and little has changed since that time. Once it is old enough, a Monster can spontaneously produce an egg containing all of its genetic and elemental information, which is then placed onto one of the 'bowls' of the machine. These eggs, which are truly more like spores, slowly seep out their 'precious bodily fluids' down the twin drains of the structure and magically co-mingle in the center vessel, until a new egg is produced! The process is complicated though, as one breeding combination can have many possible outcomes.
-Structures/Structure_breeding_undof2=<ref>Structures/Structure_breeding
+Structures/Structure_breeding_undof2=Enhanced Breeding Structure
 Structures/Structure_breeding_undof2_bio=Breeding is tricky business at the best of times, so every little advantage helps. Thanks to the invaluable field research that has been collected over the past two years, the complex interplay of elemental powers is now better understood than ever before! This Enhanced Breeding Structure cuts breeding wait times by 25%!
 
 
