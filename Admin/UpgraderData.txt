@@ -11,5 +11,5 @@ Castle Placeholder
 Structures/Structure_castle_undof 60 coins=10000 10000
 ;
 Breeding Candy
-Structure_breeding_undof 0 diamonds=25 10000
-Structure_breeding_undof2 0 diamonds=25 10000
+Structures/Structure_breeding_undof 0 diamonds=25 10000
+Structures/Structure_breeding_undof2 0 diamonds=25 10000
