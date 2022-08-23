@@ -148,6 +148,7 @@ Monsters/Monster_jamboree_undof diamonds=500 jamboree 145440 35 coins=1@120@coin
 Structures/Structure_breeding coins=500,diamonds=75 4 2
 Structures/Structure_breeding_city coins=500,coins=10000,diamonds=100,diamonds=130,diamonds=200 4 5
 Structures/Structure_breeding_undof coins=0,diamonds=40 0 2
+Structures/Structure_castle_undof2 coins=0,diamonds=40 0 2
 
 Structures/Structure_castle_undof coins=0 0 1
 Structures/Structure_castle_undof1 coins=0 0 1
