@@ -497,6 +497,7 @@ Decoration/Obstacle_placable_Candy_6
 -
 structures:
 Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
 -
 deco_paths:
 EM_path1
