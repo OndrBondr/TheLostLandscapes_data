@@ -1,12 +1,12 @@
 
 Castle Candy
-Structures/Structure_castle_undof 10
-Structures/Structure_castle_undof2 10
-Structures/Structure_castle_undof3 10
-Structures/Structure_castle_undof4 10
-Structures/Structure_castle_undof5 10
-Structures/Structure_castle_undof6 10
+Structures/Structure_castle_undof 60 coins=10000 10000
+Structures/Structure_castle_undof2 3600 coins=18000 12000
+Structures/Structure_castle_undof3 18000 coins=26000 17000
+Structures/Structure_castle_undof4 36000 diamonds=10 20000
+Structures/Structure_castle_undof5 54000 diamonds=16 26000
+Structures/Structure_castle_undof6 86400 diamonds=20 30000
 ;
-Castle Candy
-Monsters/Monster_potbelly 5
+Castle Placeholder
+Structures/Structure_castle_undof 60 coins=10000
 
