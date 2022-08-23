@@ -124,7 +124,7 @@ Monsters/Knott_8 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=
 Monsters/Knott_9 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_9 0 0
 Monsters/Knott_10 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_10 0 0
 
-Monsters/Monster_maulch coins=10000 electricity 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Supernatural ,Maulch 0 3
+Monsters/Monster_maulch coins=10000 electricity 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Supernatural ,maulch 0 3
 
 Monsters/Monster_fleechwurm_undof coins=100000 electricity 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Supernatural ,Fleechwurm-o 0 3
 
