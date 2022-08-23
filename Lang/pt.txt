@@ -3,6 +3,11 @@ Monsters/Monster_maulch=Composto
 Monsters/Monster_maulch_bio=Maulch bio
 Monsters/Monster_maulch_awake=Composto
 Monsters/Monster_maulch_awake_bio=Maulch bio awakened
+Monsters/Monster_fleechwurm_undof=Fleechwurm
+Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
+Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm_undof
+Monsters/Monster_fleechwurm_undof_awake_bio=In addition to using them to play music, some Monsters take advantage of their unique features and body shapes, and use them for other purposes. In the case of the Fleechwurm, its resonant body cavity can generate a series of whistles that have an unusual hypnotic effect on other Wublins. They can be used to coax others into doing unglamorous chores for it, or to lovingly preen its leaf-like limbs. Some Wublins are more resistant than others, and playfully admonish the Fleechwurm so it doesn't become too mischievous.
+
 
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Spurrit bio
@@ -250,11 +255,32 @@ Monsters/Monster_bone_bio=Em uma terra TÃO TÃO distante, nascido das lagrimas 
 Monsters/Monster_olga=Olgapolva
 Monsters/Monster_olga_bio=Olgaropipe bio
 
+Structures/Structure_castle_undof2=Castle2
+Structures/Structure_castle_undof2_bio=Castle
+
+Structures/Structure_castle_undof3=Castle3
+Structures/Structure_castle_undof3_bio=Castle
+
+Structures/Structure_castle_undof4=Castle4
+Structures/Structure_castle_undof4_bio=Castle
+
+Structures/Structure_castle_undof5=Castle5
+Structures/Structure_castle_undof5_bio=Castle
+
+Structures/Structure_castle_undof6=Castle6
+Structures/Structure_castle_undof6_bio=Castle
+
 Structures/Structure_breeding=Estrutura de Prociração
 Structures/Structure_breeding_bio=Breeding Structure bio
 
 Structures/Structure_breeding_city=Estrutura de Prociração
 Structures/Structure_breeding_city_bio=Breeding Structure bio
+
+Structures/Structure_breeding_undof=Estrutura de Prociração
+Structures/Structure_breeding_undof_bio=This peculiar structure has been in use since the golden age of the Monster World, and little has changed since that time. Once it is old enough, a Monster can spontaneously produce an egg containing all of its genetic and elemental information, which is then placed onto one of the 'bowls' of the machine. These eggs, which are truly more like spores, slowly seep out their 'precious bodily fluids' down the twin drains of the structure and magically co-mingle in the center vessel, until a new egg is produced! The process is complicated though, as one breeding combination can have many possible outcomes.
+
+Structures/Structure_breeding_undof2=Enhanced Breeding Structure
+Structures/Structure_breeding_undof2_bio=Breeding is tricky business at the best of times, so every little advantage helps. Thanks to the invaluable field research that has been collected over the past two years, the complex interplay of elemental powers is now better understood than ever before! This Enhanced Breeding Structure cuts breeding wait times by 25%!
 
 Structures/Structure_bakery=Padaria
 Structures/Structure_bakery_bio=Bakery bio
@@ -293,25 +319,25 @@ Monsters/Composer/Monster_spunge_composer=Spunge
 Monsters/Composer/Monster_spunge_composer_bio=Spunge bio
 
 Monsters/Monster_toejammer_undof=<ref>Monsters/Monster_toejammer
-Monsters/Monster_toejammer_undof_bio=While Toe Jammers may appear fragile, these rubbery Water elementals are very tough. Toe Jammers sing of liquid wonders: deep sea leviathans, crashing surf, flooded basements, and bubble tea!
+Monsters/Monster_toejammer_undof_bio= Embora os Dedos Enroscados pareçam frágeis, estes elementais emborrachados de Água são bem fortes. Eles cantam sobre maravilhas líquidas: leviatãs do mar profundo, ondas em colisão, porão inundado e chá de bolhas!
 
 Monsters/Monster_kanya_undof=<ref>Monsters/Monster_kayna
-Monsters/Monster_kanya_undof_bio=The ancient Kayna was long thought lost to an enigmatic event in monster antiquity. A solitary specimen encased in amber was rescued on Tribal Island. It's true, but only recently did a new generation of these beings begin to appear, beckoned by the mysterious call of Relics resonating deep within the world's volcanic core. Now this feisty Fire Elemental is ready to play its part in restoring the glory of its powerful Element in the Monster World.
+Monsters/Monster_kanya_undof_bio=A antiga Lavareda foi por muito tempo considerada perdida para um evento enigmático na antiguidade Monstruosa. Um espécime solitário envolto em âmbar foi resgatado na Ilha Tribal, é verdade, mas só recentemente uma nova geração desses seres começou a aparecer, atraída pelo misterioso chamado de Relíquias ressoando profundamente dentro do núcleo vulcânico do mundo. Agora, este Elemental do Fogo está pronto para fazer sua parte em restaurar a glória do seu poderoso Elemento no Mundo dos Monstros.
 
 Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
-Monsters/Monster_noggin_undof_bio=Noggins are basically musical rocks. Deeply in tune with the Earth, their simple rhythms echo an Island’s pulse. The sensation of reverberation produced by a Noggin motivates all other monsters.
+Monsters/Monster_noggin_undof_bio= As Cabeças-duras são, basicamente, pedras musicais. Em sintonia profunda com a terra, seus ritmos simples ecoam o pulso de sua ilha. Os efeitos de reverberação produzidos pelas Cabeças-duras estimulam todos os outros Monstros.
 
 Monsters/Monster_fwog_undof=Dom Sapo
-Monsters/Monster_fwog_undof_bio=Emerging from its muddy birthplace, the Fwog sings passionately in the hope of attracting a companion. Its hypnotic call fills the air, stirring the most primal feelings of excitement in all Monsters.
+Monsters/Monster_fwog_undof_bio=Emergindo da terra natal enlameada, o Dom Sapo canta apaixonadamente, esperando atrair assim uma companheira. Ele enche o ar com seu apelo hipnótico, que estimula os instintos primordiais de cada Monstro.
 
 Monsters/Monster_thrumble_undof=Cantarolador
-Monsters/Monster_thrumble_undof_bio=Wide-mouthed and keen snackers, Thrumbles are prone to swallowing treats whole. Their elongated gullets can squash and stretch to provide said treats with ample time to be pulverized by the reverberations of this happy-go-lucky hummer's signature thrumming. When thrumming on an empty stomach, bubbling pockets of air can expand and prompt a sudden flurry of giggles!
+Monsters/Monster_thrumble_undof_bio=EscaramuÃ§a de sÃ¡bado  Lanches Ã¡vidos com bocas largas, Cantaroladores tendem a engolir Agrados inteiros. Suas gargantas alongadas podem se espremer e se esticar para fornecer aos Agrados tempo suficiente para serem pulverizados pelas reverberaÃ§Ãµes da vibraÃ§Ã£o da assinatura deste Monstro desajeitado. Ao zumbir com o estÃ´mago vazio, bolsÃµes de ar borbulhantes podem se expandir e provocar uma sÃºbita onda de risadinhas!
 
 Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
-Monsters/Monster_phangler_undof_bio=Phanglers are destined for a life in the limelight! These Natural-born crooners live to perform, and their dulcet tones are frequently employees at all manner of shindigs. Don't get caught without live entertainment at your Anniversary Month party: book Phangler today!
+Monsters/Monster_phangler_undof_bio=Os Peixanzois são destinados a uma vida no centro das atenções! Esses vocalistas nascidos vivem para se apresentar, e seus tons doces são frequentemente empregados em todos os tipos de reuniões. Não seja pego sem entretenimento ao vivo na sua festa do Mês de Aniversário: reserve hoje um Peixanzol!
 
 Monsters/Monster_stogg_undof=Estegão
-Monsters/Monster_stogg_undof_bio=As avid rock collectors, Stoggs relish digging into the earth with their powerful forelegs to find shiny new minerals. Unfortunately, this absentminded monster also enjoys burying their treasure, often forgetting the location soon after.
+Monsters/Monster_stogg_undof_bio=Como ávidos colecionadores de rochas, Estegães adoram cavar a terra com suas poderosas pernas dianteiras para encontrar novos minerais brilhantes. Infelizmente, este Monstro distraído também gosta de enterrar seu tesouro, muitas vezes esquecendo a localização logo depois.
 
 Monsters/Monster_gumtromp=Chimplete
 Monsters/Monster_gumtromp_bio=Bio
@@ -338,7 +364,7 @@ Monsters/Monster_sprinklate=Confesteiro
 Monsters/Monster_sprinklate_bio=Cakehorn bio
 
 Monsters/Monster_jamboree_undof=Confolião
-Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
+Monsters/Monster_jamboree_undof_bio=Dizer que a Cabana Sazonal está repleta de boa vontade e júbilo seria correto, e isso em grande parte graças à presença de Confolião! Por muitos anos, o autoproclamado líder da Cabana assumiu a responsabilidade de tentar organizar os itens Sazonais que enfeitam cada canto do esconderijo flutuante. É um Monstro muito paciente, que anseia todos os anos pelo Mês de Aniversário, quando ele oferece uma grande festa para os Sazonais migratórios que voltam para o poleiro! Confolião aprecia quando outros Agrados além de Bolo são servidas nessas festas.
 
 
 EM_path1=Caminho de Pedras Encharcadas
@@ -486,6 +512,7 @@ str_TeleportUnavailable=Não disponível nessa ilha.
 str_stats=Espécie: <species>\nClasse: <class>\nTaxa: <rate>\nMax: <max>
 
 
+
 diamonds - <color=#4EFFF5>
 coins - <color="yellow">
 food - <color=#F318D1>
@@ -524,6 +551,8 @@ str_teleport_unavailable=O Zepelim está <color="green"><islandName></color> no 
 str_teleport_flying=O Zepelim está voando até <color="green"><islandName></color>. Espere até que ele chegue ao seu destino ou o acelero com diamantes
 str_teleport_unavailable_monster=O Zepelim não está nessa ilha.
 str_popup_shopUnavailbable=<type> are unavailable on this island.
+str_popup_upgrade=Would you like to upgrade this for <amount> <type>?
+btn_upgrade=Upgrade
 
 str_popup_islandComingSoon=Coisas novas e legais chegando no futuro!
 str_popup_islandAlreadyOn=Você já está nessa ilha.
