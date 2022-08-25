@@ -619,7 +619,7 @@ str_popup_teleporter_moveToTarget=Would you like to go to <color="green"><island
 str_popup_teleporter_confirm_sending=Would you like to send the Zeppelin to <color="green"><islandName></color>?
 str_popup_banned=<color=red>You were banned!</color>
 
-\nYou were banned from the game. 
+\nYour account has been banned.\nContact one of the responsibles for TLL if you think this was a mistake.
 str_popup_connection_failed=<color=red>Connection failed!</color>
 
 \nFailed downlaoding neccecary files. Check you internet connection.
