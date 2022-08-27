@@ -367,6 +367,9 @@ Monsters/Monster_sprinklate_bio=Cakehorn bio
 Monsters/Monster_jamboree_undof=Jam boree
 Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
 
+Monsters/Monster_ghazt_undof=Ghazt
+Monsters/Monster_ghazt_undof_bio=The extraordinary Ghazt only manifests itself when conditions are absolutely perfect. Imbued with the Ethereal power of Plasma, its sleek frame and ability to become intangible are ideal for slipping in and out of places unnoticed. However, these traits also make it vulnerable to accidental interdimensional travel. It plays well with the other Monsters, but just like a cat, it sometimes prefers to be alone... or in the company of others of its kind.
+
 EM_path1=Soggy Stones Path
 EM_path1_bio=These stones are soaked! Maybe some thirsty monster created a mess while taking a drink here?
 

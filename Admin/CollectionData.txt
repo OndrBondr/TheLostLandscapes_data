@@ -113,3 +113,4 @@ Monsters/Monster_brasscuit
 Monsters/Monster_sprinklate
 Monsters/Monster_jamboree_undof
 Monsters/Monster_fleechwurm_undof
+Monsters/Monster_ghazt_undof
