@@ -691,6 +691,7 @@ btn_zap=Zap
 btn_inventory=Inventory
 btn_wakeUp=Wake up
 btn_upgrade=Upgrade
+btn_view=View
 
 goal_breed_buy=Buy and place a <color="green"><entityName>
 goal_breed_an=Breed and place an <color="green"><entityName>
