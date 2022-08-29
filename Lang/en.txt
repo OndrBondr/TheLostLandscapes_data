@@ -623,6 +623,7 @@ str_popup_teleporter_confirm_sending=Would you like to send the Zeppelin to <col
 
 btn_shop=Market
 btn_mailbox=Mailbox
+str_taptocollectrewards=Tap them to collect
 
 btn_shop_monsters=Monsters
 btn_shop_decorations=Decorations
