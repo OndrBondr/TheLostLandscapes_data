@@ -22,6 +22,7 @@ Monsters/Monster_banno 20
 Monsters/Monster_stoopa 10
 
 Monsters/Monster_percFrog=Monsters/Monster_choral+Monsters/Monster_likho 100
+Monsters/Special/Monster_melochness=Monsters/Monster_likho+Monsters/Monster_quibble 100
 Monsters/Monster_bridgit=Monsters/Monster_choral+Monsters/Monster_flootfly 4
 Monsters/Monster_phangler=Monsters/Monster_quibble+Monsters/Monster_banno 3
 Monsters/Monster_frondley=Monsters/Monster_oaktopus+Monsters/Monster_dandidoo 2
