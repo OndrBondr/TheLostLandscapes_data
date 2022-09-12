@@ -1,12 +1,14 @@
 ﻿-------
+Monsters/Monster_ghazt_undof=Fantominho
+Monsters/Monster_ghazt_undof_bio= O Fantominho, muito extraordinário, só aparece quando tudo está justo e perfeito. Imbuído do poder do Plasma, ele tem uma silhueta esbelta e a capacidade de se tornar etéreo - ideal para atravessar diversos lugares e passar despercebido. Porém, tudo isso o torna mais vulnerável a viagens interdimensionais acidentais. Ele gosta de brincar com outros Monstros, mas assim como um gato, às vezes prefere ficar sozinho... ou na companhia de outros de sua espécie.
 Monsters/Monster_maulch=Composto
 Monsters/Monster_maulch_bio=Maulch bio
 Monsters/Monster_maulch_awake=Composto
 Monsters/Monster_maulch_awake_bio=Maulch bio awakened
-Monsters/Monster_fleechwurm_undof=Fleechwurm
+Monsters/Monster_fleechwurm_undof=Hipnonhoca
 Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
 Monsters/Monster_fleechwurm_undof_awake=<ref>Monsters/Monster_fleechwurm_undof
-Monsters/Monster_fleechwurm_undof_awake_bio=In addition to using them to play music, some Monsters take advantage of their unique features and body shapes, and use them for other purposes. In the case of the Fleechwurm, its resonant body cavity can generate a series of whistles that have an unusual hypnotic effect on other Wublins. They can be used to coax others into doing unglamorous chores for it, or to lovingly preen its leaf-like limbs. Some Wublins are more resistant than others, and playfully admonish the Fleechwurm so it doesn't become too mischievous.
+Monsters/Monster_fleechwurm_undof_awake_bio=Além de serem usados para tocar música, alguns Monstros utilizam as vantagens de suas características e formatos únicos para outros propósitos. No caso da Hipnonhoca, a acústica de sua cavidade corporal pode gerar uma série de assovios que têm um efeito hipnótico sobre outros Wub-Caixoblins. Eles podem ser usados para persuadir os outros a fazerem tarefas indesejadas ou a tratar de suas necessidades estéticas. Alguns Wub-Caixoblins são mais resistentes que outros e reprimem a Hipnonhoca amigavelmente para que ela não fique muito abusada.
 
 
 Monsters/Monster_spurrit=Spurrit
@@ -277,7 +279,7 @@ Structures/Structure_breeding_city=Estrutura de Prociração
 Structures/Structure_breeding_city_bio=Breeding Structure bio
 
 Structures/Structure_breeding_undof=Estrutura de Prociração
-Structures/Structure_breeding_undof_bio=This peculiar structure has been in use since the golden age of the Monster World, and little has changed since that time. Once it is old enough, a Monster can spontaneously produce an egg containing all of its genetic and elemental information, which is then placed onto one of the 'bowls' of the machine. These eggs, which are truly more like spores, slowly seep out their 'precious bodily fluids' down the twin drains of the structure and magically co-mingle in the center vessel, until a new egg is produced! The process is complicated though, as one breeding combination can have many possible outcomes.
+Structures/Structure_breeding_undof_bio=Esta estrutura peculiar tem sido usada desde a era de ouro do Mundo dos Monstros, e pouco mudou desde então. Uma vez que é velho o suficiente, um Monstro pode produzir espontaneamente um ovo contendo toda a sua informação genética e elemental, que é então colocada em uma das 'tigelas' da máquina. Esses ovos, que são verdadeiramente mais como os esporos, fluem lentamente seus 'fluidos corporais preciosos' pelos drenos gêmeos da estrutura e se misturam magicamente no vaso central, até que um novo ovo seja produzido! O processo é complicado, porém, como uma combinação de criação pode ter muitos resultados possíveis.
 
 Structures/Structure_breeding_undof2=Enhanced Breeding Structure
 Structures/Structure_breeding_undof2_bio=Breeding is tricky business at the best of times, so every little advantage helps. Thanks to the invaluable field research that has been collected over the past two years, the complex interplay of elemental powers is now better understood than ever before! This Enhanced Breeding Structure cuts breeding wait times by 25%!
@@ -553,9 +555,18 @@ str_teleport_unavailable_monster=O Zepelim não está nessa ilha.
 str_popup_shopUnavailbable=<type> are unavailable on this island.
 str_popup_upgrade=Would you like to upgrade this for <amount> <type>?
 btn_upgrade=Upgrade
+btn_view=Ver
 
 str_popup_islandComingSoon=Coisas novas e legais chegando no futuro!
 str_popup_islandAlreadyOn=Você já está nessa ilha.
+
+str_taptocollectrewards=Toque para coletar
+
+str_mailbox_reward_collected=Coletado
+
+str_popup_banned=<color=red>Você foi banido(a)!</color>\nSua conta foi banida!\nContate algum responsável do TLL se você acha que isso foi um engano.
+str_popup_connection_failed=<color=red>Conexão falhou!</color>
+
 
 str_island_comingsoon=Em Breve!
 
@@ -611,7 +622,7 @@ str_class_Gamma=Gama
 str_class_Seasonal=Sazonal
 str_class_Seasonal-r=Sazonal(Raro)
 str_class_Ethereal=Etéreo
-str_class_Ethereal-r=Ethereal(rare)
+str_class_Ethereal-r=Etéreo(Raro)
 
 
 str_teleporter=Zepelim Sinfônico
