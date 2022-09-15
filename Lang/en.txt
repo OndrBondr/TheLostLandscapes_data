@@ -2,9 +2,9 @@
 WublinStatueBio=This Wublin statue has been carefully crafted by its mysterious maker, down to the finest detail. Now all that's missing is the spark of life! Instead of sending them to the nursery, zap the monster eggs you've bred on your other islands, and they'll transform into the electrical energy required to take up this Wublin.
 
 Monsters/Monster_maulch=Maulch
-Monsters/Monster_maulch_bio=Maulch bio
+Monsters/Monster_maulch_bio=What's this? One of those old statues from within the Storm found its way to you! Awaken it and free the lost soul within...
 Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
-Monsters/Monster_maulch_awake_bio=Maulch bio awakened
+Monsters/Monster_maulch_awake_bio=Maulch, the Monotone Mumbler, is perhaps not who you'd expect out here, but whaddaya know! Maulch's Large Lulaguleaf requires much watering, and nowhere has better rain than here it says. Of course, nobody else has even seen it rain but thats irrelevant...
 
 Monsters/Monster_fleechwurm_undof=Fleechwurm
 Monsters/Monster_fleechwurm_undof_bio=<ref>WublinStatueBio
@@ -13,10 +13,10 @@ Monsters/Monster_fleechwurm_undof_awake_bio=In addition to using them to play mu
 
 
 Monsters/Monster_spurrit=Spurrit
-Monsters/Monster_spurrit_bio=Spurrit bio
+Monsters/Monster_spurrit_bio=Huzzah? HUZZAH! This intreped explorer, now farther from home than ever, is happy to explore this strange and vibrant world. 
 
 Monsters/Monster_spurrit_desert=<ref>Monsters/Monster_spurrit
-Monsters/Monster_spurrit_desert_bio=Spurrit bio but the one on the desert
+Monsters/Monster_spurrit_desert_bio=Huzzah? Huz-AAAAGH! This intreped explorer, fascinated by these ancient ruins, seems to have found some trouble with local avian life. While the Vullturs are harmless, Spurrit still freezes up at the sound of their shriek, not even letting out a characteristic yelp.
 
 Monsters/Monster_toejammer=Toe Jammer
 Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the water. Also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they know how to have a good time!!!
@@ -49,7 +49,7 @@ Monsters/Monster_stoopa_bio=Not much is known about the misty marsh deep in the 
 Monsters/Monster_bridgit=Bridg-it
 Monsters/Monster_bridgit_bio=While the marsh is a special haven for Faerie elementals, I bet you didn’t expect this one here! Believe it or not, a special gene deep within the mind of this crystalline connoisseur’s mind calls all Bridg-its to seek out marshy depths. While these days, most that find such a place go through a very unique and dramatic change to suit their environment, this odd specimen feels itself already, and is content as it is! A Gold Star for Great Body Image goes to our Evergreen Marsh Bridg-it!
 Monsters/Monster_spunge=Spunge
-Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles
+Monsters/Monster_spunge_bio=Adult Spunges are very talented whistlers, they can blow so hard that sometimes they send fellow monsters off to faraway islands!!! Just Remember to take cover when they blow their birthday candles.
 
 Monsters/Monster_spunge_rare=Rare Spunge
 Monsters/Monster_spunge_rare_bio=The dry-eyed Rare Spunge is a fascinating example of the adaptations that environment based mutations can bring about. Seeming to stem from particularly composed waters, mutations through this wacky spunge have changed almost everything about this Spunge, from its color to the amount of each organ it has. Some even suspect it may have a second mouth inside of its body. Ew. Just Ew. 
