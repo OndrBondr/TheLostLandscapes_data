@@ -103,7 +103,7 @@ Monsters/Monster_fluoress=Fluoress
 Monsters/Monster_fluoress_bio=Fluoress bio
 
 Monsters/Monster_osstax_young=Young Osstax
-Monsters/Monster_osstax_young_bio=Young Osstax bio
+Monsters/Monster_osstax_young_bio=It’s well-known that Osstax begins their lives as a few individuals who join together later in their life. This normally takes many, many years, as they need to fit together perfectly to become a full Osstax, but for the few individuals that find their perfect match early on, you get a scene like this one! Osstak Pebblets, despite being generally sedentary, can come up with all sorts of plans for all sorts of trouble. They’re easily able to plot with the other members of their stak, and use this extra doubled brainpower to be doubly unpredictable. You know what they say, two heads are always better than one!
 
 Monsters/Monster_osstax=Osstax
 Monsters/Monster_osstax_bio=Osstax bio
