@@ -114,3 +114,12 @@ Monsters/Monster_sprinklate
 Monsters/Monster_jamboree_undof
 Monsters/Monster_fleechwurm_undof
 Monsters/Monster_ghazt_undof
+;
+Calamity:
+Monsters/Monster_stogg_undof
+Monsters/Monster_banno
+Monsters/Monster_varrow
+Monsters/Monster_rootitoot
+Monsters/Monster_pummel
+Monsters/Monster_blasoom
+
