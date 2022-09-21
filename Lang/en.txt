@@ -82,16 +82,16 @@ Monsters/Monster_frondley=Frondley
 Monsters/Monster_frondley_bio=The Frondley is an ammmmmmmmmmazing specimen! Its gelatinous physique and toes bring to mind some similar monsters, but they have evolved separately from our lemon-colored companions. Their otherworldly and serene hums echo throughout islands, always making sure a Frondley's presence is known. Some monsters go as far as to record these hums to lure themselves to sleep. In other activities, Frondley enjoys maintaining their kelpy hairdos, while always striving to find the perfect amount of hair for their bulbous craniums.
 
 Monsters/Special/Monster_melochness=Meloch-Ness
-Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit.
+Monsters/Special/Monster_melochness_bio=Born from the Enchanted Ponds in the Deep Woods, Meloch-Nesses are curious colossal creatures. Like most of the Faerie Forests' inhabitants, this monster's existence is tied heavily to the Flora Fog. While we still don’t know exactly what it does, the Fog seems to amplify Meloch-Ness’s to melodic tunes and carry far and wide. Its enchanting melody can be heard from a whole forest away when it's is carried by the Flora Fog. In fact, it was the first thing the natural monsters heard when they arrived in the Deep Woods. Meloch-Ness is also said to share a common ancestor with Reedling and Blabbit. What. How you get dis. Excuse me. Magical Expansion is not canon. L + Ratio. TLL is not as good as Dawn of Fire. - Mr. Magic of Expanding
 
 Monsters/Monster_potbelly_young=Young Potbelly
-Monsters/Monster_potbelly_young_bio=Young Potbelly bio
+Monsters/Monster_potbelly_young_bio=Playing is so much better with 2 heads! The young potbelly is a welcome addition to any strategy game, on account of their doubled brainpower. Unfortunately for the other monsterlings, Two times Zero is still Zero. 
 Monsters/Monster_toejammer_young=Young Toe Jammer
 Monsters/Monster_toejammer_young_bio=Effervescent and bubbly, tropical-demeanored Young Toe Jammers are always pleasant playmates for the other monsters. At times, situations can get a little sticky when a tossed ball finds itself lodged in the gelatinous body of this tot, but that's no match for some well executed laughter therapy.
 Monsters/Monster_tweedle_young=Young Tweedle
-Monsters/Monster_tweedle_young_bio=Young Tweedle bio
+Monsters/Monster_tweedle_young_bio=Tweedles are well known to be airy and aloof, and the youngest members of the species are no different. When not spreading chitchat around the Floating City, these babbling birds preen themselves nonstop, hoping to be the most "fantastic feathered fling" of the day. 
 Monsters/Monster_flootfly_young=Young Floot Fly
-Monsters/Monster_flootfly_young_bio=Young Floot Fly bio
+Monsters/Monster_flootfly_young_bio=Whoosh! Spry Flootlings are adventurous, soaring through the skies. Never seen without their signature masks, its said they search for something lost long ago...
 
 Monsters/Monster_theremind_young=Young Theremind
 Monsters/Monster_theremind_young_bio=A theremind's rubbery brain may cause some alarm to those inexperienced in monster biology. I mean, it's out in the open for all to see! However, rest assured, a theremind's noodle is well-protected by a thick outer skin, which protects it from all sorts of tumbles and falls. It's not like they walk often anyways, it's far more efficient to simply float about!
@@ -100,7 +100,7 @@ Monsters/Monster_fluoress_young=Young Fluoress
 Monsters/Monster_fluoress_young_bio=The solemn tings of the Fluoress paralarvae make for a wonderful lullabye, so much so that they have the tendency of lulling themselves to sleep while playing! In any case, Fluoress were never known for their attention-keeping habits to begin with, as they most often spend their waking hours poking and prodding at the wide array of critters that call the Floating City their home.
 
 Monsters/Monster_fluoress=Fluoress
-Monsters/Monster_fluoress_bio=Fluoress bio
+Monsters/Monster_fluoress_bio=A fluoress may seem dim and dull, but that's just a facade. When in song with fellow monsters, Fluoress happily prods its dress of Fluorophyll, lighting up the darkness. While the reason for this strange reaction, as well as the origins of Fluorophyll, are quite a mystery, Fluoress gently reminds that one need not understand to appreciate. 
 
 Monsters/Monster_osstax_young=Young Osstax
 Monsters/Monster_osstax_young_bio=It’s well-known that Osstax begins their lives as a few individuals who join together later in their life. This normally takes many, many years, as they need to fit together perfectly to become a full Osstax, but for the few individuals that find their perfect match early on, you get a scene like this one! Osstak Pebblets, despite being generally sedentary, can come up with all sorts of plans for all sorts of trouble. They’re easily able to plot with the other members of their stak, and use this extra doubled brainpower to be doubly unpredictable. You know what they say, two heads are always better than one!
