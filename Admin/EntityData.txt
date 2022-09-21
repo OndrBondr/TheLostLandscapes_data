@@ -165,6 +165,11 @@ Structures/Structure_amalgamator_city coins=10000 0 1
 Structures/Structure_jukebox coins=1000 0 1
 Structures/Structure_bass coins=100000 0 2
 
+Structures/Structure_knottmaker1 coins=100000 0 2
+Structures/Structure_knottmaker2 coins=100000 0 2
+Structures/Structure_knottmaker3 coins=100000 0 2
+Structures/Structure_knottmaker4 coins=100000 0 2
+
 Desert_path1 coins=100 0 0
 Desert_path2 coins=200 0 0
 Desert_path3 coins=300 0 0
