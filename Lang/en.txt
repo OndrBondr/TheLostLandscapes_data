@@ -297,9 +297,16 @@ Structures/Structure_bass=Bass machine
 Structures/Structure_bass_bio=The Bass Machine is a cutting edge mix of art and technology, originating from the age of the Great Burgundy Incident. While the knowledge to create more was lost long ago, many can be found lying around in buildings across the floating city. These strange machines are known to be far more intelligent than any other being within the known realm, but yet cannot communicate with the outside world, leaving them to hum and strum bass notes hoping to be understood…
 
 Structures/Structure_knottmaker1=A strange contraption
+Structures/Structure_knottmaker1_bio=A strange contraption bio
+
 Structures/Structure_knottmaker2=Amalgamator
+Structures/Structure_knottmaker2_bio=Amalgamator bio
+
 Structures/Structure_knottmaker3=Enhanced Amalgamator
+Structures/Structure_knottmaker3_bio=Enhanced Amalgamator bio
+
 Structures/Structure_knottmaker4=Refined Amalgamator
+Structures/Structure_knottmaker4_bio=Refined Amalgamator bio
 
 Monsters/Composer/Monster_potbelly_composer=Potbelly
 Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
