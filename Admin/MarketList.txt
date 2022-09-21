@@ -240,10 +240,6 @@ Decoration/Decoration_mors
 structures:
 Structures/Structure_bakery
 
-Structures/Structure_knottmaker1
-Structures/Structure_knottmaker2
-Structures/Structure_knottmaker3
-Structures/Structure_knottmaker4
 -
 deco_paths:
 EM_path1
