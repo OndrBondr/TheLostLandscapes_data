@@ -60,7 +60,7 @@ Monsters/Monster_phangler=Phangler
 Monsters/Monster_phangler_bio=It appears that the lukewarm waters around the marsh are quite the welcoming enviroment. Many monsters come up to the surface to enjoy them, including the Wadee, the Banno, and more! It appears some monsters also make the land journey at times! One such example is Phangler, who must have adventured all the way from the jungley shore, through the Evergreen Woods to get to the water. Phangler says its arguably the second-sweetest place in the world- and who can blame em?
 
 Monsters/Monster_phangler_rare=Rare Phangler
-Monsters/Monster_phangler_rare_bio=Rare Phangler bio
+Monsters/Monster_phangler_rare_bio=Glub Glub Glub. The Rare Phangler ate a little too much mud from the bottom of the marsh waters, and its tail fell off. Luckily it had extra in its pockets, so it stuck those on and used them as arms!
 
 Monsters/Monster_dulsylvan=Dulsylvan
 Monsters/Monster_dulsylvan_bio=The carved Dulsylvan, a creature of wood and weathering, held together by its solid core, may seem a tad bit rude on first encounter. Known to never speak, and always donning a scowl, Dulsylvan’s bad mood is naught more than circumstance, as it’s mouth has long been cemented in that shape. In truth, the true monster lives in the small creatures that reside upon the only truly life-filled part of the being, it’s lofty twigs. These creatures, sometimes referred to as Sylvlings, cover and open holes on their ailing ancestors branches to allow air through, and giving the Dulsylvan a means of communication with its neighbors. Once Dulsylvan mystically changes into a pine cone, the Sylvlings will begin to grow and change rapidly, into young Dulsylvans of their own!
