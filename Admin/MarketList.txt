@@ -237,6 +237,18 @@ Decoration/Decoration_test12
 Decoration/Decoration_knott
 Decoration/Decoration_mors
 -
+deco_obstacles:
+Decoration/Obstacle_placable_Knott_1
+Decoration/Obstacle_placable_Knott_2
+Decoration/Obstacle_placable_Knott_3
+Decoration/Obstacle_placable_Knott_4
+Decoration/Obstacle_placable_Knott_5
+Decoration/Obstacle_placable_Knott_6
+Decoration/Obstacle_placable_Knott_7
+Decoration/Obstacle_placable_Knott_8
+Decoration/Obstacle_placable_Knott_9
+Decoration/Obstacle_placable_Knott_10
+-
 structures:
 Structures/Structure_bakery
 
