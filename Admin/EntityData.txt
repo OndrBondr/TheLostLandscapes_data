@@ -242,16 +242,16 @@ Decoration/Obstacle_Knott_8 diamonds=-4 Rock=3 0 0
 Decoration/Obstacle_Knott_9 diamonds=-5 Rock=5 0 0
 Decoration/Obstacle_Knott_10 diamonds=-10 Vortex=1 0 0
 
-Decoration/Obstacle_placable_Knott_1 diamonds=3 0 0
-Decoration/Obstacle_placable_Knott_2 diamonds=5 0 0
-Decoration/Obstacle_placable_Knott_3 diamonds=10 0 0
-Decoration/Obstacle_placable_Knott_4 diamonds=3 0 0
-Decoration/Obstacle_placable_Knott_5 diamonds=5 0 0
-Decoration/Obstacle_placable_Knott_6 diamonds=10 0 0
-Decoration/Obstacle_placable_Knott_7 diamonds=3 0 0
-Decoration/Obstacle_placable_Knott_8 diamonds=5 0 0
-Decoration/Obstacle_placable_Knott_9 diamonds=10 0 0
-Decoration/Obstacle_placable_Knott_10 diamonds=10 0 0
+Decoration/Obstacle_placable_Knott_1 diamonds=3
+Decoration/Obstacle_placable_Knott_2 diamonds=5
+Decoration/Obstacle_placable_Knott_3 diamonds=10
+Decoration/Obstacle_placable_Knott_4 diamonds=3
+Decoration/Obstacle_placable_Knott_5 diamonds=5
+Decoration/Obstacle_placable_Knott_6 diamonds=10
+Decoration/Obstacle_placable_Knott_7 diamonds=3
+Decoration/Obstacle_placable_Knott_8 diamonds=5
+Decoration/Obstacle_placable_Knott_9 diamonds=10
+Decoration/Obstacle_placable_Knott_10 diamonds=10
 
 
 Decoration/Dog food=2000 20 0
