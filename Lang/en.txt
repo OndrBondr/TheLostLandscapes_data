@@ -546,6 +546,7 @@ str_popup_notEnough_diamonds=You don't have enough <color=#4EFFF5>Diamonds.
 str_popup_notEnough_coins=You don't have enough <color="yellow">Coins.
 str_popup_notEnough_food=You don't have enough <color=#F318D1>Food.
 str_popup_notEnough_stars=You don't have enough <color=#FFA400>Starpower.
+str_popup_notEnough=You don't have enough <color=green>Items</color>.
 str_popup_sell=Are you sure you want to sell this for <color="yellow"><amount> Coins?
 str_popup_designer_cancel=Are you sure you want to cancel all the changes made in Designer mode?
 str_popup_designer_save1=Are you sure you want to save? It will cost <color="yellow"><amount> Coins.
