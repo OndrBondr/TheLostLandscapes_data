@@ -539,7 +539,7 @@ Decoration/Obstacle_Knott_8_bio=<ref>ObstacleKnottRock
 Decoration/Obstacle_Knott_9=<ref>Decoration/Obstacle_Candy_3
 Decoration/Obstacle_Knott_9_bio=<ref>ObstacleKnottRock
 
-Decoration/Obstacle_Knott_10=Duggen Black Hole
+Decoration/Obstacle_Knott_10=Dug-out Black Hole
 Decoration/Obstacle_Knott_10_bio=A Black Hole with an artificial origin. How peculiar!
 
 Decoration/Obstacle_placable_Knott_1=<ref>Decoration/Obstacle_Knott_1
