@@ -565,7 +565,7 @@ str_teleport_flying=The Zeppelin is currently flying to <color="green"><islandNa
 str_teleport_unavailable_monster=The Zeppelin is currently not on this island.
 str_popup_shopUnavailbable=<type> are unavailable on this island.
 str_popup_upgrade=Would you like to upgrade this for <amount> <type>?
-str_popup_upgrade=Would you like to upgrade this?\nIt will cost you:
+str_popup_upgrade_items=Would you like to upgrade this?\nIt will cost you:
 
 str_popup_islandComingSoon=New and Exciting things coming soon!
 str_popup_islandAlreadyOn=You are already on this island.
