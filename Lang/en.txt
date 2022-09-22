@@ -515,12 +515,14 @@ ObstacleCommonBones_bio=Removed bones will be taken far away and crushed to bone
 
 ObstaclePlacableBones_bio=Remember how we said that bones that are removed from your islands get crushed to bonemeal? Good news - we lied and these are the bones that you got rid of. Live with that now :>
 
+ObstacleKnottTree=It contains a special power that can resurrect life. Don't worry, if you cut it down, it won't harm the ecosystem of this island. Everything here is dead anyway...
+
 Decoration/Obstacle_Knott_1=Fluff tree
-Decoration/Obstacle_Knott_1_bio=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_1_bio=This is a Fluff tree. <ref>ObstacleKnottTree
 Decoration/Obstacle_Knott_2=Fluffier tree
-Decoration/Obstacle_Knott_2_bio=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_2_bio=This is a Fluff tree but it's much mre fluffy that the usualy fluff tree. <ref>ObstacleKnottTree
 Decoration/Obstacle_Knott_3=The Fluffiest tree
-Decoration/Obstacle_Knott_3_bio=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_3_bio=This is a Fluff tree. It's the fluffiest one yet. <ref>ObstacleKnottTree
 
 Decoration/Obstacle_Knott_4=Small Bone
 Decoration/Obstacle_Knott_4_bio=<ref>ObstacleCommonBones_bio
