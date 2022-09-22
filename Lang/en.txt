@@ -516,6 +516,7 @@ ObstacleCommonBones_bio=Removed bones will be taken far away and crushed to bone
 ObstaclePlacableBones_bio=Remember how we said that bones that are removed from your islands get crushed to bonemeal? Good news - we lied and these are the bones that you got rid of. Live with that now :>
 
 ObstacleKnottTree=It contains a special power that can resurrect life. Don't worry, if you cut it down, it won't harm the ecosystem of this island. Everything here is dead anyway...
+ObstacleKnottRock=This rock, just like the rest of the rocks on this island, hold a potential for magical powers! But the ways of extracting said magic is lost to time. Oh well...
 
 Decoration/Obstacle_Knott_1=Fluff tree
 Decoration/Obstacle_Knott_1_bio=This is a Fluff tree. <ref>ObstacleKnottTree
@@ -532,11 +533,11 @@ Decoration/Obstacle_Knott_6=Big Bone
 Decoration/Obstacle_Knott_6_bio=<ref>ObstacleCommonBones_bio
 
 Decoration/Obstacle_Knott_7=<ref>Decoration/Obstacle_Candy_1
-Decoration/Obstacle_Knott_7_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_Knott_7_bio=<ref>ObstacleKnottRock
 Decoration/Obstacle_Knott_8=<ref>Decoration/Obstacle_Candy_2
-Decoration/Obstacle_Knott_8_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_Knott_8_bio=<ref>ObstacleKnottRock
 Decoration/Obstacle_Knott_9=<ref>Decoration/Obstacle_Candy_3
-Decoration/Obstacle_Knott_9_bio=<ref>ObstaclePlacableCommon_bio
+Decoration/Obstacle_Knott_9_bio=<ref>ObstacleKnottRock
 
 Decoration/Obstacle_Knott_10=Duggen Black Hole
 Decoration/Obstacle_Knott_10_bio=A Black Hole with an artificial origin. How peculiar!
