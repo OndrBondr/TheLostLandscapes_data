@@ -516,18 +516,18 @@ ObstacleCommonBones_bio=Removed bones will be taken far away and crushed to bone
 ObstaclePlacableBones_bio=Remember how we said that bones that are removed from your islands get crushed to bonemeal? Good news - we lied and these are the bones that you got rid of. Live with that now :>
 
 Decoration/Obstacle_Knott_1=Fluff tree
-Decoration/Obstacle_Knott_1=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_1_bio=<ref>ObstacleCommonTrees_bio
 Decoration/Obstacle_Knott_2=Fluffier tree
-Decoration/Obstacle_Knott_2=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_2_bio=<ref>ObstacleCommonTrees_bio
 Decoration/Obstacle_Knott_3=The Fluffiest tree
-Decoration/Obstacle_Knott_3=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_3_bio=<ref>ObstacleCommonTrees_bio
 
 Decoration/Obstacle_Knott_4=Small Bone
-Decoration/Obstacle_Knott_4=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_Knott_4_bio=<ref>ObstaclePlacableBones_bio
 Decoration/Obstacle_Knott_5=Medium Bone
-Decoration/Obstacle_Knott_5=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_Knott_5_bio=<ref>ObstaclePlacableBones_bio
 Decoration/Obstacle_Knott_6=Big Bone
-Decoration/Obstacle_Knott_6=<ref>OObstaclePlacableBones_bio
+Decoration/Obstacle_Knott_6_bio=<ref>OObstaclePlacableBones_bio
 
 Decoration/Obstacle_Knott_7=<ref>Decoration/Obstacle_Candy_1
 Decoration/Obstacle_Knott_7_bio=<ref>ObstaclePlacableCommon_bio
