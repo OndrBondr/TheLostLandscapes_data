@@ -531,7 +531,7 @@ Decoration/Obstacle_placable_Candy_4
 Decoration/Obstacle_placable_Candy_5
 Decoration/Obstacle_placable_Candy_6
 ;
-Calamity:
+Calamity
 monsters:
 Monsters/Monster_stogg_undof
 Monsters/Monster_banno
