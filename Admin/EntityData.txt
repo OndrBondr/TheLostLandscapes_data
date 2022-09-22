@@ -230,16 +230,16 @@ Decoration/Obstacle_placable_Candy_4 diamonds=2 0 0
 Decoration/Obstacle_placable_Candy_5 diamonds=5 0 0
 Decoration/Obstacle_placable_Candy_6 diamonds=10 0 0
 
-Decoration/Obstacle_Knott_1 coins=-4000 Wool=1,BlueLog=1
-Decoration/Obstacle_Knott_2 coins=-25000 Wool=3,BlueLog=2
-Decoration/Obstacle_Knott_3 coins=-33000 Wool=5,BlueLog=4
-Decoration/Obstacle_Knott_4 coins=-9000 Bone=1
-Decoration/Obstacle_Knott_5 coins=-100000 Bone=3
-Decoration/Obstacle_Knott_6 coins=-110000 Bone=5
-Decoration/Obstacle_Knott_7 coins=-110000 Rock=1
-Decoration/Obstacle_Knott_8 coins=-110000 Rock=3
-Decoration/Obstacle_Knott_9 coins=-110000 Rock=5
-Decoration/Obstacle_Knott_10 coins=-1100000 Vortex=1
+Decoration/Obstacle_Knott_1 coins=-4000 Wool=1,BlueLog=1 0 0
+Decoration/Obstacle_Knott_2 coins=-25000 Wool=3,BlueLog=2 0 0
+Decoration/Obstacle_Knott_3 coins=-33000 Wool=5,BlueLog=4 0 0
+Decoration/Obstacle_Knott_4 coins=-9000 Bone=1 0 0
+Decoration/Obstacle_Knott_5 coins=-100000 Bone=3 0 0
+Decoration/Obstacle_Knott_6 coins=-110000 Bone=5 0 0
+Decoration/Obstacle_Knott_7 coins=-110000 Rock=1 0 0
+Decoration/Obstacle_Knott_8 coins=-110000 Rock=3 0 0
+Decoration/Obstacle_Knott_9 coins=-110000 Rock=5 0 0
+Decoration/Obstacle_Knott_10 coins=-1100000 Vortex=1 0 0
 
 Decoration/Obstacle_placable_Knott_1 diamonds=3 0 0
 Decoration/Obstacle_placable_Knott_2 diamonds=5 0 0
