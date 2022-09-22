@@ -239,7 +239,7 @@ Decoration/Obstacle_Knott_6 coins=-110000 Bone=5
 Decoration/Obstacle_Knott_7 coins=-110000 Rock=1
 Decoration/Obstacle_Knott_8 coins=-110000 Rock=3
 Decoration/Obstacle_Knott_9 coins=-110000 Rock=5
-Decoration/Obstacle_Knott_10 coins=-110000 Vortex=1
+Decoration/Obstacle_Knott_10 coins=-1100000 Vortex=1
 
 Decoration/Obstacle_placable_Knott_1 diamonds=3 0 0
 Decoration/Obstacle_placable_Knott_2 diamonds=5 0 0
