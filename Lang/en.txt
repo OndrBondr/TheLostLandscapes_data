@@ -692,6 +692,7 @@ str_teleporter_target_map=The Zeppelin will arrive at <color="green"><islandName
 str_teleporter_target_map_arrived=The Zeppelin has arrived at <color="green"><islandName></color>.
 str_popup_teleporter_moveToTarget=Would you like to go to <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Would you like to send the Zeppelin to <color="green"><islandName></color>?
+str_popup_knottmaker_locked=This item is unavailable. Upgrade your Amalgamator to unlock it.
 
 btn_shop=Market
 btn_mailbox=Mailbox
@@ -773,6 +774,7 @@ btn_wakeUp=Wake up
 btn_upgrade=Upgrade
 btn_view=View
 btn_settings=Settings
+btn_craft=Craft
 
 goal_breed_buy=Buy and place a <color="green"><entityName>
 goal_breed_an=Breed and place an <color="green"><entityName>
