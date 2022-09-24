@@ -289,6 +289,7 @@ Monsters/Monster_handmond coins=10000
 Monsters/Monster_whimstlop diamonds=150
 Monsters/Monster_theremind diamonds=80
 Monsters/Monster_oaktopus diamonds=100
+Monsters/Monster_schmoochle diamonds=1000
 Monsters/Monster_plixie diamonds=5000
 -
 monster_rares:

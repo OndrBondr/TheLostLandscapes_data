@@ -84,6 +84,7 @@ Monsters/Monster_handmond
 Monsters/Monster_oaktopus
 Monsters/Monster_theremind
 Monsters/Monster_whimstlop
+Monsters/Monster_schmoochle
 Monsters/Monster_plixie
 ;
 Meduza:

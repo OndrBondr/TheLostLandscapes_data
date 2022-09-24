@@ -222,6 +222,9 @@ Monsters/Monster_kuncklehead_bio=The burly mitts of a matured Knucklehead may be
 Monsters/Monster_kuncklehead_meduza=<ref>Monsters/Monster_kuncklehead
 Monsters/Monster_kuncklehead_meduza_bio=Ded knuckles bio
 
+Monsters/Monster_schmoochle=Schmoochle
+Monsters/Monster_schmoochle_bio=Schmoochle bio
+
 Monsters/Monster_hornacle=Hornacle
 Monsters/Monster_hornacle_bio=Hornacle bio
 Monsters/Monster_loodvigg=Loodvigg

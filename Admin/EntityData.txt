@@ -75,6 +75,8 @@ Monsters/Monster_clackula_young coins=400 bone 14400 100 coins=1@120@coins=90 Ma
 Monsters/Monster_rootitoot_young diamonds=40 water@fire@plant 43200 25 coins=1@72@coins=260 Natural rootitoot,rootitoot_young 4 0
 Monsters/Monster_rootitoot diamonds=70 water@fire@plant 43200 25 coins=1@72@coins=260 Natural rootitoot,rootitoot 4 0
 
+Monsters/Monster_schmoochle diamonds=250 schmoochle 43200 25 coins=1@28@coins=550 Seasonal schmoochle,schmoochle 10 0
+
 Monsters/Monster_spurrit diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seasonal spurrit,spurrit 10 0
 Monsters/Monster_spurrit_desert diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seasonal spurrit,spurrit 10 0
 
@@ -111,7 +113,6 @@ Monsters/Monster_theremind_meduza coins=400 psychic 14400 10 coins=1@120@coins=9
 Monsters/Monster_handmond coins=400 organ 14400 10 coins=1@120@coins=90 Lost handmond,handmond 6 0
 Monsters/Monster_whimstlop coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
 Monsters/Monster_whimstlop_meduza coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
-
 
 Monsters/Knott_1 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_1 0 0
 Monsters/Knott_2 diamonds=2000 knottshurr 0 10000000 coins=2000,diamonds=1,food=2500,stars=1,stars=1@43200@coins=4000,diamonds=2,food=5000,stars=2,stars=1 Lost ,Knott_2 0 0
