@@ -693,6 +693,7 @@ str_teleporter_target_map_arrived=The Zeppelin has arrived at <color="green"><is
 str_popup_teleporter_moveToTarget=Would you like to go to <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Would you like to send the Zeppelin to <color="green"><islandName></color>?
 str_popup_knottmaker_locked=This item is unavailable. Upgrade your Amalgamator to unlock it.
+str_popup_knottmakerNotSelected=Nothing is selected.
 
 btn_shop=Market
 btn_mailbox=Mailbox
