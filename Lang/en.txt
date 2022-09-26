@@ -225,6 +225,9 @@ Monsters/Monster_kuncklehead_meduza_bio=Ded knuckles bio
 Monsters/Monster_schmoochle=Schmoochle
 Monsters/Monster_schmoochle_bio=Schmoochle bio
 
+Monsters/Monster_punkleton=Punkleton
+Monsters/Monster_punkleton_bio=Punkleton bio
+
 Monsters/Monster_hornacle=Hornacle
 Monsters/Monster_hornacle_bio=Hornacle bio
 Monsters/Monster_loodvigg=Loodvigg
