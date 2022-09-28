@@ -701,7 +701,8 @@ str_popup_teleporter_confirm_sending=Would you like to send the Zeppelin to <col
 str_popup_knottmaker_locked=This item is unavailable. Upgrade your Amalgamator to unlock it.
 str_popup_knottmakerNotSelected=Nothing is selected.
 str_popup_knottmaker_fail=Your crafting failed! But items you used were converted to diamonds.\nYou get <color=#4EFFF5>Diamonds ×<amount></color>.
-str_popup_knottmaker_fail2=Your crafting failed! Don't worry you get some of the items back!
+str_popup_knottmaker_fail_items=Your crafting failed! Don't worry you get some of the items back!
+str_popup_knottmaker_fail_noitems=Your crafting failed! Unfortunately all of your items were lost.
 
 
 btn_shop=Market
