@@ -13,4 +13,4 @@
 
 4 Monsters/Knott_special special BlueLog=40,Rock=40,Wool=40,Bone=40,Vortex=15 20000,15000,20000 36000,25200,259200
 
-100 none 0 none 20000,15000,10000 36000,25200,18000
+100 none 0 none 1,2,5 36000,25200,18000
