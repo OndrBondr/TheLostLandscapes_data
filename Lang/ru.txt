@@ -150,6 +150,8 @@ Monsters/Knott_9=Бабушка Неувязья
 Monsters/Knott_9_bio=Meet the friendliest creature in the Lost world. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
 Monsters/Knott_10=Морозёв
 Monsters/Knott_10_bio=Bel'yawn Zirro bio
+Monsters/Knott_special=Крохорнет
+Monsters/Knott_special_bio=Крохорнет
 
 Monsters/Monster_handmond=Безобраз
 Monsters/Monster_handmond_bio=Handmond bio

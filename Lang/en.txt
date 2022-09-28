@@ -159,7 +159,7 @@ Monsters/Knott_9_bio=Meet the friendliest creature in the Lost world. The elderl
 Monsters/Knott_10=Bel'yawn Zirro
 Monsters/Knott_10_bio=Bel'yawn Zirro bio
 Monsters/Knott_special=Chimblickle
-Chimbaphone + ickle
+Cimbasso + ickle
 Monsters/Knott_special_bio=Chimblickle bio
 
 Monsters/Monster_kayna_young=Young Kayna
