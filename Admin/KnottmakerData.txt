@@ -7,9 +7,9 @@
 3 Monsters/Knott_7 7 BlueLog=5,Wool=10,Bone=20 20000,15000,10000 36000,57600,36000 0,4,3
 3 Monsters/Knott_8 8 BlueLog=10,Rock=20,Wool=15,Bone=10 20000,15000,10000 36000,57600,36000 0,4,3
 
-4 Monsters/Knott_9 9 BlueLog=15,Wool=20,Rock=50,Vortex=10 20000,15000,10000 36000,25200,86400 0,0,10
-4 Monsters/Knott_3 3 BlueLog=30,Rock=10,Bone=25,Vortex=10 20000,15000,10000 36000,25200,86400 0,0,10
-4 Monsters/Knott_6 6 BlueLog=20,Rock=40,Wool=7,Bone=10,Vortex=10 20000,15000,10000 36000,25200,86400 0,0,10
+4 Monsters/Knott_9 9 BlueLog=15,Wool=20,Rock=50,Vortex=10 20000,15000,10000 36000,25200,86400 0,0,9
+4 Monsters/Knott_3 3 BlueLog=30,Rock=10,Bone=25,Vortex=10 20000,15000,10000 36000,25200,86400 0,0,8
+4 Monsters/Knott_6 6 BlueLog=20,Rock=40,Wool=7,Bone=10,Vortex=10 20000,15000,10000 36000,25200,86400 0,0,9
 
 4 Monsters/Knott_special special BlueLog=40,Rock=40,Wool=40,Bone=40,Vortex=15 20000,15000,20000 36000,25200,259200 0,0,12
 
