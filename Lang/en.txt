@@ -162,6 +162,9 @@ Monsters/Knott_special=Chimblickle
 Cimbasso + ickle
 Monsters/Knott_special_bio=Chimblickle bio
 
+Monsters/Monster_tiawa=Tiawa
+Monsters/Monster_tiawa_bio=Tiawa bio
+
 Monsters/Monster_kayna_young=Young Kayna
 Monsters/Monster_kayna_young_bio=Young Kayna Bio
 
