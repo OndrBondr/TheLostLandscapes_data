@@ -231,8 +231,8 @@ Monsters/Monster_schmoochle_bio=Schmoochle bio
 Monsters/Monster_punkleton=Punkleton
 Monsters/Monster_punkleton_bio=Punkleton bio
 
-Monsters/Monster_ffydill=Ffydill
-Monsters/Monster_ffydill_bio=Ffydill bio
+Monsters/Monster_ffydill=Ffidyll
+Monsters/Monster_ffydill_bio=Ffidyll bio
 
 Monsters/Monster_hornacle=Hornacle
 Monsters/Monster_hornacle_bio=Hornacle bio
