@@ -125,5 +125,6 @@ Monsters/Monster_rootitoot
 Monsters/Monster_pummel
 Monsters/Monster_tiawa
 Monsters/Monster_punkleton
+Monsters/Monster_ffydill
 Monsters/Monster_blasoom
 
