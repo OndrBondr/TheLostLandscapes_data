@@ -548,8 +548,9 @@ Decoration/Obstacle_placable_Candy_6
 Calamity
 monsters:
 Monsters/Monster_stogg_undof
-Monsters/Monster_banno
 Monsters/Monster_varrow
+Monsters/Monster_boskus
+Monsters/Monster_banno
 Monsters/Monster_rootitoot
 Monsters/Monster_pummel
 Monsters/Monster_tiawa

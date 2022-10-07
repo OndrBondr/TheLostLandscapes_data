@@ -263,6 +263,9 @@ Monsters/Monster_light_bio=How ludicrous! The lanky Loch-nitt is a truly strange
 Monsters/Monster_bone=Amoniterium
 Monsters/Monster_bone_bio=In a distant land, born of the tear of a dying star, a unique creature ruled the land... So begins the favorite story of the alluring Amoniterium. A radical role-player of its own class, this boisterous being loves playing make-believe, imagining all sorts of backstories and creating fun costumes. While its own origins remain a mystery, it can only imagine how it was created. No matter what, one thing's for sure: we know it'll become a part of the identity of every bone in the Amoniterium's well outfitted body! 
 
+Monsters/Monster_boskus=Boskus
+Monsters/Monster_boskus_bio=Boskus bio
+
 Monsters/Monster_olga=Olgaropipe
 Monsters/Monster_olga_bio=Olgaropipe bio
 
