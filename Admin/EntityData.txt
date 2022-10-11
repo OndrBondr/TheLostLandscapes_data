@@ -91,6 +91,8 @@ Monsters/Monster_spunge_young diamonds=40 water@air@plant 43200 25 coins=1@72@co
 Monsters/Special/Monster_melochness diamonds=100 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 100 0
 Monsters/Monster_percFrog diamonds=60 water@earth@faerie 10 0 coins=1@72@coins=1000 Magical percFrog,percFrog 100 0
 
+Monsters/Monster_arackulele diamonds=6000 mech@shadow 10 100 coins=2@72@coins=1000 Ethereal arackulele,arackulele 0 0
+
 Monsters/Monster_sox diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 Ethereal sox,sox 0 0
 Monsters/Monster_sox_meduza diamonds=6000 crystal@plasma 10 100 coins=2@72@coins=1000 Ethereal sox,sox 0 0
 

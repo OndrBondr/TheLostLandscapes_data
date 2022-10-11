@@ -234,6 +234,9 @@ Monsters/Monster_punkleton_bio=Punkleton bio
 Monsters/Monster_ffydill=Ffidyll
 Monsters/Monster_ffydill_bio=Ffidyll bio
 
+Monsters/Monster_arackulele=Arackulele
+Monsters/Monster_arackulele_bio=Arackulele bio
+
 Monsters/Monster_hornacle=Hornacle
 Monsters/Monster_hornacle_bio=Hornacle bio
 Monsters/Monster_loodvigg=Loodvigg
