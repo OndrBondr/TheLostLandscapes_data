@@ -1,6 +1,7 @@
 #ID rarity spawn_point equivalent
 #GeneratorName: items_per_day items_limit
 
+;
 Island_City: 7 30
 Flower_red 33 flowers
 Flower_yellow 33 flowers
