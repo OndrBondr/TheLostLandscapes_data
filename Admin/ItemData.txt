@@ -19,7 +19,7 @@ Cattail_water 90 water Cattail
 Log 30 ground
 Log_water 30 water Log
 ;
-Island_Knottshurr: 10 20
+Island_Knottshurr: 20 30
 BlueLog 100 trees
 Bone 100 ground
 Rock 100 ground
