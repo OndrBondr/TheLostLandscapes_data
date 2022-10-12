@@ -1,6 +1,1 @@
 6
-monster_test entity-disable Monsters/Monster_olga
-elements sprites-d elements
-em_audio audio EM-disable
-
-
