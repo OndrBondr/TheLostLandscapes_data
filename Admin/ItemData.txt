@@ -1,14 +1,14 @@
 #ID rarity spawn_point equivalent
-#GeneratorName: items_per_day
+#GeneratorName: items_per_day items_limit
 
-Island_City: 7
+Island_City: 7 30
 Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
 
 Fruit_apple 100 fruits
 ;
-Island_EM: 10
+Island_EM: 10 20
 Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
@@ -18,19 +18,19 @@ Cattail_water 90 water Cattail
 Log 30 ground
 Log_water 30 water Log
 ;
-Island_Knottshurr: 10
+Island_Knottshurr: 10 20
 BlueLog 100 trees
 Bone 100 ground
 Rock 100 ground
 Vortex 40 ground_log
 Wool 100 ground,wool
 ;
-Island_Candy: 5
+Island_Candy: 5 20
 Peppermint 100 ground
 Candycorn 100 ground
 Candycane 100 ground
 ;
-Island_Farm: 10
+Island_Farm: 10 20
 Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
