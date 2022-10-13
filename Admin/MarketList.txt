@@ -550,6 +550,7 @@ monsters:
 Monsters/Monster_stogg_undof
 Monsters/Monster_varrow
 Monsters/Monster_boskus
+Monsters/Monster_pango
 Monsters/Monster_banno
 Monsters/Monster_rootitoot
 Monsters/Monster_pummel
