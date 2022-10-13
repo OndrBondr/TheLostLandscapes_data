@@ -1,4 +1,4 @@
-Monsters/Monster_fleechwurm_undof
+Monsters/Monster_fleechwurm_undof_awake
 Abbott
 Alwyne
 Blaccom
