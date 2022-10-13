@@ -567,18 +567,18 @@ ObstacleCommonBones_bio=Osso removidos serão reduzidos à farelos!
 ObstaclePlacableBones_bio=Lembra de como falamos que esses ossos removidos virariam farelos? Boas notícias! - nós mentimos, esses são os ossos que você removeu. Te zuei.
 
 Decoration/Obstacle_Knott_1=Fofárvore
-Decoration/Obstacle_Knott_1=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_1_bio=<ref>ObstacleCommonTrees_bio
 Decoration/Obstacle_Knott_2=Fofárvore Fofa
-Decoration/Obstacle_Knott_2=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_2_bio=<ref>ObstacleCommonTrees_bio
 Decoration/Obstacle_Knott_3=Fofárvore Fofíssima
-Decoration/Obstacle_Knott_3=<ref>ObstacleCommonTrees_bio
+Decoration/Obstacle_Knott_3_bio=<ref>ObstacleCommonTrees_bio
 
 Decoration/Obstacle_Knott_4=Osso Pequeno
-Decoration/Obstacle_Knott_4=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_Knott_4_bio=<ref>ObstaclePlacableBones_bio
 Decoration/Obstacle_Knott_5=Osso Médio
-Decoration/Obstacle_Knott_5=<ref>ObstaclePlacableBones_bio
+Decoration/Obstacle_Knott_5_bio=<ref>ObstaclePlacableBones_bio
 Decoration/Obstacle_Knott_6=Ossão
-Decoration/Obstacle_Knott_6=<ref>OObstaclePlacableBones_bio
+Decoration/Obstacle_Knott_6_bio=<ref>OObstaclePlacableBones_bio
 
 Decoration/Obstacle_Knott_7=<ref>Decoration/Obstacle_Candy_1
 Decoration/Obstacle_Knott_7_bio=<ref>ObstaclePlacableCommon_bio
