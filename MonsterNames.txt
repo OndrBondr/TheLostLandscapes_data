@@ -1,5 +1,6 @@
 Monsters/Monster_likho_rare
 Likho-ad
+Salad
 ;
 Monsters/Monster_choral
 Coralline
