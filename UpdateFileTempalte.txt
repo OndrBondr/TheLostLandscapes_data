@@ -1,10 +1,10 @@
 
-monster_test entity-disable Monsters/Monster_olga
-elements sprites-d elements
+monster_test entity Monsters/Monster_olga
+elements sprites elements
 em_audio audio EM-disable
 
 
-monster_test entity-disable Monsters/Monster_olga
+monster_test entity Monsters/Monster_olga
 
-elements sprites elements-disable
+elements sprites elements
 em_audio audio EM-disable
