@@ -1,6 +1,5 @@
 Monsters/Monster_likho_rare
 Likho-ad
-Salad
 ;
 Monsters/Monster_choral
 Coralline
@@ -441,16 +440,4 @@ Rundle
 Shaardz
 Stann
 Dwayne
-;
-Monsters/Monster_maw
-Abbott
-Alwyne
-Blaccom
-Erwin
-Grisham
-Hoary
-Lashmer
-Nunatak
-Rex
-Serine
-;
+
