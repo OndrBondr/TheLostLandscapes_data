@@ -78,8 +78,8 @@ Monsters/Monster_claramel 35
 Monsters/Monster_sprinklate 15
 
 Monsters/Monster_jamboree_undof=Monsters/Monster_sprinklate+Monsters/Monster_fwog_undof 10
-Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_claramel 5
-Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_brasscuit 5
-Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_keytrus 5
-Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_thrumble 5
+Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_claramel 3
+Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_brasscuit 3
+Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_keytrus 3
+Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_thrumble_undof 3
 
