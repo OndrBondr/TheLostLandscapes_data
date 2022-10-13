@@ -1,4 +1,4 @@
-Monsters/Monster_fleechwurm_undof_awake
+Monsters/Monster_maw_young
 Abbott
 Alwyne
 Blaccom
