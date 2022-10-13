@@ -1,4 +1,15 @@
-
+Monsters/Monster_fleechwurm_undof
+Abbott
+Alwyne
+Blaccom
+Erwin
+Grisham
+Hoary
+Lashmer
+Nunatak
+Rex
+Serine
+;
 Monsters/Monster_likho_rare
 Likho-ad
 ;
