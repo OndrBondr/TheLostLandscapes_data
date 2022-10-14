@@ -60,4 +60,22 @@ CostOverwrite=200,diamonds
 HasDeadline=true
 Deadline=8/20/2022 12:00:00 AM
 BreedingOverwrite=Monsters/Monster_oaktopus_rare=Monsters/Monster_choral+Monsters/Monster_banno 4
+;
+ID=Monsters/Monster_banno_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=Calamity
+HasCostOvrwrite=true
+CostOverwrite=0,diamonds
+HasDeadline=true
+Deadline=10/16/2022 3:08:09 PM
+;
+ID=Monsters/Monster_varrow_rare
+MarketSortersID=monsters
+IsIslandSpecific=true
+Islands=Calamity
+HasCostOvrwrite=true
+CostOverwrite=0,diamonds
+HasDeadline=true
+Deadline=10/16/2022 3:08:09 PM
 
