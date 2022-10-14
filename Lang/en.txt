@@ -721,6 +721,7 @@ str_popup_knottmaker_fail=Your crafting failed! But items you used were converte
 str_popup_knottmaker_fail_items=Your crafting failed! Don't worry you get some of the items back!
 str_popup_knottmaker_fail_noitems=Your crafting failed! Unfortunately all of your items were lost.
 
+str_noitems=No Items
 
 btn_shop=Market
 btn_mailbox=Mailbox
