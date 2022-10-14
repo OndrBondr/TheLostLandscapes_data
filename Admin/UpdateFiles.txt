@@ -1,3 +1,5 @@
-pangoCalamity2
+calamityRareBannoAndChimbockleNewDesign
 
 monster_pango entity Monsters/Monster_pango
+knott_special entity Monsters/Knott_special
+monster_banno_rare entity Monsters/Monster_banno_rare
