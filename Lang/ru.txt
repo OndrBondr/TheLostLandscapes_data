@@ -2,12 +2,12 @@
 Monsters/Monster_maulch=Мульча
 Monsters/Monster_maulch_bio=Maulch bio
 Monsters/Monster_maulch_awake=Мульча
-Monsters/Monster_maulch_awake_bio=Maulch bio awakened
+Monsters/Monster_maulch_awake_bio=Maulch bio разбудить
 
-Monsters/Monster_spurrit=Духа
+Monsters/Monster_spurrit=Духов
 Monsters/Monster_spurrit_bio=Spurrit bio
 
-Monsters/Monster_spurrit_desert=Духа
+Monsters/Monster_spurrit_desert=Духов
 Monsters/Monster_spurrit_desert_bio=Spurrit bio but the one on the desert
 
 Monsters/Monster_toejammer=Палезатор
@@ -70,6 +70,9 @@ Monsters/Monster_varrow_rare_bio=What do you find when you place a needle inside
 
 Monsters/Monster_banno=Баннокер
 Monsters/Monster_banno_bio=Banno is a vocalist of the legendary Cancer Choir, for a long time he spent his time in the deep cold depths of the ocean. Sadly though, it was far too cold for his hot water-loving body! Instead of moving into a geyser of some sort, he decided to stay close to his friends, utilizing an endlessly boiling bucket to keep comfy. Whilst his boiling red abdomen may be concerning, there’s no need to worry- Banno states that it’s just his natural color showing after the cleaning of thousands of years of sea gunk.
+Monsters/Monster_banno_rare=Редкий Баннокер
+Monsters/Monster_banno_rare_bio=Редкий Баннокер был здесь (твёрк)
+
 Monsters/Monster_frondley=Пальмуг
 Monsters/Monster_frondley_bio=The Frondley is an ammmmmmmmmmazing specimen! Its gelatinous physique and toes bring to mind some similar monsters, but they have evolved separately from our lemon-colored companions. Their otherworldly and serene hums echo throughout islands, always making sure a Frondley's presence is known. Some monsters go as far as to record these hums to lure themselves to sleep. In other activities, Frondley enjoys maintaining their kelpy hairdos, while always striving to find the perfect amount of hair for their bulbous craniums.
 
@@ -109,7 +112,7 @@ Monsters/Monster_noggin_young_bio=Young Noggin bio
 Monsters/Monster_quibble_young=Юный Клавмный
 Monsters/Monster_quibble_young_bio=Young Quibble bio
 
-Monsters/Monster_clackula_young=Юный Цокула
+Monsters/Monster_clackula_young=Юная Цокула
 Monsters/Monster_clackula_young_bio=Young Clackula bio
 
 Monsters/Monster_clackula=Цокула
@@ -153,7 +156,7 @@ Monsters/Knott_10_bio=Bel'yawn Zirro bio
 Monsters/Knott_special=Крохорнет
 Monsters/Knott_special_bio=Крохорнет
 
-Monsters/Monster_handmond=Безобраз
+Monsters/Monster_handmond=Безъобраз
 Monsters/Monster_handmond_bio=Handmond bio
 
 Monsters/Monster_whimstlop=Свистель
@@ -245,10 +248,10 @@ Monsters/Monster_bone_bio=In a distant land, born of the tear of a dying star, a
 Monsters/Monster_olga=Осьмидудка
 Monsters/Monster_olga_bio=Olgaropipe bio
 
-Structures/Structure_breeding=Здание Разведения
+Structures/Structure_breeding=Здание Выведения
 Structures/Structure_breeding_bio=Breeding Structure bio
 
-Structures/Structure_breeding_city=Здание Разведения
+Structures/Structure_breeding_city=Здание Выведения
 Structures/Structure_breeding_city_bio=Breeding Structure bio
 
 Structures/Structure_bakery=Пекарня
@@ -298,16 +301,16 @@ Monsters/Monster_kanya_undof_bio=The ancient Kayna was long thought lost to an e
 Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
 Monsters/Monster_noggin_undof_bio=Noggins are basically musical rocks. Deeply in tune with the Earth, their simple rhythms echo an Island’s pulse. The sensation of reverberation produced by a Noggin motivates all other monsters.
 
-Monsters/Monster_fwog_undof=Fwog
+Monsters/Monster_fwog_undof=Лягашка
 Monsters/Monster_fwog_undof_bio=Emerging from its muddy birthplace, the Fwog sings passionately in the hope of attracting a companion. Its hypnotic call fills the air, stirring the most primal feelings of excitement in all Monsters.
 
-Monsters/Monster_thrumble_undof=Thrumble
+Monsters/Monster_thrumble_undof=Напевец
 Monsters/Monster_thrumble_undof_bio=Wide-mouthed and keen snackers, Thrumbles are prone to swallowing treats whole. Their elongated gullets can squash and stretch to provide said treats with ample time to be pulverized by the reverberations of this happy-go-lucky hummer's signature thrumming. When thrumming on an empty stomach, bubbling pockets of air can expand and prompt a sudden flurry of giggles!
 
 Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
 Monsters/Monster_phangler_undof_bio=Phanglers are destined for a life in the limelight! These Natural-born crooners live to perform, and their dulcet tones are frequently employees at all manner of shindigs. Don't get caught without live entertainment at your Anniversary Month party: book Phangler today!
 
-Monsters/Monster_stogg_undof=Stogg
+Monsters/Monster_stogg_undof=Стегобака
 Monsters/Monster_stogg_undof_bio=As avid rock collectors, Stoggs relish digging into the earth with their powerful forelegs to find shiny new minerals. Unfortunately, this absentminded monster also enjoys burying their treasure, often forgetting the location soon after.
 
 Monsters/Monster_gumtromp=Gumtromp
@@ -331,10 +334,10 @@ Monsters/Monster_gobstomper_bio=Jawbreaker bio
 Monsters/Monster_claramel=Claramel
 Monsters/Monster_claramel_bio=Claramel bio
 
-Monsters/Monster_sprinklate=Sprinklate
+Monsters/Monster_sprinklate=Иди жри. Приятного аппетита
 Monsters/Monster_sprinklate_bio=Cakehorn bio
 
-Monsters/Monster_jamboree_undof=Jam boree
+Monsters/Monster_jamboree_undof=Празднень
 Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
 
 
@@ -359,22 +362,22 @@ EM_path6_bio=These shavings off a Bihrrc tree have been left here for a while. S
 EM_path7=Дорожка из тёмно-зеленого пузырита
 EM_path7_bio=Over the long span of time since this path was last taken care of, the moss has grown all over, to the point where it’s hard to tell what color it ever originally was.
 
-Desert_path1=Desert path 1
+Desert_path1=Пустынная Дорожка 1
 Desert_path1_bio=Desert path
 
-Desert_path2=Desert path 2
+Desert_path2=Пустынная Дорожка 2
 Desert_path2_bio=Desert path
 
-Desert_path3=Desert path 3
+Desert_path3=Пустынная Дорожка 3
 Desert_path3_bio=Desert path
 
-Desert_path4=Desert path 4
+Desert_path4=Пустынная Дорожка 4
 Desert_path4_bio=Desert path
 
-Desert_path5=Desert path 5
+Desert_path5=Пустынная Дорожка 5
 Desert_path5_bio=Desert path
 
-Desert_path6=Desert path 6
+Desert_path6=Пустынная Дорожка 6
 Desert_path6_bio=Desert path
 
 
@@ -440,32 +443,32 @@ Decoration/Obstacle_placable_EM_6_bio=Bio
 ObstacleCommonRocks_bio=Removed rocks will be taken far away to wonderful new homes.
 ObstacleCommonTrees_bio=Don't worry; removed trees will be taken far away and gently replanted.
 
-Decoration/Obstacle_Candy_1=Small Rock. <ref>ObstacleCommonRocks_bio
+Decoration/Obstacle_Candy_1=Маленький Камень. <ref>ObstacleCommonRocks_bio
 Decoration/Obstacle_Candy_1_bio=It's a Small Rock. <ref>ObstacleCommonRocks_bio
-Decoration/Obstacle_Candy_2=Medium Rock
+Decoration/Obstacle_Candy_2=Средний Камень
 Decoration/Obstacle_Candy_2_bio=It's a Medium Rock. <ref>ObstacleCommonRocks_bio
-Decoration/Obstacle_Candy_3=Big Rock
+Decoration/Obstacle_Candy_3=Большой Камень
 Decoration/Obstacle_Candy_3_bio=It's a Big Rock. <ref>ObstacleCommonRocks_bio
-Decoration/Obstacle_Candy_4=Small Tree
+Decoration/Obstacle_Candy_4=Маленькое Дерево
 Decoration/Obstacle_Candy_4_bio=It's a Small Tree. <ref>ObstacleCommonTrees_bio
-Decoration/Obstacle_Candy_5=Medium Tree
+Decoration/Obstacle_Candy_5=Среднее Дерево
 Decoration/Obstacle_Candy_5_bio=It's a Medium Tree. <ref>ObstacleCommonTrees_bio
-Decoration/Obstacle_Candy_6=Big Tree
+Decoration/Obstacle_Candy_6=Большое Дерево
 Decoration/Obstacle_Candy_6_bio=It's a Big Tree. <ref>ObstacleCommonTrees_bio
 
 ObstaclePlacableCommon_bio=Remember how we said that trees and rocks that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's trees and rocks and your islands are their new homes! Recycling is awesome.
 
-Decoration/Obstacle_placable_Candy_1=Small Rock
+Decoration/Obstacle_placable_Candy_1=Маленький Камень
 Decoration/Obstacle_placable_Candy_1_bio=<ref>ObstaclePlacableCommon_bio
-Decoration/Obstacle_placable_Candy_2=Medium Rock
+Decoration/Obstacle_placable_Candy_2=Средний Камень
 Decoration/Obstacle_placable_Candy_2_bio=<ref>ObstaclePlacableCommon_bio
-Decoration/Obstacle_placable_Candy_3=Big Rock
+Decoration/Obstacle_placable_Candy_3=Большой Камень
 Decoration/Obstacle_placable_Candy_3_bio=<ref>ObstaclePlacableCommon_bio
-Decoration/Obstacle_placable_Candy_4=Small Tree
+Decoration/Obstacle_placable_Candy_4=Маленькое Дерево
 Decoration/Obstacle_placable_Candy_4_bio=<ref>ObstaclePlacableCommon_bio
-Decoration/Obstacle_placable_Candy_5=Medium Tree
+Decoration/Obstacle_placable_Candy_5=Среднее Дерево
 Decoration/Obstacle_placable_Candy_5_bio=<ref>ObstaclePlacableCommon_bio
-Decoration/Obstacle_placable_Candy_6=Big Tree
+Decoration/Obstacle_placable_Candy_6=Большое Дерево
 Decoration/Obstacle_placable_Candy_6_bio=<ref>ObstaclePlacableCommon_bio
 
 Decoration/Dog=Гончая
@@ -473,8 +476,8 @@ Decoration/Dog_bio=Это самый хороший мальчик в мире. 
 
 str_breeding=Вы вывели\n<color="green">ENTITY_NAME</color>\n Что бы вы хотели с ним сделать?
 str_lvl=Ур:
-str_lvlMax=Макс
-str_noEmpty=Оставьте пустым, чтобы поменять...
+str_lvlMax=Максимум
+str_noEmpty=Чтобы поменять, оставьте пустым...
 str_PlayerLvl=Уровень
 str_unlocked=Вы разблокировали:
 str_unlockedatLevel=Разблокируется на уровне:
@@ -490,7 +493,7 @@ food - <color=#F318D1>
 str_currency_coins=Монеты
 str_currency_diamonds=Бриллианты
 str_currency_food=Еда
-str_currency_stars=Звездность
+str_currency_stars=Звёздность
 
 
 str_limitedTime=Доступно в течение ограниченного времени
@@ -502,7 +505,7 @@ str_popup_speedUp=Вы уверены, что хотите ускорить пр
 str_popup_notEnough_diamonds=У вас недостаточно <color=#4EFFF5>бриллиантов.
 str_popup_notEnough_coins=У вас недостаточно <color="yellow">монет.
 str_popup_notEnough_food=У вас недостаточно <color=#F318D1>еды.
-str_popup_notEnough_stars=У вас недостаточно <color=#FFA400>звездностьи.
+str_popup_notEnough_stars=У вас недостаточно <color=#FFA400>звёздности.
 str_popup_sell=Вы уверены, что хотите продать это за <color="yellow"><amount> монет?
 str_popup_designer_cancel=Вы уверены, что хотите отменить все изменения, сделанные в режиме дизайнера?
 str_popup_designer_save1=Вы уверены, что хотите сохранить? Это будет стоить <color="yellow"><amount> монет.
@@ -512,14 +515,14 @@ str_popup_bakery_bake=Вы уверены, что хотите испечь <col
 str_popup_bakery_collectFirst=Сначала заберите свой предыдущий заказ.
 str_popup_breeding=Вы должны выбрать <color="green">двух</color> монстров с <color="green">уровнем 4</color> или выше.
 str_popup_breeding_repeat=Вы еще не выводили монстров. Сначала выведите кого-нибудь.
-str_popup_breeding_repeatNoMonster=Монстров, которых вы использовали для выведения, больше нет на острове..
-str_popup_shopLimit=Лимит для этого продукта превышен.
-str_popup_TimedNotReady=Эта здание до сих пор действует. Пожалуйста, подождите, пока его функция не будет завершена, или ускорьте ее.
+str_popup_breeding_repeatNoMonster=Монстров, которых вы использовали для выведения, больше нет на острове.
+str_popup_shopLimit=Лимит для этого предмет превышен.
+str_popup_TimedNotReady=Это здание до сих пор в действии. Пожалуйста, подождите, пока его функция не будет завершена, или ускорьте ее.
 str_teleport_entityNotOnThisIsland=Этот монстр не может быть помещен на <color="green"><islandName></color>.
-str_teleport_entityLevelNotEnough=Чтобы разместить этого монстра на <color="green"><islandName></color> его уровень должен быть <color="yellow"><level></color> или выше. Уровень вашего монстра <color="yellow"><monsterLevel></color>.\nВы всегда можете вернуть своего монстра обратно в <color="green">Летучий Город</color> и прокормить его до нужного уровня.
-str_teleport_unavailable=Цеппелин в настоящее время находится на <color="green"><islandName></color>. Сначала вы должны отправить его сюда.
-str_teleport_flying=В настоящее время Цеппелин летит на <color="green"><islandName></color>. Подождите, пока он не прибудет, или ускорьте его с помощью бриллиантов.
-str_teleport_unavailable_monster=Цеппелина в настоящее время нет на этом острове.
+str_teleport_entityLevelNotEnough=Чтобы разместить этого монстра на <color="green"><islandName></color> его уровень должен быть <color="yellow"><level></color> или выше. Уровень вашего монстра <color="yellow"><monsterLevel></color>.\nВы всегда можете вернуть своего монстра обратно в <color="green">Летучий Город</color> и докормить его до нужного уровня.
+str_teleport_unavailable=Дирижабль в настоящее время находится на <color="green"><islandName></color>. Сначала вы должны отправить его сюда.
+str_teleport_flying=В настоящее время Дирижабль летит на <color="green"><islandName></color>. Подождите, пока он не прибудет, или ускорьте его с помощью бриллиантов.
+str_teleport_unavailable_monster=Дирижабля в настоящее время нет на этом острове.
 str_popup_shopUnavailbable=<type> недоступны на этом острове.
 
 str_popup_islandComingSoon=Новые и интересные дополнения вскоре!
@@ -530,7 +533,7 @@ str_island_comingsoon=Скоро!
 str_island_City=Летучий город
 str_island_City_bio=Floating City bio
 
-str_island_EM=Вечнозеленое болото
+str_island_EM=Вечнозелёное болото
 str_island_EM_bio=Evergreen Marsh bio
 
 str_island_Organs=Терра Органов
@@ -545,7 +548,7 @@ str_island_Meduza_bio=M'Duzza's Crypt bio
 str_island_Desert=Пустыня Норамба
 str_island_Desert_bio=Noramba Desert bio
 
-str_island_Candy=Конфетный остров
+str_island_Candy=Остров Конфет
 str_island_Candy_bio=Candy Island bio
 
 str_stars_light=Ясный свет
@@ -553,10 +556,10 @@ str_stars_psychic=Спираль подсознания
 str_stars_bone=Костный крест
 str_stars_faerie=Причудные крылья 
 
-str_stars_water=Слезы океана
+str_stars_water=Слёзы океана
 str_stars_fire=Пылающее ядро
 str_stars_plant=Цветущая зелень
-str_stars_air=Дикие ветры
+str_stars_air=Дикие ветра
 str_stars_earth=Земляной обвал
 str_stars_cold=Мерзлый образ
 str_stars_crystal=Кристаллический посев
@@ -582,10 +585,10 @@ str_class_Ethereal=Этериальный
 str_class_Ethereal-r=Этериальный(редкий)
 
 
-str_teleporter=Дирижабль Симфони
+str_teleporter=Дирижабль Симфоний
 str_teleporter2=Дирижабль
-str_teleporter_target=Дирижабль прибудет на <color="green"><islandName></color> за <time>\nХотели б вы ускорить его за <color=#4EFFF5><amount> diamonds</color>?
-str_teleporter_target_map=Дирижабль прибудет к <color="green"><islandName></color> за <time>
+str_teleporter_target=Дирижабль прибудет на <color="green"><islandName></color> через <time>\nХотели бы вы ускорить его за <color=#4EFFF5><amount> бриллиантов</color>?
+str_teleporter_target_map=Дирижабль прибудет к <color="green"><islandName></color> через <time>
 str_teleporter_target_map_arrived=Дирижабль прибыл на <color="green"><islandName></color>.
 str_popup_teleporter_moveToTarget=Хотели бы вы отправится на <color="green"><islandName></color>?
 str_popup_teleporter_confirm_sending=Хотели бы вы отправить Дирижабль на <color="green"><islandName></color>?
@@ -633,7 +636,7 @@ btn_compose=Написать
 btn_breed=Вывести
 btn_speedup=Ускорить
 btn_map=Карта
-btn_bake=Печь
+btn_bake=Испечь
 btn_feed=Кормить
 btn_remove=Убрать
 btn_removeMany=Убрать несколько
@@ -641,14 +644,14 @@ btn_apply=Применить
 btn_repeat=Повторить
 btn_collect=Собрать
 btn_goals=Задания
-btn_collectAll=Собрать все
+btn_collectAll=Собрать всё
 btn_ok=Хорошо
 btn_prev=Предыдущий
 btn_next=Следующий
 btn_stars=Звездогляд
 btn_roll=Бросить кости \n<color=#FFA400>25 Звездности
 btn_book=Коллекция
-btn_ship=Zeppelin
+btn_ship=Дирижабль
 btn_unlock=Разблокировать
 btn_lock=Заблокировать
 btn_teleportSend=Отправить
