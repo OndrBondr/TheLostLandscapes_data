@@ -1,6 +1,9 @@
 ﻿------- 
 #--MONSTERS--#
 
+Monsters/Monster_banno_rare=Rare banno
+Monsters/Monster_banno_rare_bio=yeeeeeee
+
 Monsters/Monster_spurrit=Spurrit
 Monsters/Monster_spurrit_bio=Huzzah? HUZZAH! Este explorador intrépido, agora mais longe de casa do que nunca, está feliz em explorar este mundo estranho e vibrante.
 
