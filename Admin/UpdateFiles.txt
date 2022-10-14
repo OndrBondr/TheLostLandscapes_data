@@ -1,3 +1,3 @@
-pangoCalamity
+pangoCalamity2
 
 monster_pango entity Monsters/Monster_pango
